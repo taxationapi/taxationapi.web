@@ -13,7 +13,8 @@ namespace TaxationApi.Web.Controllers
             _taxationService = taxationService;
         }
 
-        public IActionResult Index()
+        [HttpGet]
+        public IActionResult GetAll()
         {
             return Ok("ok");
         }
