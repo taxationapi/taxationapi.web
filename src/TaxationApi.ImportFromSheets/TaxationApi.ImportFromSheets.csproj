@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\src\TaxationApi.Web\TaxationApi.Web.csproj" />
+    <ProjectReference Include="..\TaxationApi.Web\TaxationApi.Web.csproj" />
   </ItemGroup>
 
   <ItemGroup>
