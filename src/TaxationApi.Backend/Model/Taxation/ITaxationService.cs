@@ -9,6 +9,6 @@ namespace TaxationApi.Backend.Model.Taxation
 {
     public interface ITaxationService
     {
-        List<CountryData> GetTaxationData();
+        List<TaxationData> GetTaxationData();
     }
 }

@@ -18,10 +18,10 @@ namespace TaxationApi.Backend.Services
             
         }
 
-        public List<CountryData> GetTaxationData()
+        public List<TaxationData> GetTaxationData()
         {
             var database = Database.LoadData();
-            return database.Countries;
+            return database;
         }
     }
 }

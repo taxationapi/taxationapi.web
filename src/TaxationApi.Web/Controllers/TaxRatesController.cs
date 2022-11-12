@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Mapster;
+using Microsoft.AspNetCore.Mvc;
 using TaxationApi.Backend.Model.Taxation;
 using TaxationApi.Web.Model.TaxRates;
 
@@ -22,24 +23,28 @@ namespace TaxationApi.Web.Controllers
             var taxations = new TaxationOverviewViewModel();
             foreach (var datapoint in data)
             {
-                var entity = new TaxationOverViewEntityViewModel()
-                {
-                    Alpha2 = datapoint.Alpha2,
-                    Alpha3 = datapoint.Alpha3,
-                    Name = datapoint.Name
-                };
-
-                entity.CorporateTax = new TaxationOverViewEntityCorporateViewModel()
-                {
-                    LastUpdated = datapoint.corporatetaxlastupdate,
-                    Rate = datapoint.corporatetax
-                };
-
-                taxations.Taxations.Add(entity);
-
+                var adaptedData = datapoint.Adapt<TaxationOverViewEntityViewModel>();
+                taxations.Taxations.Add(adaptedData);
             }
 
             return Ok(taxations);
         }
+
+        [HttpGet("{alpha2}")]
+        public IActionResult GetByAlpha2(string alpha2)
+        {
+            var data = _taxationService.GetTaxationData().Where(x => x.Alpha2 == alpha2).ToList();
+
+            var taxations = new TaxationOverviewViewModel();
+            foreach (var datapoint in data)
+            {
+                var adaptedData = datapoint.Adapt<TaxationOverViewEntityViewModel>();
+                taxations.Taxations.Add(adaptedData);
+            }
+
+            return Ok(taxations.Taxations.FirstOrDefault());
+        }
+
+
     }
 }
