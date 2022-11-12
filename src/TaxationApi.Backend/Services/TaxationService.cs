@@ -12,16 +12,31 @@ namespace TaxationApi.Backend.Services
   
     public class TaxationService : ITaxationService
     {
-        
+        private List<TaxationData> _data;
+
         public TaxationService()
         {
-            
+            _data = Database.LoadData();
         }
 
-        public List<TaxationData> GetTaxationData()
+        public List<TaxationData> GetTaxationData(TaxationSpecification specification)
         {
-            var database = Database.LoadData();
-            return database;
+            var returnSet = _data.ToList();
+
+            if(!string.IsNullOrWhiteSpace(specification.Query))
+            {
+                returnSet = returnSet.Where(c => c.Name.Contains(specification.Query)).ToList();
+            }
+            if (specification.MaximumCorporateTax.HasValue)
+            {
+                returnSet = returnSet.Where(x => x.CorporateTax != null &&  x.CorporateTax.Rate <= specification.MaximumCorporateTax.Value).ToList();
+            }
+            if (specification.MaximumCapitalGainsTax.HasValue)
+            {
+                returnSet = returnSet.Where(x => x.CapitalGainsTax != null && x.CapitalGainsTax.Rate <= specification.MaximumCapitalGainsTax.Value).ToList();
+            }
+            
+            return returnSet;
         }
     }
 }

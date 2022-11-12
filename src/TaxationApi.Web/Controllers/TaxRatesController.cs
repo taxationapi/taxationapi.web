@@ -16,9 +16,10 @@ namespace TaxationApi.Web.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAll()
+        public IActionResult GetAll([FromQuery] GetTaxationDataRequest getRequest)
         {
-            var data = _taxationService.GetTaxationData();
+            var taxationSpec = getRequest.Adapt<TaxationSpecification>();
+            var data = _taxationService.GetTaxationData(taxationSpec);
 
             var taxations = new TaxationOverviewViewModel();
             foreach (var datapoint in data)
@@ -33,7 +34,7 @@ namespace TaxationApi.Web.Controllers
         [HttpGet("{alpha2}")]
         public IActionResult GetByAlpha2(string alpha2)
         {
-            var data = _taxationService.GetTaxationData().Where(x => x.Alpha2 == alpha2).ToList();
+            var data = _taxationService.GetTaxationData(new TaxationSpecification()).Where(x => x.Alpha2 == alpha2).ToList();
 
             var taxations = new TaxationOverviewViewModel();
             foreach (var datapoint in data)
