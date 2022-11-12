@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxationApi.Web", "TaxationApi.Web\TaxationApi.Web.csproj", "{44F537E7-ED48-4466-B6E6-DDA63EE499D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxationApi.Web", "src\TaxationApi.Web\TaxationApi.Web.csproj", "{44F537E7-ED48-4466-B6E6-DDA63EE499D8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxationApi.Backend", "TaxationApi.Backend\TaxationApi.Backend.csproj", "{5ADE9F09-030E-4C74-962D-2F6777291234}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxationApi.Backend", "src\TaxationApi.Backend\TaxationApi.Backend.csproj", "{5ADE9F09-030E-4C74-962D-2F6777291234}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
