@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TaxationApi.Backend.Model.Taxation;
+using TaxationApi.Web.Model.TaxRates;
 
 namespace TaxationApi.Web.Controllers
 {
@@ -16,7 +17,29 @@ namespace TaxationApi.Web.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            return Ok("ok");
+            var data = _taxationService.GetTaxationData();
+
+            var taxations = new TaxationOverviewViewModel();
+            foreach (var datapoint in data)
+            {
+                var entity = new TaxationOverViewEntityViewModel()
+                {
+                    Alpha2 = datapoint.Alpha2,
+                    Alpha3 = datapoint.Alpha3,
+                    Name = datapoint.Name
+                };
+
+                entity.CorporateTax = new TaxationOverViewEntityCorporateViewModel()
+                {
+                    LastUpdated = datapoint.corporatetaxlastupdate,
+                    Rate = datapoint.corporatetax
+                };
+
+                taxations.Taxations.Add(entity);
+
+            }
+
+            return Ok(taxations);
         }
     }
 }

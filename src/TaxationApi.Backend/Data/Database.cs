@@ -13,8 +13,8 @@ namespace TaxationApi.Backend.Data
         {
             var file = System.IO.File.ReadAllText("country_data.json");
 
-            var data = JsonConvert.DeserializeObject<DataModel>(file);
-            return data;
+            var data = JsonConvert.DeserializeObject<List<CountryData>>(file);
+            return new DataModel(){Countries = data };
         }
     }
 }
