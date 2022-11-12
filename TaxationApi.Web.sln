@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxationApi.Web", "src\Taxa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxationApi.Backend", "src\TaxationApi.Backend\TaxationApi.Backend.csproj", "{5ADE9F09-030E-4C74-962D-2F6777291234}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxationApi.ImportFromSheets", "TaxationApi.ImportFromSheets\TaxationApi.ImportFromSheets.csproj", "{4D26965A-ED05-4EF2-A07F-15329C4F0FCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxationApi.ImportFromSheets", "src\TaxationApi.ImportFromSheets\TaxationApi.ImportFromSheets.csproj", "{4D26965A-ED05-4EF2-A07F-15329C4F0FCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
