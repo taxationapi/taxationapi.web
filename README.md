@@ -14,6 +14,8 @@ Down the line, I will require registering a user with an email to get an API key
 
 [Project name] - [Contact person] - [Contact email]
 
+Example useragent string: Taxation project - Lars Holdgaard - mcoroklo@gmail.com
+
 If not, the application will stop working when I add the token authentication.
 
 # How to run projects 
