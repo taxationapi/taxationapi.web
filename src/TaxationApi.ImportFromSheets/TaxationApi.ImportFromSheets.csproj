@@ -16,10 +16,16 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="InputFiles\Copy of Taxation - Capital gains tax %28private%29.csv">
+    <None Update="InputFiles\Taxation - Capital gains tax %28private%29.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="InputFiles\Copy of Taxation - Corporate tax.csv">
+    <None Update="InputFiles\Taxation - Corporate tax.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="InputFiles\Taxation - Income tax.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="InputFiles\Taxation - Lumpsump tax.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>

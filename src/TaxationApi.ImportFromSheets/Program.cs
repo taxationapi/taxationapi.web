@@ -71,13 +71,17 @@ foreach (var file in files)
             {
                 if (DoesPropertyExist(record, "Lumpsump_amount"))
                 {
-                    var rateStr = record.Corporate_tax.Replace(System.Globalization.CultureInfo.CurrentCulture.NumberFormat.PercentSymbol, "");
-                    country.LumpsumpTax = new TaxationOverViewEntityLumpSumpViewModel()
+                    decimal amount = -1;
+                    decimal.TryParse(record.Lumpsump_amount.ToString(), out amount);
+
+                    if (amount > 0)
                     {
-                        Amount = record.Lumpsump_amount,
-                        LastUpdated = record.Lumpsump_dateupdated,
-                        Rate = rateStr ?? 0.0m
-                    };
+                        country.LumpsumpTax = new TaxationOverViewEntityLumpSumpViewModel()
+                        {
+                            Amount = amount,
+                            LastUpdated = DateTime.Now
+                        };
+                    }
                 }
             }
         }

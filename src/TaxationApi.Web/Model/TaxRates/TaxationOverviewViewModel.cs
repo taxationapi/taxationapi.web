@@ -36,8 +36,14 @@
     public class TaxationOverViewEntityLumpSumpViewModel
     {
         public decimal Amount { get; set; }
+        public string Currency { get; set; }
         public decimal? Rate { get; set; }
         public DateTime LastUpdated { get; set; }
+
+        public TaxationOverViewEntityLumpSumpViewModel()
+        {
+            Rate = 0;
+        }
 
     }
 

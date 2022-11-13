@@ -35,7 +35,34 @@ namespace TaxationApi.Backend.Services
             {
                 returnSet = returnSet.Where(x => x.CapitalGainsTax != null && x.CapitalGainsTax.Rate <= specification.MaximumCapitalGainsTax.Value).ToList();
             }
-            
+            if (specification.MaximumIncomeTax.HasValue)
+            {
+                returnSet = returnSet.Where(x => x.IncomeTax != null && x.IncomeTax.Rate <= specification.MaximumIncomeTax.Value).ToList();
+            }
+            if (specification.MinimumCorporateTax.HasValue)
+            {
+                returnSet = returnSet.Where(x => x.CorporateTax != null && x.CorporateTax.Rate >= specification.MinimumCorporateTax.Value).ToList();
+            }
+            if (specification.MinimumCapitalGainsTax.HasValue)
+            {
+                returnSet = returnSet.Where(x => x.CorporateTax != null && x.CorporateTax.Rate >= specification.MinimumCapitalGainsTax.Value).ToList();
+            }
+            if (specification.MinimumIncomeTax.HasValue)
+            {
+                returnSet = returnSet.Where(x => x.IncomeTax != null && x.CorporateTax.Rate >= specification.MinimumIncomeTax.Value).ToList();
+            }
+
+            if (specification.LumpsumpTaxPossible.HasValue)
+            {
+                if (specification.LumpsumpTaxPossible.Value)
+                {
+                    returnSet = returnSet.Where(x => x.LumpsumpTax != null).ToList();
+                }
+                else
+                {
+                    returnSet = returnSet.Where(x => x.LumpsumpTax == null).ToList();
+                }
+            }
             return returnSet;
         }
     }
