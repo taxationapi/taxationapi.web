@@ -74,7 +74,7 @@ foreach (var file in files)
     }
 }
 
-
+model.Taxations = model.Taxations.OrderBy(c => c.Name).ToList();
 var dataToStore = JsonConvert.SerializeObject(model);
 File.WriteAllText(outputpath, dataToStore);
 

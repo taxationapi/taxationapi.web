@@ -1,1 +1,2021 @@
-{"Taxations":[{"Name":"Afghanistan","Alpha2":"AF","Alpha3":"AFG","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6542568+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Albania","Alpha2":"AL","Alpha3":"ALB","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6543608+04:00"},"CapitalGainsTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6431183+04:00"},"IncomeTax":null},{"Name":"Algeria","Alpha2":"DZ","Alpha3":"DZA","CorporateTax":{"Rate":26.00,"LastUpdated":"2022-11-12T23:13:05.6543819+04:00"},"CapitalGainsTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6447477+04:00"},"IncomeTax":null},{"Name":"American Samoa","Alpha2":"AS","Alpha3":"ASM","CorporateTax":{"Rate":27.00,"LastUpdated":"2022-11-12T23:13:05.6543937+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Andorra","Alpha2":"AD","Alpha3":"AND","CorporateTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.6544052+04:00"},"CapitalGainsTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.6447778+04:00"},"IncomeTax":null},{"Name":"Angola","Alpha2":"AO","Alpha3":"AGO","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6544205+04:00"},"CapitalGainsTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.644809+04:00"},"IncomeTax":null},{"Name":"Anguilla","Alpha2":"AI","Alpha3":"AIA","CorporateTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.6544327+04:00"},"CapitalGainsTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.6448249+04:00"},"IncomeTax":null},{"Name":"Argentina","Alpha2":"AR","Alpha3":"ARG","CorporateTax":{"Rate":35.00,"LastUpdated":"2022-11-12T23:13:05.6544461+04:00"},"CapitalGainsTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6448392+04:00"},"IncomeTax":null},{"Name":"Armenia","Alpha2":"AM","Alpha3":"ARM","CorporateTax":{"Rate":18.00,"LastUpdated":"2022-11-12T23:13:05.6544623+04:00"},"CapitalGainsTax":{"Rate":18.0,"LastUpdated":"2022-11-12T23:13:05.644856+04:00"},"IncomeTax":null},{"Name":"Australia","Alpha2":"AU","Alpha3":"AUS","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6544763+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Austria","Alpha2":"AT","Alpha3":"AUT","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6544879+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Azerbaijan","Alpha2":"AZ","Alpha3":"AZE","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6545014+04:00"},"CapitalGainsTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6449001+04:00"},"IncomeTax":null},{"Name":"Bahamas","Alpha2":"BS","Alpha3":"BHS","CorporateTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.6545131+04:00"},"CapitalGainsTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.644913+04:00"},"IncomeTax":null},{"Name":"Bahrain","Alpha2":"BH","Alpha3":"BHR","CorporateTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.6545247+04:00"},"CapitalGainsTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.6449295+04:00"},"IncomeTax":null},{"Name":"Bangladesh","Alpha2":"BD","Alpha3":"BGD","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6545393+04:00"},"CapitalGainsTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6449427+04:00"},"IncomeTax":null},{"Name":"Barbados","Alpha2":"BB","Alpha3":"BRB","CorporateTax":{"Rate":5.50,"LastUpdated":"2022-11-12T23:13:05.6545533+04:00"},"CapitalGainsTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.6449555+04:00"},"IncomeTax":null},{"Name":"Belarus","Alpha2":"BY","Alpha3":"BLR","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Belgium","Alpha2":"BE","Alpha3":"BEL","CorporateTax":{"Rate":25.0,"LastUpdated":"2022-11-12T23:13:05.654579+04:00"},"CapitalGainsTax":{"Rate":16.50,"LastUpdated":"2022-11-12T23:13:05.644986+04:00"},"IncomeTax":null},{"Name":"Belize","Alpha2":"BZ","Alpha3":"BLZ","CorporateTax":{"Rate":1.75,"LastUpdated":"2022-11-12T23:13:05.6545922+04:00"},"CapitalGainsTax":{"Rate":0.0,"LastUpdated":"2022-11-12T23:13:05.645002+04:00"},"IncomeTax":null},{"Name":"Benin","Alpha2":"BJ","Alpha3":"BEN","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Bermuda","Alpha2":"BM","Alpha3":"BMU","CorporateTax":{"Rate":7.00,"LastUpdated":"2022-11-12T23:13:05.6546191+04:00"},"CapitalGainsTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.6450294+04:00"},"IncomeTax":null},{"Name":"Bhutan","Alpha2":"BT","Alpha3":"BTN","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6546318+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Bolivia","Alpha2":"BO","Alpha3":"BOL","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6546468+04:00"},"CapitalGainsTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6450602+04:00"},"IncomeTax":null},{"Name":"Bosnia and Herzegovina","Alpha2":"BA","Alpha3":"BIH","CorporateTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.65466+04:00"},"CapitalGainsTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.6450767+04:00"},"IncomeTax":null},{"Name":"Botswana","Alpha2":"BW","Alpha3":"BWA","CorporateTax":{"Rate":22.00,"LastUpdated":"2022-11-12T23:13:05.6546773+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Brazil","Alpha2":"BR","Alpha3":"BRA","CorporateTax":{"Rate":34.00,"LastUpdated":"2022-11-12T23:13:05.6546924+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Brunei Darussalam","Alpha2":"BN","Alpha3":"BRN","CorporateTax":{"Rate":18.50,"LastUpdated":"2022-11-12T23:13:05.6547095+04:00"},"CapitalGainsTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.6451252+04:00"},"IncomeTax":null},{"Name":"Bulgaria","Alpha2":"BG","Alpha3":"BGR","CorporateTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.654723+04:00"},"CapitalGainsTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.6451386+04:00"},"IncomeTax":null},{"Name":"Burkina Faso","Alpha2":"BF","Alpha3":"BFA","CorporateTax":{"Rate":27.50,"LastUpdated":"2022-11-12T23:13:05.6547359+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Burundi","Alpha2":"BI","Alpha3":"BDI","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6547517+04:00"},"CapitalGainsTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6451707+04:00"},"IncomeTax":null},{"Name":"Cambodia","Alpha2":"KH","Alpha3":"KHM","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6547659+04:00"},"CapitalGainsTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6451868+04:00"},"IncomeTax":null},{"Name":"Cameroon","Alpha2":"CM","Alpha3":"CMR","CorporateTax":{"Rate":33.00,"LastUpdated":"2022-11-12T23:13:05.654798+04:00"},"CapitalGainsTax":{"Rate":16.50,"LastUpdated":"2022-11-12T23:13:05.6451999+04:00"},"IncomeTax":null},{"Name":"Canada","Alpha2":"CA","Alpha3":"CAN","CorporateTax":{"Rate":38.00,"LastUpdated":"2022-11-12T23:13:05.6548137+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Central African Republic","Alpha2":"CF","Alpha3":"CAF","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6548297+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Chad","Alpha2":"TD","Alpha3":"TCD","CorporateTax":{"Rate":35.00,"LastUpdated":"2022-11-12T23:13:05.6548426+04:00"},"CapitalGainsTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6452521+04:00"},"IncomeTax":null},{"Name":"Chile","Alpha2":"CL","Alpha3":"CHL","CorporateTax":{"Rate":27.00,"LastUpdated":"2022-11-12T23:13:05.6548579+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"China","Alpha2":"CN","Alpha3":"CHN","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.654871+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Colombia","Alpha2":"CO","Alpha3":"COL","CorporateTax":{"Rate":35.00,"LastUpdated":"2022-11-12T23:13:05.6548877+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Congo","Alpha2":"CG","Alpha3":"COG","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6549008+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Costa Rica","Alpha2":"CR","Alpha3":"CRI","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6549196+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Côte dIvoire","Alpha2":"CI","Alpha3":"CIV","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.654933+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Croatia","Alpha2":"HR","Alpha3":"HRV","CorporateTax":{"Rate":18.00,"LastUpdated":"2022-11-12T23:13:05.6549507+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Cuba","Alpha2":"CU","Alpha3":"CUB","CorporateTax":{"Rate":35.00,"LastUpdated":"2022-11-12T23:13:05.6549652+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Cyprus","Alpha2":"CY","Alpha3":"CYP","CorporateTax":{"Rate":12.50,"LastUpdated":"2022-11-12T23:13:05.6549816+04:00"},"CapitalGainsTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.645445+04:00"},"IncomeTax":null},{"Name":"Czechia","Alpha2":"CZ","Alpha3":"CZE","CorporateTax":{"Rate":19.00,"LastUpdated":"2022-11-12T23:13:05.6549972+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Denmark","Alpha2":"DK","Alpha3":"DNK","CorporateTax":{"Rate":22.00,"LastUpdated":"2022-11-12T23:13:05.6550112+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Djibouti","Alpha2":"DJ","Alpha3":"DJI","CorporateTax":null,"CapitalGainsTax":{"Rate":5.00,"LastUpdated":"2022-11-12T23:13:05.6454924+04:00"},"IncomeTax":null},{"Name":"Dominica","Alpha2":"DM","Alpha3":"DMA","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6550405+04:00"},"CapitalGainsTax":{"Rate":0.00,"LastUpdated":"2022-11-12T23:13:05.6455099+04:00"},"IncomeTax":null},{"Name":"Dominican Republic","Alpha2":"DO","Alpha3":"DOM","CorporateTax":{"Rate":27.00,"LastUpdated":"2022-11-12T23:13:05.6550687+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Ecuador","Alpha2":"EC","Alpha3":"ECU","CorporateTax":{"Rate":28.00,"LastUpdated":"2022-11-12T23:13:05.6551012+04:00"},"CapitalGainsTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.6455435+04:00"},"IncomeTax":null},{"Name":"Egypt","Alpha2":"EG","Alpha3":"EGY","CorporateTax":{"Rate":22.50,"LastUpdated":"2022-11-12T23:13:05.6551243+04:00"},"CapitalGainsTax":{"Rate":22.50,"LastUpdated":"2022-11-12T23:13:05.6455609+04:00"},"IncomeTax":null},{"Name":"El Salvador","Alpha2":"SV","Alpha3":"SLV","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6551431+04:00"},"CapitalGainsTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.6455761+04:00"},"IncomeTax":null},{"Name":"Equatorial Guinea","Alpha2":"GQ","Alpha3":"GNQ","CorporateTax":{"Rate":35.00,"LastUpdated":"2022-11-12T23:13:05.6551574+04:00"},"CapitalGainsTax":{"Rate":35.00,"LastUpdated":"2022-11-12T23:13:05.6455937+04:00"},"IncomeTax":null},{"Name":"Eritrea","Alpha2":"ER","Alpha3":"ERI","CorporateTax":{"Rate":34.00,"LastUpdated":"2022-11-12T23:13:05.6551738+04:00"},"CapitalGainsTax":{"Rate":34.00,"LastUpdated":"2022-11-12T23:13:05.6456095+04:00"},"IncomeTax":null},{"Name":"Estonia","Alpha2":"EE","Alpha3":"EST","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6551879+04:00"},"CapitalGainsTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6456671+04:00"},"IncomeTax":null},{"Name":"Ethiopia","Alpha2":"ET","Alpha3":"ETH","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6552072+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Faroe Islands","Alpha2":"FO","Alpha3":"FRO","CorporateTax":{"Rate":18.00,"LastUpdated":"2022-11-12T23:13:05.6552239+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Fiji","Alpha2":"FJ","Alpha3":"FJI","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6552394+04:00"},"CapitalGainsTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.6457238+04:00"},"IncomeTax":null},{"Name":"Finland","Alpha2":"FI","Alpha3":"FIN","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6552561+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"France","Alpha2":"FR","Alpha3":"FRA","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6552738+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Gabon","Alpha2":"GA","Alpha3":"GAB","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6552883+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Gambia","Alpha2":"GM","Alpha3":"GMB","CorporateTax":{"Rate":27.00,"LastUpdated":"2022-11-12T23:13:05.6553054+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Georgia","Alpha2":"GE","Alpha3":"GEO","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6553202+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Germany","Alpha2":"DE","Alpha3":"DEU","CorporateTax":{"Rate":15.83,"LastUpdated":"2022-11-12T23:13:05.6553373+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Ghana","Alpha2":"GH","Alpha3":"GHA","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6553566+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Gibraltar","Alpha2":"GI","Alpha3":"GIB","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Greece","Alpha2":"GR","Alpha3":"GRC","CorporateTax":{"Rate":22.00,"LastUpdated":"2022-11-12T23:13:05.6553896+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Greenland","Alpha2":"GL","Alpha3":"GRL","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.655409+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Grenada","Alpha2":"GD","Alpha3":"GRD","CorporateTax":{"Rate":12.50,"LastUpdated":"2022-11-12T23:13:05.6554244+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Guam","Alpha2":"GU","Alpha3":"GUM","CorporateTax":{"Rate":21.00,"LastUpdated":"2022-11-12T23:13:05.6554436+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Guatemala","Alpha2":"GT","Alpha3":"GTM","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6554624+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Guinea","Alpha2":"GN","Alpha3":"GIN","CorporateTax":{"Rate":35.00,"LastUpdated":"2022-11-12T23:13:05.6554797+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Guinea-Bissau","Alpha2":"GW","Alpha3":"GNB","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6554954+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Guyana","Alpha2":"GY","Alpha3":"GUY","CorporateTax":{"Rate":45.00,"LastUpdated":"2022-11-12T23:13:05.6555139+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Haiti","Alpha2":"HT","Alpha3":"HTI","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6555315+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Honduras","Alpha2":"HN","Alpha3":"HND","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6555471+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Hong Kong","Alpha2":"HK","Alpha3":"HKG","CorporateTax":{"Rate":16.50,"LastUpdated":"2022-11-12T23:13:05.655566+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Hungary","Alpha2":"HU","Alpha3":"HUN","CorporateTax":{"Rate":9.00,"LastUpdated":"2022-11-12T23:13:05.6555839+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Iceland","Alpha2":"IS","Alpha3":"ISL","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6556046+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"India","Alpha2":"IN","Alpha3":"IND","CorporateTax":{"Rate":43.68,"LastUpdated":"2022-11-12T23:13:05.6556223+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Indonesia","Alpha2":"ID","Alpha3":"IDN","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.655642+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Iran","Alpha2":"IR","Alpha3":"IRN","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6556603+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Iraq","Alpha2":"IQ","Alpha3":"IRQ","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6556789+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Ireland","Alpha2":"IE","Alpha3":"IRL","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6556964+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Israel","Alpha2":"IL","Alpha3":"ISR","CorporateTax":{"Rate":23.00,"LastUpdated":"2022-11-12T23:13:05.6557151+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Italy","Alpha2":"IT","Alpha3":"ITA","CorporateTax":{"Rate":24.00,"LastUpdated":"2022-11-12T23:13:05.6557344+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Jamaica","Alpha2":"JM","Alpha3":"JAM","CorporateTax":{"Rate":33.00,"LastUpdated":"2022-11-12T23:13:05.6557544+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Japan","Alpha2":"JP","Alpha3":"JPN","CorporateTax":{"Rate":30.62,"LastUpdated":"2022-11-12T23:13:05.6557733+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Jordan","Alpha2":"JO","Alpha3":"JOR","CorporateTax":{"Rate":35.00,"LastUpdated":"2022-11-12T23:13:05.6557941+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Kazakhstan","Alpha2":"KZ","Alpha3":"KAZ","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6558165+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Kenya","Alpha2":"KE","Alpha3":"KEN","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6558367+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"South Korea","Alpha2":"KR","Alpha3":"KOR","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6558567+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Kuwait","Alpha2":"KW","Alpha3":"KWT","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6558758+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Kyrgyzstan","Alpha2":"KG","Alpha3":"KGZ","CorporateTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.6558931+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Latvia","Alpha2":"LV","Alpha3":"LVA","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6559137+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Lebanon","Alpha2":"LB","Alpha3":"LBN","CorporateTax":{"Rate":17.00,"LastUpdated":"2022-11-12T23:13:05.6559336+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Liberia","Alpha2":"LR","Alpha3":"LBR","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.655953+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Libya","Alpha2":"LY","Alpha3":"LBY","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6559745+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Liechtenstein","Alpha2":"LI","Alpha3":"LIE","CorporateTax":{"Rate":12.50,"LastUpdated":"2022-11-12T23:13:05.6559954+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Lithuania","Alpha2":"LT","Alpha3":"LTU","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6560387+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Luxembourg","Alpha2":"LU","Alpha3":"LUX","CorporateTax":{"Rate":24.94,"LastUpdated":"2022-11-12T23:13:05.6560579+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Macao","Alpha2":"MO","Alpha3":"MAC","CorporateTax":{"Rate":12.00,"LastUpdated":"2022-11-12T23:13:05.6560787+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Macedonia","Alpha2":"MK","Alpha3":"MKD","CorporateTax":{"Rate":10.00,"LastUpdated":"2022-11-12T23:13:05.656099+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Madagascar","Alpha2":"MG","Alpha3":"MDG","CorporateTax":{"Rate":20.00,"LastUpdated":"2022-11-12T23:13:05.6561194+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Malaysia","Alpha2":"MY","Alpha3":"MYS","CorporateTax":{"Rate":24.00,"LastUpdated":"2022-11-12T23:13:05.6561402+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Maldives","Alpha2":"MV","Alpha3":"MDV","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6561618+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Mali","Alpha2":"ML","Alpha3":"MLI","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.656184+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Malta","Alpha2":"MT","Alpha3":"MLT","CorporateTax":{"Rate":35.00,"LastUpdated":"2022-11-12T23:13:05.6562056+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Mauritius","Alpha2":"MU","Alpha3":"MUS","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6562276+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Mexico","Alpha2":"MX","Alpha3":"MEX","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.656248+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Moldova","Alpha2":"MD","Alpha3":"MDA","CorporateTax":{"Rate":12.00,"LastUpdated":"2022-11-12T23:13:05.6562698+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Monaco","Alpha2":"MC","Alpha3":"MCO","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6562881+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Mongolia","Alpha2":"MN","Alpha3":"MNG","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6563096+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Montenegro","Alpha2":"ME","Alpha3":"MNE","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6563329+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Montserrat","Alpha2":"MS","Alpha3":"MSR","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Morocco","Alpha2":"MA","Alpha3":"MAR","CorporateTax":{"Rate":31.00,"LastUpdated":"2022-11-12T23:13:05.6563765+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Mozambique","Alpha2":"MZ","Alpha3":"MOZ","CorporateTax":{"Rate":32.00,"LastUpdated":"2022-11-12T23:13:05.6563991+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Myanmar","Alpha2":"MM","Alpha3":"MMR","CorporateTax":{"Rate":22.00,"LastUpdated":"2022-11-12T23:13:05.6564223+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Namibia","Alpha2":"NA","Alpha3":"NAM","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6564434+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Nepal","Alpha2":"NP","Alpha3":"NPL","CorporateTax":{"Rate":25.00,"LastUpdated":"2022-11-12T23:13:05.6564645+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Netherlands","Alpha2":"NL","Alpha3":"NLD","CorporateTax":{"Rate":25.80,"LastUpdated":"2022-11-12T23:13:05.6564865+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"New Zealand","Alpha2":"NZ","Alpha3":"NZL","CorporateTax":{"Rate":28.00,"LastUpdated":"2022-11-12T23:13:05.6565079+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Nicaragua","Alpha2":"NI","Alpha3":"NIC","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6565293+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Niger","Alpha2":"NE","Alpha3":"NER","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6565505+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Nigeria","Alpha2":"NG","Alpha3":"NGA","CorporateTax":{"Rate":30.00,"LastUpdated":"2022-11-12T23:13:05.6565742+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Norway","Alpha2":"NO","Alpha3":"NOR","CorporateTax":{"Rate":22.00,"LastUpdated":"2022-11-12T23:13:05.6565974+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Oman","Alpha2":"OM","Alpha3":"OMN","CorporateTax":{"Rate":15.00,"LastUpdated":"2022-11-12T23:13:05.6566192+04:00"},"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Pakistan","Alpha2":"PK","Alpha3":"PAK","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Palau","Alpha2":"PW","Alpha3":"PLW","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Palestine","Alpha2":"PS","Alpha3":"PSE","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Panama","Alpha2":"PA","Alpha3":"PAN","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Papua New Guinea","Alpha2":"PG","Alpha3":"PNG","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Paraguay","Alpha2":"PY","Alpha3":"PRY","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Peru","Alpha2":"PE","Alpha3":"PER","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Philippines","Alpha2":"PH","Alpha3":"PHL","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Poland","Alpha2":"PL","Alpha3":"POL","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Portugal","Alpha2":"PT","Alpha3":"PRT","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Puerto Rico","Alpha2":"PR","Alpha3":"PRI","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Qatar","Alpha2":"QA","Alpha3":"QAT","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Romania","Alpha2":"RO","Alpha3":"ROU","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Russia","Alpha2":"RU","Alpha3":"RUS","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Rwanda","Alpha2":"RW","Alpha3":"RWA","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"San Marino","Alpha2":"SM","Alpha3":"SMR","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Saudi Arabia","Alpha2":"SA","Alpha3":"SAU","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Senegal","Alpha2":"SN","Alpha3":"SEN","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Serbia","Alpha2":"RS","Alpha3":"SRB","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Seychelles","Alpha2":"SC","Alpha3":"SYC","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Sierra Leone","Alpha2":"SL","Alpha3":"SLE","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Singapore","Alpha2":"SG","Alpha3":"SGP","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Slovakia","Alpha2":"SK","Alpha3":"SVK","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Slovenia","Alpha2":"SI","Alpha3":"SVN","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Somalia","Alpha2":"SO","Alpha3":"SOM","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"South Africa","Alpha2":"ZA","Alpha3":"ZAF","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"South Georgia","Alpha2":"GS","Alpha3":"SGS","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"South Sudan","Alpha2":"SS","Alpha3":"SSD","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Spain","Alpha2":"ES","Alpha3":"ESP","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Sri Lanka","Alpha2":"LK","Alpha3":"LKA","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Sudan","Alpha2":"SD","Alpha3":"SDN","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Svalbard","Alpha2":"SJ","Alpha3":"SJM","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Sweden","Alpha2":"SE","Alpha3":"SWE","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Switzerland","Alpha2":"CH","Alpha3":"CHE","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Taiwan","Alpha2":"TW","Alpha3":"TWN","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Tajikistan","Alpha2":"TJ","Alpha3":"TJK","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Tanzania","Alpha2":"TZ","Alpha3":"TZA","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Thailand","Alpha2":"TH","Alpha3":"THA","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Togo","Alpha2":"TG","Alpha3":"TGO","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Tonga","Alpha2":"TO","Alpha3":"TON","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Trinidad and Tobago","Alpha2":"TT","Alpha3":"TTO","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Tunisia","Alpha2":"TN","Alpha3":"TUN","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Turkey","Alpha2":"TR","Alpha3":"TUR","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Turkmenistan","Alpha2":"TM","Alpha3":"TKM","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Uganda","Alpha2":"UG","Alpha3":"UGA","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Ukraine","Alpha2":"UA","Alpha3":"UKR","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"United Arab Emirates","Alpha2":"AE","Alpha3":"ARE","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"United Kingdom","Alpha2":"GB","Alpha3":"GBR","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"United States","Alpha2":"US","Alpha3":"USA","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Uruguay","Alpha2":"UY","Alpha3":"URY","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Uzbekistan","Alpha2":"UZ","Alpha3":"UZB","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Venezuela","Alpha2":"VE","Alpha3":"VEN","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Vietnam","Alpha2":"VN","Alpha3":"VNM","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Yemen","Alpha2":"YE","Alpha3":"YEM","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Zambia","Alpha2":"ZM","Alpha3":"ZMB","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Zimbabwe","Alpha2":"ZW","Alpha3":"ZWE","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Saint Vincent and the Grenadines","Alpha2":"VC","Alpha3":"VCT","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Samoa","Alpha2":"WS","Alpha3":"WSM","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Sao Tome and Principe","Alpha2":"ST","Alpha3":"STP","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Sint Maarteen","Alpha2":"SX","Alpha3":"SXM","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Solomon Islands","Alpha2":"SB","Alpha3":"SLB","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Suriname","Alpha2":"SR","Alpha3":"SUR","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Syria","Alpha2":"SY","Alpha3":"SYR","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Timor-Leste","Alpha2":"TL","Alpha3":"TLS","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Tokelau","Alpha2":"TK","Alpha3":"TKL","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Tuvalu","Alpha2":"TV","Alpha3":"TUV","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null},{"Name":"Vanuatu","Alpha2":"VU","Alpha3":"VUT","CorporateTax":null,"CapitalGainsTax":null,"IncomeTax":null}]}
+{
+  "Taxations": [
+    {
+      "Name": "Afghanistan",
+      "Alpha2": "AF",
+      "Alpha3": "AFG",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6542568+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Albania",
+      "Alpha2": "AL",
+      "Alpha3": "ALB",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6543608+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6431183+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Algeria",
+      "Alpha2": "DZ",
+      "Alpha3": "DZA",
+      "CorporateTax": {
+        "Rate": 26.00,
+        "LastUpdated": "2022-11-12T23:13:05.6543819+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6447477+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "American Samoa",
+      "Alpha2": "AS",
+      "Alpha3": "ASM",
+      "CorporateTax": {
+        "Rate": 27.00,
+        "LastUpdated": "2022-11-12T23:13:05.6543937+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Andorra",
+      "Alpha2": "AD",
+      "Alpha3": "AND",
+      "CorporateTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.6544052+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.6447778+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Angola",
+      "Alpha2": "AO",
+      "Alpha3": "AGO",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6544205+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.644809+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Anguilla",
+      "Alpha2": "AI",
+      "Alpha3": "AIA",
+      "CorporateTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.6544327+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.6448249+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Argentina",
+      "Alpha2": "AR",
+      "Alpha3": "ARG",
+      "CorporateTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-12T23:13:05.6544461+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6448392+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Armenia",
+      "Alpha2": "AM",
+      "Alpha3": "ARM",
+      "CorporateTax": {
+        "Rate": 18.00,
+        "LastUpdated": "2022-11-12T23:13:05.6544623+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 18.0,
+        "LastUpdated": "2022-11-12T23:13:05.644856+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Australia",
+      "Alpha2": "AU",
+      "Alpha3": "AUS",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6544763+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Austria",
+      "Alpha2": "AT",
+      "Alpha3": "AUT",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6544879+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Azerbaijan",
+      "Alpha2": "AZ",
+      "Alpha3": "AZE",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6545014+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6449001+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Bahamas",
+      "Alpha2": "BS",
+      "Alpha3": "BHS",
+      "CorporateTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.6545131+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.644913+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Bahrain",
+      "Alpha2": "BH",
+      "Alpha3": "BHR",
+      "CorporateTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.6545247+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.6449295+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Bangladesh",
+      "Alpha2": "BD",
+      "Alpha3": "BGD",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6545393+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6449427+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Barbados",
+      "Alpha2": "BB",
+      "Alpha3": "BRB",
+      "CorporateTax": {
+        "Rate": 5.50,
+        "LastUpdated": "2022-11-12T23:13:05.6545533+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.6449555+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Belarus",
+      "Alpha2": "BY",
+      "Alpha3": "BLR",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Belgium",
+      "Alpha2": "BE",
+      "Alpha3": "BEL",
+      "CorporateTax": {
+        "Rate": 25.0,
+        "LastUpdated": "2022-11-12T23:13:05.654579+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 16.50,
+        "LastUpdated": "2022-11-12T23:13:05.644986+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Belize",
+      "Alpha2": "BZ",
+      "Alpha3": "BLZ",
+      "CorporateTax": {
+        "Rate": 1.75,
+        "LastUpdated": "2022-11-12T23:13:05.6545922+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 0.0,
+        "LastUpdated": "2022-11-12T23:13:05.645002+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Benin",
+      "Alpha2": "BJ",
+      "Alpha3": "BEN",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Bermuda",
+      "Alpha2": "BM",
+      "Alpha3": "BMU",
+      "CorporateTax": {
+        "Rate": 7.00,
+        "LastUpdated": "2022-11-12T23:13:05.6546191+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.6450294+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Bhutan",
+      "Alpha2": "BT",
+      "Alpha3": "BTN",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6546318+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Bolivia",
+      "Alpha2": "BO",
+      "Alpha3": "BOL",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6546468+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6450602+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Bosnia and Herzegovina",
+      "Alpha2": "BA",
+      "Alpha3": "BIH",
+      "CorporateTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.65466+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.6450767+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Botswana",
+      "Alpha2": "BW",
+      "Alpha3": "BWA",
+      "CorporateTax": {
+        "Rate": 22.00,
+        "LastUpdated": "2022-11-12T23:13:05.6546773+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Brazil",
+      "Alpha2": "BR",
+      "Alpha3": "BRA",
+      "CorporateTax": {
+        "Rate": 34.00,
+        "LastUpdated": "2022-11-12T23:13:05.6546924+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Brunei Darussalam",
+      "Alpha2": "BN",
+      "Alpha3": "BRN",
+      "CorporateTax": {
+        "Rate": 18.50,
+        "LastUpdated": "2022-11-12T23:13:05.6547095+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.6451252+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Bulgaria",
+      "Alpha2": "BG",
+      "Alpha3": "BGR",
+      "CorporateTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.654723+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.6451386+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Burkina Faso",
+      "Alpha2": "BF",
+      "Alpha3": "BFA",
+      "CorporateTax": {
+        "Rate": 27.50,
+        "LastUpdated": "2022-11-12T23:13:05.6547359+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Burundi",
+      "Alpha2": "BI",
+      "Alpha3": "BDI",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6547517+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6451707+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Cambodia",
+      "Alpha2": "KH",
+      "Alpha3": "KHM",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6547659+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6451868+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Cameroon",
+      "Alpha2": "CM",
+      "Alpha3": "CMR",
+      "CorporateTax": {
+        "Rate": 33.00,
+        "LastUpdated": "2022-11-12T23:13:05.654798+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 16.50,
+        "LastUpdated": "2022-11-12T23:13:05.6451999+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Canada",
+      "Alpha2": "CA",
+      "Alpha3": "CAN",
+      "CorporateTax": {
+        "Rate": 38.00,
+        "LastUpdated": "2022-11-12T23:13:05.6548137+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Central African Republic",
+      "Alpha2": "CF",
+      "Alpha3": "CAF",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6548297+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Chad",
+      "Alpha2": "TD",
+      "Alpha3": "TCD",
+      "CorporateTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-12T23:13:05.6548426+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6452521+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Chile",
+      "Alpha2": "CL",
+      "Alpha3": "CHL",
+      "CorporateTax": {
+        "Rate": 27.00,
+        "LastUpdated": "2022-11-12T23:13:05.6548579+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "China",
+      "Alpha2": "CN",
+      "Alpha3": "CHN",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.654871+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Colombia",
+      "Alpha2": "CO",
+      "Alpha3": "COL",
+      "CorporateTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-12T23:13:05.6548877+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Congo",
+      "Alpha2": "CG",
+      "Alpha3": "COG",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6549008+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Costa Rica",
+      "Alpha2": "CR",
+      "Alpha3": "CRI",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6549196+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Côte dIvoire",
+      "Alpha2": "CI",
+      "Alpha3": "CIV",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.654933+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Croatia",
+      "Alpha2": "HR",
+      "Alpha3": "HRV",
+      "CorporateTax": {
+        "Rate": 18.00,
+        "LastUpdated": "2022-11-12T23:13:05.6549507+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Cuba",
+      "Alpha2": "CU",
+      "Alpha3": "CUB",
+      "CorporateTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-12T23:13:05.6549652+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Cyprus",
+      "Alpha2": "CY",
+      "Alpha3": "CYP",
+      "CorporateTax": {
+        "Rate": 12.50,
+        "LastUpdated": "2022-11-12T23:13:05.6549816+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.645445+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Czechia",
+      "Alpha2": "CZ",
+      "Alpha3": "CZE",
+      "CorporateTax": {
+        "Rate": 19.00,
+        "LastUpdated": "2022-11-12T23:13:05.6549972+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Denmark",
+      "Alpha2": "DK",
+      "Alpha3": "DNK",
+      "CorporateTax": {
+        "Rate": 22.00,
+        "LastUpdated": "2022-11-12T23:13:05.6550112+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Djibouti",
+      "Alpha2": "DJ",
+      "Alpha3": "DJI",
+      "CorporateTax": null,
+      "CapitalGainsTax": {
+        "Rate": 5.00,
+        "LastUpdated": "2022-11-12T23:13:05.6454924+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Dominica",
+      "Alpha2": "DM",
+      "Alpha3": "DMA",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6550405+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-12T23:13:05.6455099+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Dominican Republic",
+      "Alpha2": "DO",
+      "Alpha3": "DOM",
+      "CorporateTax": {
+        "Rate": 27.00,
+        "LastUpdated": "2022-11-12T23:13:05.6550687+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Ecuador",
+      "Alpha2": "EC",
+      "Alpha3": "ECU",
+      "CorporateTax": {
+        "Rate": 28.00,
+        "LastUpdated": "2022-11-12T23:13:05.6551012+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.6455435+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Egypt",
+      "Alpha2": "EG",
+      "Alpha3": "EGY",
+      "CorporateTax": {
+        "Rate": 22.50,
+        "LastUpdated": "2022-11-12T23:13:05.6551243+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 22.50,
+        "LastUpdated": "2022-11-12T23:13:05.6455609+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "El Salvador",
+      "Alpha2": "SV",
+      "Alpha3": "SLV",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6551431+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.6455761+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Equatorial Guinea",
+      "Alpha2": "GQ",
+      "Alpha3": "GNQ",
+      "CorporateTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-12T23:13:05.6551574+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-12T23:13:05.6455937+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Eritrea",
+      "Alpha2": "ER",
+      "Alpha3": "ERI",
+      "CorporateTax": {
+        "Rate": 34.00,
+        "LastUpdated": "2022-11-12T23:13:05.6551738+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 34.00,
+        "LastUpdated": "2022-11-12T23:13:05.6456095+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Estonia",
+      "Alpha2": "EE",
+      "Alpha3": "EST",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6551879+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6456671+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Ethiopia",
+      "Alpha2": "ET",
+      "Alpha3": "ETH",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6552072+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Faroe Islands",
+      "Alpha2": "FO",
+      "Alpha3": "FRO",
+      "CorporateTax": {
+        "Rate": 18.00,
+        "LastUpdated": "2022-11-12T23:13:05.6552239+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Fiji",
+      "Alpha2": "FJ",
+      "Alpha3": "FJI",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6552394+04:00"
+      },
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.6457238+04:00"
+      },
+      "IncomeTax": null
+    },
+    {
+      "Name": "Finland",
+      "Alpha2": "FI",
+      "Alpha3": "FIN",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6552561+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "France",
+      "Alpha2": "FR",
+      "Alpha3": "FRA",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6552738+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Gabon",
+      "Alpha2": "GA",
+      "Alpha3": "GAB",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6552883+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Gambia",
+      "Alpha2": "GM",
+      "Alpha3": "GMB",
+      "CorporateTax": {
+        "Rate": 27.00,
+        "LastUpdated": "2022-11-12T23:13:05.6553054+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Georgia",
+      "Alpha2": "GE",
+      "Alpha3": "GEO",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6553202+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Germany",
+      "Alpha2": "DE",
+      "Alpha3": "DEU",
+      "CorporateTax": {
+        "Rate": 15.83,
+        "LastUpdated": "2022-11-12T23:13:05.6553373+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Ghana",
+      "Alpha2": "GH",
+      "Alpha3": "GHA",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6553566+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Gibraltar",
+      "Alpha2": "GI",
+      "Alpha3": "GIB",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Greece",
+      "Alpha2": "GR",
+      "Alpha3": "GRC",
+      "CorporateTax": {
+        "Rate": 22.00,
+        "LastUpdated": "2022-11-12T23:13:05.6553896+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Greenland",
+      "Alpha2": "GL",
+      "Alpha3": "GRL",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.655409+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Grenada",
+      "Alpha2": "GD",
+      "Alpha3": "GRD",
+      "CorporateTax": {
+        "Rate": 12.50,
+        "LastUpdated": "2022-11-12T23:13:05.6554244+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Guam",
+      "Alpha2": "GU",
+      "Alpha3": "GUM",
+      "CorporateTax": {
+        "Rate": 21.00,
+        "LastUpdated": "2022-11-12T23:13:05.6554436+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Guatemala",
+      "Alpha2": "GT",
+      "Alpha3": "GTM",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6554624+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Guinea",
+      "Alpha2": "GN",
+      "Alpha3": "GIN",
+      "CorporateTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-12T23:13:05.6554797+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Guinea-Bissau",
+      "Alpha2": "GW",
+      "Alpha3": "GNB",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6554954+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Guyana",
+      "Alpha2": "GY",
+      "Alpha3": "GUY",
+      "CorporateTax": {
+        "Rate": 45.00,
+        "LastUpdated": "2022-11-12T23:13:05.6555139+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Haiti",
+      "Alpha2": "HT",
+      "Alpha3": "HTI",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6555315+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Honduras",
+      "Alpha2": "HN",
+      "Alpha3": "HND",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6555471+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Hong Kong",
+      "Alpha2": "HK",
+      "Alpha3": "HKG",
+      "CorporateTax": {
+        "Rate": 16.50,
+        "LastUpdated": "2022-11-12T23:13:05.655566+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Hungary",
+      "Alpha2": "HU",
+      "Alpha3": "HUN",
+      "CorporateTax": {
+        "Rate": 9.00,
+        "LastUpdated": "2022-11-12T23:13:05.6555839+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Iceland",
+      "Alpha2": "IS",
+      "Alpha3": "ISL",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6556046+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "India",
+      "Alpha2": "IN",
+      "Alpha3": "IND",
+      "CorporateTax": {
+        "Rate": 43.68,
+        "LastUpdated": "2022-11-12T23:13:05.6556223+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Indonesia",
+      "Alpha2": "ID",
+      "Alpha3": "IDN",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.655642+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Iran",
+      "Alpha2": "IR",
+      "Alpha3": "IRN",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6556603+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Iraq",
+      "Alpha2": "IQ",
+      "Alpha3": "IRQ",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6556789+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Ireland",
+      "Alpha2": "IE",
+      "Alpha3": "IRL",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6556964+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Israel",
+      "Alpha2": "IL",
+      "Alpha3": "ISR",
+      "CorporateTax": {
+        "Rate": 23.00,
+        "LastUpdated": "2022-11-12T23:13:05.6557151+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Italy",
+      "Alpha2": "IT",
+      "Alpha3": "ITA",
+      "CorporateTax": {
+        "Rate": 24.00,
+        "LastUpdated": "2022-11-12T23:13:05.6557344+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Jamaica",
+      "Alpha2": "JM",
+      "Alpha3": "JAM",
+      "CorporateTax": {
+        "Rate": 33.00,
+        "LastUpdated": "2022-11-12T23:13:05.6557544+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Japan",
+      "Alpha2": "JP",
+      "Alpha3": "JPN",
+      "CorporateTax": {
+        "Rate": 30.62,
+        "LastUpdated": "2022-11-12T23:13:05.6557733+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Jordan",
+      "Alpha2": "JO",
+      "Alpha3": "JOR",
+      "CorporateTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-12T23:13:05.6557941+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Kazakhstan",
+      "Alpha2": "KZ",
+      "Alpha3": "KAZ",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6558165+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Kenya",
+      "Alpha2": "KE",
+      "Alpha3": "KEN",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6558367+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "South Korea",
+      "Alpha2": "KR",
+      "Alpha3": "KOR",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6558567+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Kuwait",
+      "Alpha2": "KW",
+      "Alpha3": "KWT",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6558758+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Kyrgyzstan",
+      "Alpha2": "KG",
+      "Alpha3": "KGZ",
+      "CorporateTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.6558931+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Latvia",
+      "Alpha2": "LV",
+      "Alpha3": "LVA",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6559137+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Lebanon",
+      "Alpha2": "LB",
+      "Alpha3": "LBN",
+      "CorporateTax": {
+        "Rate": 17.00,
+        "LastUpdated": "2022-11-12T23:13:05.6559336+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Liberia",
+      "Alpha2": "LR",
+      "Alpha3": "LBR",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.655953+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Libya",
+      "Alpha2": "LY",
+      "Alpha3": "LBY",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6559745+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Liechtenstein",
+      "Alpha2": "LI",
+      "Alpha3": "LIE",
+      "CorporateTax": {
+        "Rate": 12.50,
+        "LastUpdated": "2022-11-12T23:13:05.6559954+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Lithuania",
+      "Alpha2": "LT",
+      "Alpha3": "LTU",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6560387+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Luxembourg",
+      "Alpha2": "LU",
+      "Alpha3": "LUX",
+      "CorporateTax": {
+        "Rate": 24.94,
+        "LastUpdated": "2022-11-12T23:13:05.6560579+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Macao",
+      "Alpha2": "MO",
+      "Alpha3": "MAC",
+      "CorporateTax": {
+        "Rate": 12.00,
+        "LastUpdated": "2022-11-12T23:13:05.6560787+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Macedonia",
+      "Alpha2": "MK",
+      "Alpha3": "MKD",
+      "CorporateTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-12T23:13:05.656099+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Madagascar",
+      "Alpha2": "MG",
+      "Alpha3": "MDG",
+      "CorporateTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-12T23:13:05.6561194+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Malaysia",
+      "Alpha2": "MY",
+      "Alpha3": "MYS",
+      "CorporateTax": {
+        "Rate": 24.00,
+        "LastUpdated": "2022-11-12T23:13:05.6561402+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Maldives",
+      "Alpha2": "MV",
+      "Alpha3": "MDV",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6561618+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Mali",
+      "Alpha2": "ML",
+      "Alpha3": "MLI",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.656184+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Malta",
+      "Alpha2": "MT",
+      "Alpha3": "MLT",
+      "CorporateTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-12T23:13:05.6562056+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Mauritius",
+      "Alpha2": "MU",
+      "Alpha3": "MUS",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6562276+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Mexico",
+      "Alpha2": "MX",
+      "Alpha3": "MEX",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.656248+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Moldova",
+      "Alpha2": "MD",
+      "Alpha3": "MDA",
+      "CorporateTax": {
+        "Rate": 12.00,
+        "LastUpdated": "2022-11-12T23:13:05.6562698+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Monaco",
+      "Alpha2": "MC",
+      "Alpha3": "MCO",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6562881+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Mongolia",
+      "Alpha2": "MN",
+      "Alpha3": "MNG",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6563096+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Montenegro",
+      "Alpha2": "ME",
+      "Alpha3": "MNE",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6563329+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Montserrat",
+      "Alpha2": "MS",
+      "Alpha3": "MSR",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Morocco",
+      "Alpha2": "MA",
+      "Alpha3": "MAR",
+      "CorporateTax": {
+        "Rate": 31.00,
+        "LastUpdated": "2022-11-12T23:13:05.6563765+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Mozambique",
+      "Alpha2": "MZ",
+      "Alpha3": "MOZ",
+      "CorporateTax": {
+        "Rate": 32.00,
+        "LastUpdated": "2022-11-12T23:13:05.6563991+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Myanmar",
+      "Alpha2": "MM",
+      "Alpha3": "MMR",
+      "CorporateTax": {
+        "Rate": 22.00,
+        "LastUpdated": "2022-11-12T23:13:05.6564223+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Namibia",
+      "Alpha2": "NA",
+      "Alpha3": "NAM",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6564434+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Nepal",
+      "Alpha2": "NP",
+      "Alpha3": "NPL",
+      "CorporateTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-12T23:13:05.6564645+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Netherlands",
+      "Alpha2": "NL",
+      "Alpha3": "NLD",
+      "CorporateTax": {
+        "Rate": 25.80,
+        "LastUpdated": "2022-11-12T23:13:05.6564865+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "New Zealand",
+      "Alpha2": "NZ",
+      "Alpha3": "NZL",
+      "CorporateTax": {
+        "Rate": 28.00,
+        "LastUpdated": "2022-11-12T23:13:05.6565079+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Nicaragua",
+      "Alpha2": "NI",
+      "Alpha3": "NIC",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6565293+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Niger",
+      "Alpha2": "NE",
+      "Alpha3": "NER",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6565505+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Nigeria",
+      "Alpha2": "NG",
+      "Alpha3": "NGA",
+      "CorporateTax": {
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-12T23:13:05.6565742+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Norway",
+      "Alpha2": "NO",
+      "Alpha3": "NOR",
+      "CorporateTax": {
+        "Rate": 22.00,
+        "LastUpdated": "2022-11-12T23:13:05.6565974+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Oman",
+      "Alpha2": "OM",
+      "Alpha3": "OMN",
+      "CorporateTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-12T23:13:05.6566192+04:00"
+      },
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Pakistan",
+      "Alpha2": "PK",
+      "Alpha3": "PAK",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Palau",
+      "Alpha2": "PW",
+      "Alpha3": "PLW",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Palestine",
+      "Alpha2": "PS",
+      "Alpha3": "PSE",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Panama",
+      "Alpha2": "PA",
+      "Alpha3": "PAN",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Papua New Guinea",
+      "Alpha2": "PG",
+      "Alpha3": "PNG",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Paraguay",
+      "Alpha2": "PY",
+      "Alpha3": "PRY",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Peru",
+      "Alpha2": "PE",
+      "Alpha3": "PER",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Philippines",
+      "Alpha2": "PH",
+      "Alpha3": "PHL",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Poland",
+      "Alpha2": "PL",
+      "Alpha3": "POL",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Portugal",
+      "Alpha2": "PT",
+      "Alpha3": "PRT",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Puerto Rico",
+      "Alpha2": "PR",
+      "Alpha3": "PRI",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Qatar",
+      "Alpha2": "QA",
+      "Alpha3": "QAT",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Romania",
+      "Alpha2": "RO",
+      "Alpha3": "ROU",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Russia",
+      "Alpha2": "RU",
+      "Alpha3": "RUS",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Rwanda",
+      "Alpha2": "RW",
+      "Alpha3": "RWA",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "San Marino",
+      "Alpha2": "SM",
+      "Alpha3": "SMR",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Saudi Arabia",
+      "Alpha2": "SA",
+      "Alpha3": "SAU",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Senegal",
+      "Alpha2": "SN",
+      "Alpha3": "SEN",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Serbia",
+      "Alpha2": "RS",
+      "Alpha3": "SRB",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Seychelles",
+      "Alpha2": "SC",
+      "Alpha3": "SYC",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Sierra Leone",
+      "Alpha2": "SL",
+      "Alpha3": "SLE",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Singapore",
+      "Alpha2": "SG",
+      "Alpha3": "SGP",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Slovakia",
+      "Alpha2": "SK",
+      "Alpha3": "SVK",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Slovenia",
+      "Alpha2": "SI",
+      "Alpha3": "SVN",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Somalia",
+      "Alpha2": "SO",
+      "Alpha3": "SOM",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "South Africa",
+      "Alpha2": "ZA",
+      "Alpha3": "ZAF",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "South Georgia",
+      "Alpha2": "GS",
+      "Alpha3": "SGS",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "South Sudan",
+      "Alpha2": "SS",
+      "Alpha3": "SSD",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Spain",
+      "Alpha2": "ES",
+      "Alpha3": "ESP",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Sri Lanka",
+      "Alpha2": "LK",
+      "Alpha3": "LKA",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Sudan",
+      "Alpha2": "SD",
+      "Alpha3": "SDN",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Svalbard",
+      "Alpha2": "SJ",
+      "Alpha3": "SJM",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Sweden",
+      "Alpha2": "SE",
+      "Alpha3": "SWE",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Switzerland",
+      "Alpha2": "CH",
+      "Alpha3": "CHE",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Taiwan",
+      "Alpha2": "TW",
+      "Alpha3": "TWN",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Tajikistan",
+      "Alpha2": "TJ",
+      "Alpha3": "TJK",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Tanzania",
+      "Alpha2": "TZ",
+      "Alpha3": "TZA",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Thailand",
+      "Alpha2": "TH",
+      "Alpha3": "THA",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Togo",
+      "Alpha2": "TG",
+      "Alpha3": "TGO",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Tonga",
+      "Alpha2": "TO",
+      "Alpha3": "TON",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Trinidad and Tobago",
+      "Alpha2": "TT",
+      "Alpha3": "TTO",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Tunisia",
+      "Alpha2": "TN",
+      "Alpha3": "TUN",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Turkey",
+      "Alpha2": "TR",
+      "Alpha3": "TUR",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Turkmenistan",
+      "Alpha2": "TM",
+      "Alpha3": "TKM",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Uganda",
+      "Alpha2": "UG",
+      "Alpha3": "UGA",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Ukraine",
+      "Alpha2": "UA",
+      "Alpha3": "UKR",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "United Arab Emirates",
+      "Alpha2": "AE",
+      "Alpha3": "ARE",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "United Kingdom",
+      "Alpha2": "GB",
+      "Alpha3": "GBR",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "United States",
+      "Alpha2": "US",
+      "Alpha3": "USA",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Uruguay",
+      "Alpha2": "UY",
+      "Alpha3": "URY",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Uzbekistan",
+      "Alpha2": "UZ",
+      "Alpha3": "UZB",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Venezuela",
+      "Alpha2": "VE",
+      "Alpha3": "VEN",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Vietnam",
+      "Alpha2": "VN",
+      "Alpha3": "VNM",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Yemen",
+      "Alpha2": "YE",
+      "Alpha3": "YEM",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Zambia",
+      "Alpha2": "ZM",
+      "Alpha3": "ZMB",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Zimbabwe",
+      "Alpha2": "ZW",
+      "Alpha3": "ZWE",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Saint Vincent and the Grenadines",
+      "Alpha2": "VC",
+      "Alpha3": "VCT",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Samoa",
+      "Alpha2": "WS",
+      "Alpha3": "WSM",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Sao Tome and Principe",
+      "Alpha2": "ST",
+      "Alpha3": "STP",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Sint Maarteen",
+      "Alpha2": "SX",
+      "Alpha3": "SXM",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Solomon Islands",
+      "Alpha2": "SB",
+      "Alpha3": "SLB",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Suriname",
+      "Alpha2": "SR",
+      "Alpha3": "SUR",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Syria",
+      "Alpha2": "SY",
+      "Alpha3": "SYR",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Timor-Leste",
+      "Alpha2": "TL",
+      "Alpha3": "TLS",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Tokelau",
+      "Alpha2": "TK",
+      "Alpha3": "TKL",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Tuvalu",
+      "Alpha2": "TV",
+      "Alpha3": "TUV",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    },
+    {
+      "Name": "Vanuatu",
+      "Alpha2": "VU",
+      "Alpha3": "VUT",
+      "CorporateTax": null,
+      "CapitalGainsTax": null,
+      "IncomeTax": null
+    }
+  ]
+}
