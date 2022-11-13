@@ -14,18 +14,10 @@ namespace TaxationApi.Backend.Data
         {
             var file = System.IO.File.ReadAllText("country_data.json");
 
-            var data = JsonConvert.DeserializeObject<TaxationDatalist>(file);
+            var data = JsonConvert.DeserializeObject<DatabaseModel>(file);
             return data.Taxations;
         }
     }
 
-    public class TaxationDatalist
-    {
-        public List<TaxationData> Taxations { get; set; }
 
-        public TaxationDatalist()
-        {
-            Taxations = new List<TaxationData>();
-        }
-    }
 }
