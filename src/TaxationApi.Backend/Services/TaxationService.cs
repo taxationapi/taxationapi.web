@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TaxationApi.Backend.Data;
+using TaxationApi.Backend.Model.CountryCurrencies;
 using TaxationApi.Backend.Model.Taxation;
 
 namespace TaxationApi.Backend.Services
@@ -13,10 +14,12 @@ namespace TaxationApi.Backend.Services
     public class TaxationService : ITaxationService
     {
         private List<TaxationData> _data;
+        private ICountryCurrencyService _countryCurrencyService;
 
-        public TaxationService()
+        public TaxationService(ICountryCurrencyService countryCurrencyService)
         {
             _data = Database.LoadTaxationData().Taxations;
+            _countryCurrencyService = countryCurrencyService;
         }
 
         public List<TaxationData> GetTaxationData(TaxationSpecification specification)
@@ -63,7 +66,29 @@ namespace TaxationApi.Backend.Services
                     returnSet = returnSet.Where(x => x.LumpsumpTax == null).ToList();
                 }
             }
+            
+            FixCurrencies(returnSet);
             return returnSet;
+        }
+
+        private void FixCurrencies(List<TaxationData> taxationDatas)
+        {
+            var countries = _countryCurrencyService.GetAllCountries();
+            foreach(var country in taxationDatas)
+            {
+                string currency = string.Empty;
+                var currency1 = countries.FirstOrDefault(c => c.Alpha3 == country.Alpha3);
+
+                if (currency1 != null)
+                {
+                    currency = currency1.CurrencyCode;
+                }
+
+                if (country.LumpsumpTax != null)
+                {
+                    country.LumpsumpTax.Currency = currency;
+                }
+            }
         }
     }
 }

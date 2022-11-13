@@ -60,6 +60,7 @@ namespace TaxationApi.Backend.Model.Taxation
     {
         public decimal Amount { get; set; }
         public decimal? Rate { get; set; }
+        public string Currency { get; set; }
         public DateTime LastUpdated { get; set; }
     }
 
