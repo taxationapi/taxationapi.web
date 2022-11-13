@@ -18,12 +18,27 @@
         public TaxationOverViewEntityCorporateViewModel CorporateTax { get; set; }
         public TaxationOverViewEntityCapitalGainsViewModel CapitalGainsTax { get; set; }
         public TaxationOverViewEntityIncomeViewModel IncomeTax { get; set; }
+        public TaxationOverViewEntityLumpSumpViewModel LumpsumpTax { get; set; }
     }
 
     public class TaxationOverViewEntityCorporateViewModel
     {
         public decimal Rate { get; set; }
         public DateTime LastUpdated { get; set; }
+        public List<TaxationBracketEntityViewModel> Brackets { get; set; }
+
+        public TaxationOverViewEntityCorporateViewModel()
+        {
+            Brackets = new List<TaxationBracketEntityViewModel>();
+        }
+    }
+
+    public class TaxationOverViewEntityLumpSumpViewModel
+    {
+        public decimal Amount { get; set; }
+        public decimal? Rate { get; set; }
+        public DateTime LastUpdated { get; set; }
+
     }
 
 
@@ -31,12 +46,35 @@
     {
         public decimal Rate { get; set; }
         public DateTime LastUpdated { get; set; }
+        public List<TaxationBracketEntityViewModel> Brackets { get; set; }
+
+        public TaxationOverViewEntityCapitalGainsViewModel()
+        {
+            Brackets = new List<TaxationBracketEntityViewModel>();
+        }
     }
 
     public class TaxationOverViewEntityIncomeViewModel
     {
         public decimal Rate { get; set; }
         public DateTime LastUpdated { get; set; }
+        public List<TaxationBracketEntityViewModel> Brackets { get; set; }
+
+        public TaxationOverViewEntityIncomeViewModel()
+        {
+
+            Brackets = new List<TaxationBracketEntityViewModel>();
+        }
+    }
+
+    public class TaxationBracketEntityViewModel
+    {
+        public decimal? Rate { get; set; }
+        public decimal? Amount { get; set; }
+        public string Currency { get; set; }
+        public decimal LowerBracket { get; set; }
+        public decimal HigherBracket { get; set; }
+
     }
 
 }

@@ -7,11 +7,11 @@ using TaxationApi.Backend.Model.Taxation;
 
 namespace TaxationApi.Backend.Data
 {
-    public class DatabaseModel
+    public class TaxationDatabaseModel
     {
         public List<TaxationData> Taxations { get; set; }
 
-        public DatabaseModel()
+        public TaxationDatabaseModel()
         {
             Taxations = new List<TaxationData>();
         }

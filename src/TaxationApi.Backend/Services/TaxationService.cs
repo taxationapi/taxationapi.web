@@ -16,7 +16,7 @@ namespace TaxationApi.Backend.Services
 
         public TaxationService()
         {
-            _data = Database.LoadData();
+            _data = Database.LoadTaxationData().Taxations;
         }
 
         public List<TaxationData> GetTaxationData(TaxationSpecification specification)

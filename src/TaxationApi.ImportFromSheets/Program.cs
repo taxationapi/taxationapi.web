@@ -65,12 +65,25 @@ foreach (var file in files)
             }
             if (type == InputFileType.IncomeTax)
             {
-        
+
+            }
+            if (type == InputFileType.LumpsumpTax)
+            {
+                if (DoesPropertyExist(record, "Lumpsump_amount"))
+                {
+                    var rateStr = record.Corporate_tax.Replace(System.Globalization.CultureInfo.CurrentCulture.NumberFormat.PercentSymbol, "");
+                    country.LumpsumpTax = new TaxationOverViewEntityLumpSumpViewModel()
+                    {
+                        Amount = record.Lumpsump_amount,
+                        LastUpdated = record.Lumpsump_dateupdated,
+                        Rate = rateStr ?? 0.0m
+                    };
+                }
             }
         }
-    
 
- 
+
+
     }
 }
 
@@ -86,6 +99,8 @@ InputFileType? GetFileTypeBasedOnStringName(string name)
         return InputFileType.CorporateTax;
     if (name.Contains("Income tax"))
         return InputFileType.IncomeTax;
+    if (name.Contains("Lump"))
+        return InputFileType.LumpsumpTax;
 
     return null;
 }

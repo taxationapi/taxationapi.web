@@ -10,6 +10,7 @@ namespace TaxationApi.ImportFromSheets
     {
         CorporateTax,
         IncomeTax,
-        CapitalGainsTax
+        CapitalGainsTax,
+        LumpsumpTax   
     }
 }

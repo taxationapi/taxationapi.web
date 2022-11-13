@@ -10,13 +10,25 @@ namespace TaxationApi.Backend.Data
 {
     public static class Database
     {
-        public static List<TaxationData> LoadData()
+        public static CountryCurrenciesDatabaseModel LoadCountryCurrencies()
+        {
+            var file = System.IO.File.ReadAllText("country_currencies.json");
+
+            var data = JsonConvert.DeserializeObject<CountryCurrenciesDatabaseModel>(file);
+            return data;
+        }
+
+
+        public static TaxationDatabaseModel LoadTaxationData()
         {
             var file = System.IO.File.ReadAllText("country_data.json");
 
-            var data = JsonConvert.DeserializeObject<DatabaseModel>(file);
-            return data.Taxations;
+            var data = JsonConvert.DeserializeObject<TaxationDatabaseModel>(file);
+            return data;
         }
+
+
+
     }
 
 
