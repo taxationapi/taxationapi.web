@@ -26,11 +26,15 @@
       "Alpha3": "AFG",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8905875+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0612304+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-14T17:55:07.0787271+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -40,15 +44,19 @@
       "Alpha3": "ALB",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8906969+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.061346+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8731374+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0426379+04:00",
         "Brackets": []
       },
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 50.00,
+        "LastUpdated": "2022-11-14T17:55:07.0788675+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -58,15 +66,19 @@
       "Alpha3": "DZA",
       "CorporateTax": {
         "Rate": 26.00,
-        "LastUpdated": "2022-11-14T17:51:23.8907098+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0613582+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8745207+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0442909+04:00",
         "Brackets": []
       },
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-14T17:55:07.0788802+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -76,11 +88,15 @@
       "Alpha3": "ASM",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-14T17:51:23.8907245+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0613756+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 27.00,
+        "LastUpdated": "2022-11-14T17:55:07.0788902+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -90,15 +106,19 @@
       "Alpha3": "AND",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8907351+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0613859+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8745446+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0443171+04:00",
         "Brackets": []
       },
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-14T17:55:07.0789063+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -108,15 +128,19 @@
       "Alpha3": "AGO",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8907455+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.061396+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8745608+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0443433+04:00",
         "Brackets": []
       },
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-14T17:55:07.0789179+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -126,12 +150,12 @@
       "Alpha3": "AIA",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8907583+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0614094+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8745723+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0443548+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -144,22 +168,26 @@
       "Alpha3": "ARG",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8928201+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0633728+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8745848+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.044367+04:00",
         "Brackets": []
       },
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "LastUpdated": "2022-11-14T17:55:07.078943+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": {
         "Rate": 1.75,
         "Base": 300000000.0,
         "Comments": "Higher rates for abroad assets",
         "Currency": null,
-        "LastUpdated": "2022-11-14T17:51:23.991144+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.112697+04:00",
         "Brackets": []
       }
     },
@@ -169,15 +197,19 @@
       "Alpha3": "ARM",
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-14T17:51:23.8928393+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0633886+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 18.0,
-        "LastUpdated": "2022-11-14T17:51:23.8745988+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0443809+04:00",
         "Brackets": []
       },
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-14T17:55:07.0789538+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -187,11 +219,15 @@
       "Alpha3": "AUS",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8928527+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0634015+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 45.00,
+        "LastUpdated": "2022-11-14T17:55:07.0789646+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -201,7 +237,7 @@
       "Alpha3": "AUT",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8928633+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0634164+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -215,12 +251,12 @@
       "Alpha3": "AZE",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8928771+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0634274+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8746368+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0444229+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -233,12 +269,12 @@
       "Alpha3": "BHS",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.892888+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0634379+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8746482+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0444339+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -251,12 +287,12 @@
       "Alpha3": "BHR",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8928989+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0634508+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8746624+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0444474+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -269,12 +305,12 @@
       "Alpha3": "BGD",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8929136+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0634616+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8746737+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0444584+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -287,12 +323,12 @@
       "Alpha3": "BRB",
       "CorporateTax": {
         "Rate": 5.50,
-        "LastUpdated": "2022-11-14T17:51:23.8929266+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.063474+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8746851+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0444718+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -315,12 +351,12 @@
       "Alpha3": "BEL",
       "CorporateTax": {
         "Rate": 25.0,
-        "LastUpdated": "2022-11-14T17:51:23.8929509+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.063498+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 16.50,
-        "LastUpdated": "2022-11-14T17:51:23.8747125+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0444958+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -330,7 +366,7 @@
         "Base": 1000000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-14T17:51:23.9913793+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.1129338+04:00",
         "Brackets": []
       }
     },
@@ -340,12 +376,12 @@
       "Alpha3": "BLZ",
       "CorporateTax": {
         "Rate": 1.75,
-        "LastUpdated": "2022-11-14T17:51:23.8929633+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0635128+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.0,
-        "LastUpdated": "2022-11-14T17:51:23.8747266+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0445102+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -368,12 +404,12 @@
       "Alpha3": "BMU",
       "CorporateTax": {
         "Rate": 7.00,
-        "LastUpdated": "2022-11-14T17:51:23.8929883+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0635342+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8747537+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0445404+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -386,7 +422,7 @@
       "Alpha3": "BTN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.893002+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.063548+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -400,12 +436,12 @@
       "Alpha3": "BOL",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8930137+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0635592+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8747779+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0445641+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -418,12 +454,12 @@
       "Alpha3": "BIH",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8930271+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0635749+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8747946+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0445815+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -436,7 +472,7 @@
       "Alpha3": "BWA",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-14T17:51:23.8930464+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0635864+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -450,7 +486,7 @@
       "Alpha3": "BRA",
       "CorporateTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-14T17:51:23.8930614+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.063602+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -464,12 +500,12 @@
       "Alpha3": "BRN",
       "CorporateTax": {
         "Rate": 18.50,
-        "LastUpdated": "2022-11-14T17:51:23.8930766+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0636137+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8748351+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.044624+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -482,12 +518,12 @@
       "Alpha3": "BGR",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8930914+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0636251+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8748497+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0446391+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -500,7 +536,7 @@
       "Alpha3": "BFA",
       "CorporateTax": {
         "Rate": 27.50,
-        "LastUpdated": "2022-11-14T17:51:23.8931136+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0636405+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -514,12 +550,12 @@
       "Alpha3": "BDI",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8931261+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0636522+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8748777+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0446696+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -532,12 +568,12 @@
       "Alpha3": "KHM",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8931419+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0636688+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8748903+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0446835+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -550,12 +586,12 @@
       "Alpha3": "CMR",
       "CorporateTax": {
         "Rate": 33.00,
-        "LastUpdated": "2022-11-14T17:51:23.893155+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0636814+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 16.50,
-        "LastUpdated": "2022-11-14T17:51:23.8749052+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0446992+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -568,7 +604,7 @@
       "Alpha3": "CAN",
       "CorporateTax": {
         "Rate": 38.00,
-        "LastUpdated": "2022-11-14T17:51:23.8931707+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0636979+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -582,7 +618,7 @@
       "Alpha3": "CAF",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.893183+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0637098+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -596,12 +632,12 @@
       "Alpha3": "TCD",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8931978+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.063724+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8749474+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0449078+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -614,7 +650,7 @@
       "Alpha3": "CHL",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-14T17:51:23.8932103+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0637359+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -628,7 +664,7 @@
       "Alpha3": "CHN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8932249+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0637502+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -642,7 +678,7 @@
       "Alpha3": "COL",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8932377+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0637625+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -653,7 +689,7 @@
         "Base": 5000000000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-14T17:51:23.9916421+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.113228+04:00",
         "Brackets": []
       }
     },
@@ -663,7 +699,7 @@
       "Alpha3": "COG",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8932534+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0637765+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -677,7 +713,7 @@
       "Alpha3": "CRI",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8932689+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0637912+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -691,7 +727,7 @@
       "Alpha3": "CIV",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8932836+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0638059+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -705,7 +741,7 @@
       "Alpha3": "HRV",
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-14T17:51:23.8932969+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0638182+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -719,7 +755,7 @@
       "Alpha3": "CUB",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.893313+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0638361+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -733,12 +769,12 @@
       "Alpha3": "CYP",
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-14T17:51:23.8933264+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.063851+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.875122+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0452495+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -751,7 +787,7 @@
       "Alpha3": "CZE",
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-14T17:51:23.8933431+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0638635+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -765,7 +801,7 @@
       "Alpha3": "DNK",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-14T17:51:23.8933651+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0638856+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -780,7 +816,7 @@
       "CorporateTax": null,
       "CapitalGainsTax": {
         "Rate": 5.00,
-        "LastUpdated": "2022-11-14T17:51:23.8751682+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0452982+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -793,12 +829,12 @@
       "Alpha3": "DMA",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8933933+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0639143+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8751817+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0453115+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -811,7 +847,7 @@
       "Alpha3": "DOM",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-14T17:51:23.893407+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0639274+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -825,12 +861,12 @@
       "Alpha3": "ECU",
       "CorporateTax": {
         "Rate": 28.00,
-        "LastUpdated": "2022-11-14T17:51:23.8934268+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0639479+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8752124+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.045343+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -843,12 +879,12 @@
       "Alpha3": "EGY",
       "CorporateTax": {
         "Rate": 22.50,
-        "LastUpdated": "2022-11-14T17:51:23.8934444+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.063965+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 22.50,
-        "LastUpdated": "2022-11-14T17:51:23.8752289+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0453595+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -861,12 +897,12 @@
       "Alpha3": "SLV",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8934599+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.06398+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8752443+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0453755+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -879,12 +915,12 @@
       "Alpha3": "GNQ",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8934757+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0639957+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8752887+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0453891+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -897,12 +933,12 @@
       "Alpha3": "ERI",
       "CorporateTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-14T17:51:23.8934899+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.064009+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-14T17:51:23.8753088+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.045405+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -915,12 +951,12 @@
       "Alpha3": "EST",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8935063+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0640283+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8753232+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0454647+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -933,7 +969,7 @@
       "Alpha3": "ETH",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8935232+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0640453+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -947,7 +983,7 @@
       "Alpha3": "FRO",
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-14T17:51:23.8935381+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0640591+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -961,12 +997,12 @@
       "Alpha3": "FJI",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8935562+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0640763+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8753712+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0455137+04:00",
         "Brackets": []
       },
       "IncomeTax": null,
@@ -979,7 +1015,7 @@
       "Alpha3": "FIN",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8935706+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0640963+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -993,7 +1029,7 @@
       "Alpha3": "FRA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8935892+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0641111+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1004,7 +1040,7 @@
         "Base": 10000000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-14T17:51:23.9920099+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.1135863+04:00",
         "Brackets": []
       }
     },
@@ -1014,7 +1050,7 @@
       "Alpha3": "GAB",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8936057+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0641274+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1028,7 +1064,7 @@
       "Alpha3": "GMB",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-14T17:51:23.8936202+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0641449+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1042,7 +1078,7 @@
       "Alpha3": "GEO",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8936375+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0641588+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1056,7 +1092,7 @@
       "Alpha3": "DEU",
       "CorporateTax": {
         "Rate": 15.83,
-        "LastUpdated": "2022-11-14T17:51:23.8936543+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.064175+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1070,7 +1106,7 @@
       "Alpha3": "GHA",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8936697+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0641929+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1089,7 +1125,7 @@
         "Amount": 120000.0,
         "Currency": null,
         "Rate": 0.0,
-        "LastUpdated": "2022-11-14T17:51:23.933387+04:00"
+        "LastUpdated": "2022-11-14T17:55:07.0986345+04:00"
       },
       "WealthTax": null
     },
@@ -1099,7 +1135,7 @@
       "Alpha3": "GRC",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-14T17:51:23.8937033+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0642255+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1108,7 +1144,7 @@
         "Amount": 100000.0,
         "Currency": null,
         "Rate": 0.0,
-        "LastUpdated": "2022-11-14T17:51:23.9335413+04:00"
+        "LastUpdated": "2022-11-14T17:55:07.098737+04:00"
       },
       "WealthTax": null
     },
@@ -1118,7 +1154,7 @@
       "Alpha3": "GRL",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8937195+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0642431+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1132,7 +1168,7 @@
       "Alpha3": "GRD",
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-14T17:51:23.8937367+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0642575+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1146,7 +1182,7 @@
       "Alpha3": "GUM",
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-14T17:51:23.8937553+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0642737+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1160,7 +1196,7 @@
       "Alpha3": "GTM",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8937738+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0642927+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1174,7 +1210,7 @@
       "Alpha3": "GIN",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8937891+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0643075+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1188,7 +1224,7 @@
       "Alpha3": "GNB",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8938066+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0643247+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1202,7 +1238,7 @@
       "Alpha3": "GUY",
       "CorporateTax": {
         "Rate": 45.00,
-        "LastUpdated": "2022-11-14T17:51:23.8938251+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0643424+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1216,7 +1252,7 @@
       "Alpha3": "HTI",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8938409+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0643594+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1230,7 +1266,7 @@
       "Alpha3": "HND",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8938585+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0643745+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1244,7 +1280,7 @@
       "Alpha3": "HKG",
       "CorporateTax": {
         "Rate": 16.50,
-        "LastUpdated": "2022-11-14T17:51:23.8938767+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0643924+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1258,7 +1294,7 @@
       "Alpha3": "HUN",
       "CorporateTax": {
         "Rate": 9.00,
-        "LastUpdated": "2022-11-14T17:51:23.8938943+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0644098+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1272,7 +1308,7 @@
       "Alpha3": "ISL",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.89391+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0644249+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1286,7 +1322,7 @@
       "Alpha3": "IND",
       "CorporateTax": {
         "Rate": 43.68,
-        "LastUpdated": "2022-11-14T17:51:23.8939295+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0644438+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1300,7 +1336,7 @@
       "Alpha3": "IDN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.89395+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0644625+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1314,7 +1350,7 @@
       "Alpha3": "IRN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8939693+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0644808+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1328,7 +1364,7 @@
       "Alpha3": "IRQ",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8939852+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0644984+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1342,7 +1378,7 @@
       "Alpha3": "IRL",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8940044+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0645146+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1356,7 +1392,7 @@
       "Alpha3": "ISR",
       "CorporateTax": {
         "Rate": 23.00,
-        "LastUpdated": "2022-11-14T17:51:23.894023+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0645333+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1370,7 +1406,7 @@
       "Alpha3": "ITA",
       "CorporateTax": {
         "Rate": 24.00,
-        "LastUpdated": "2022-11-14T17:51:23.8940479+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0645514+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1379,7 +1415,7 @@
         "Amount": 100000.0,
         "Currency": null,
         "Rate": 0.0,
-        "LastUpdated": "2022-11-14T17:51:23.9338271+04:00"
+        "LastUpdated": "2022-11-14T17:55:07.0989032+04:00"
       },
       "WealthTax": null
     },
@@ -1389,7 +1425,7 @@
       "Alpha3": "JAM",
       "CorporateTax": {
         "Rate": 33.00,
-        "LastUpdated": "2022-11-14T17:51:23.8940807+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0645698+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1403,7 +1439,7 @@
       "Alpha3": "JPN",
       "CorporateTax": {
         "Rate": 30.62,
-        "LastUpdated": "2022-11-14T17:51:23.8941058+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0645875+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1417,7 +1453,7 @@
       "Alpha3": "JOR",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8941386+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.064604+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1431,7 +1467,7 @@
       "Alpha3": "KAZ",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8941864+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.064622+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1445,7 +1481,7 @@
       "Alpha3": "KEN",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8942583+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0646653+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1459,7 +1495,7 @@
       "Alpha3": "KWT",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8942995+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0647044+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1473,7 +1509,7 @@
       "Alpha3": "KGZ",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8943162+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0647226+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1487,7 +1523,7 @@
       "Alpha3": "LVA",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8943416+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0647395+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1501,7 +1537,7 @@
       "Alpha3": "LBN",
       "CorporateTax": {
         "Rate": 17.00,
-        "LastUpdated": "2022-11-14T17:51:23.8943629+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.064758+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1515,7 +1551,7 @@
       "Alpha3": "LBR",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8943822+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0647762+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1529,7 +1565,7 @@
       "Alpha3": "LBY",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8944013+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0647953+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1543,7 +1579,7 @@
       "Alpha3": "LIE",
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-14T17:51:23.8944205+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.064814+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1557,7 +1593,7 @@
       "Alpha3": "LTU",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8944419+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0648349+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1571,7 +1607,7 @@
       "Alpha3": "LUX",
       "CorporateTax": {
         "Rate": 24.94,
-        "LastUpdated": "2022-11-14T17:51:23.8944606+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0648557+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1585,7 +1621,7 @@
       "Alpha3": "MAC",
       "CorporateTax": {
         "Rate": 12.00,
-        "LastUpdated": "2022-11-14T17:51:23.8944802+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0648726+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1599,7 +1635,7 @@
       "Alpha3": "MKD",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8944998+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0648915+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1613,7 +1649,7 @@
       "Alpha3": "MDG",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8945192+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0649112+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1627,7 +1663,7 @@
       "Alpha3": "MYS",
       "CorporateTax": {
         "Rate": 24.00,
-        "LastUpdated": "2022-11-14T17:51:23.89454+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0649315+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1641,7 +1677,7 @@
       "Alpha3": "MDV",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8945622+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0649521+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1655,7 +1691,7 @@
       "Alpha3": "MLI",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8945819+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0649713+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1669,7 +1705,7 @@
       "Alpha3": "MLT",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8946026+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0649905+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1683,7 +1719,7 @@
       "Alpha3": "MUS",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8946242+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0650105+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1697,7 +1733,7 @@
       "Alpha3": "MEX",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8946443+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0650307+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1711,7 +1747,7 @@
       "Alpha3": "MDA",
       "CorporateTax": {
         "Rate": 12.00,
-        "LastUpdated": "2022-11-14T17:51:23.8946685+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0650513+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1725,7 +1761,7 @@
       "Alpha3": "MCO",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.894703+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0650707+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1739,7 +1775,7 @@
       "Alpha3": "MNG",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8947369+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0650908+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1753,7 +1789,7 @@
       "Alpha3": "MNE",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.894773+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0651127+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1777,7 +1813,7 @@
       "Alpha3": "MAR",
       "CorporateTax": {
         "Rate": 31.00,
-        "LastUpdated": "2022-11-14T17:51:23.8948169+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0651532+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1791,7 +1827,7 @@
       "Alpha3": "MOZ",
       "CorporateTax": {
         "Rate": 32.00,
-        "LastUpdated": "2022-11-14T17:51:23.8948486+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0651734+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1805,7 +1841,7 @@
       "Alpha3": "MMR",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-14T17:51:23.8948809+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0651948+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1819,7 +1855,7 @@
       "Alpha3": "NAM",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8949069+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0652167+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1833,7 +1869,7 @@
       "Alpha3": "NPL",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8949331+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.065237+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1847,7 +1883,7 @@
       "Alpha3": "NLD",
       "CorporateTax": {
         "Rate": 25.80,
-        "LastUpdated": "2022-11-14T17:51:23.8949609+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0652578+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1858,7 +1894,7 @@
         "Base": 1020096.0,
         "Comments": "Yields only",
         "Currency": null,
-        "LastUpdated": "2022-11-14T17:51:23.993322+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.1147496+04:00",
         "Brackets": []
       }
     },
@@ -1868,7 +1904,7 @@
       "Alpha3": "NZL",
       "CorporateTax": {
         "Rate": 28.00,
-        "LastUpdated": "2022-11-14T17:51:23.8949827+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0652778+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1882,7 +1918,7 @@
       "Alpha3": "NIC",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8950037+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0652985+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1896,7 +1932,7 @@
       "Alpha3": "NER",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.895025+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0653206+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1910,7 +1946,7 @@
       "Alpha3": "NGA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8950476+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0653411+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1924,7 +1960,7 @@
       "Alpha3": "NOR",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-14T17:51:23.8950788+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0653628+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1935,7 +1971,7 @@
         "Base": 1500000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-14T17:51:23.9934219+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.1148508+04:00",
         "Brackets": []
       }
     },
@@ -1955,7 +1991,7 @@
       "Alpha3": "PAK",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8951226+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.065404+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1969,7 +2005,7 @@
       "Alpha3": "PLW",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.895144+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.065425+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1983,7 +2019,7 @@
       "Alpha3": "PSE",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8951653+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0654456+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -1997,7 +2033,7 @@
       "Alpha3": "PAN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8951871+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0654664+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2011,7 +2047,7 @@
       "Alpha3": "PNG",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8952096+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0654882+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2025,7 +2061,7 @@
       "Alpha3": "PRY",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8952324+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0655092+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2039,7 +2075,7 @@
       "Alpha3": "PER",
       "CorporateTax": {
         "Rate": 29.50,
-        "LastUpdated": "2022-11-14T17:51:23.8952544+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0655317+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2053,7 +2089,7 @@
       "Alpha3": "PHL",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8952766+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0655541+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2067,7 +2103,7 @@
       "Alpha3": "POL",
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-14T17:51:23.8952987+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0655749+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2081,7 +2117,7 @@
       "Alpha3": "PRT",
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-14T17:51:23.8953221+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0655972+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2095,7 +2131,7 @@
       "Alpha3": "PRI",
       "CorporateTax": {
         "Rate": 18.50,
-        "LastUpdated": "2022-11-14T17:51:23.8953446+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0656193+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2109,7 +2145,7 @@
       "Alpha3": "QAT",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8953668+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0656448+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2123,7 +2159,7 @@
       "Alpha3": "ROU",
       "CorporateTax": {
         "Rate": 16.00,
-        "LastUpdated": "2022-11-14T17:51:23.8953887+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.065667+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2137,7 +2173,7 @@
       "Alpha3": "RUS",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8954687+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0657271+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2151,7 +2187,7 @@
       "Alpha3": "RWA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8954913+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0657499+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2165,7 +2201,7 @@
       "Alpha3": "VCT",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8965481+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0667808+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2179,7 +2215,7 @@
       "Alpha3": "WSM",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-14T17:51:23.8965776+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0668073+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2193,7 +2229,7 @@
       "Alpha3": "SMR",
       "CorporateTax": {
         "Rate": 17.00,
-        "LastUpdated": "2022-11-14T17:51:23.8955135+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0657714+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2207,7 +2243,7 @@
       "Alpha3": "STP",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8966043+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0668342+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2221,7 +2257,7 @@
       "Alpha3": "SAU",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8955366+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0657938+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2235,7 +2271,7 @@
       "Alpha3": "SEN",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.895559+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0658157+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2249,7 +2285,7 @@
       "Alpha3": "SRB",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8955815+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0658374+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2263,7 +2299,7 @@
       "Alpha3": "SYC",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8956058+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.065865+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2277,7 +2313,7 @@
       "Alpha3": "SLE",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8956326+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0658904+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2291,7 +2327,7 @@
       "Alpha3": "SGP",
       "CorporateTax": {
         "Rate": 17.00,
-        "LastUpdated": "2022-11-14T17:51:23.8956559+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0659138+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2305,7 +2341,7 @@
       "Alpha3": "SVK",
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-14T17:51:23.8956784+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0659359+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2319,7 +2355,7 @@
       "Alpha3": "SVN",
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-14T17:51:23.8957011+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0659579+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2333,7 +2369,7 @@
       "Alpha3": "SOM",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8957256+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0659812+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2347,7 +2383,7 @@
       "Alpha3": "ZAF",
       "CorporateTax": {
         "Rate": 28.00,
-        "LastUpdated": "2022-11-14T17:51:23.8957509+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0660084+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2361,7 +2397,7 @@
       "Alpha3": "SGS",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8957772+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0660308+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2375,7 +2411,7 @@
       "Alpha3": "KOR",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.89428+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0646857+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2389,7 +2425,7 @@
       "Alpha3": "SSD",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8958005+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0660547+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2403,7 +2439,7 @@
       "Alpha3": "ESP",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8958232+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0660776+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2414,7 +2450,7 @@
         "Base": 10000000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-14T17:51:23.9941372+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.115481+04:00",
         "Brackets": []
       }
     },
@@ -2424,7 +2460,7 @@
       "Alpha3": "LKA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8958462+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0660999+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2438,7 +2474,7 @@
       "Alpha3": "SDN",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-14T17:51:23.8958696+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0661249+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2452,7 +2488,7 @@
       "Alpha3": "SJM",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-14T17:51:23.8958961+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0661481+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2466,7 +2502,7 @@
       "Alpha3": "SWE",
       "CorporateTax": {
         "Rate": 20.60,
-        "LastUpdated": "2022-11-14T17:51:23.8959195+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0661712+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2480,7 +2516,7 @@
       "Alpha3": "CHE",
       "CorporateTax": {
         "Rate": 8.50,
-        "LastUpdated": "2022-11-14T17:51:23.895945+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0661953+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2489,14 +2525,14 @@
         "Amount": 400000.0,
         "Currency": null,
         "Rate": 0.0,
-        "LastUpdated": "2022-11-14T17:51:23.9352553+04:00"
+        "LastUpdated": "2022-11-14T17:55:07.0998101+04:00"
       },
       "WealthTax": {
         "Rate": 0.30,
         "Base": 3158000.0,
         "Comments": "Data from Zurich",
         "Currency": null,
-        "LastUpdated": "2022-11-14T17:51:23.9943386+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.1155995+04:00",
         "Brackets": []
       }
     },
@@ -2506,7 +2542,7 @@
       "Alpha3": "TWN",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8959696+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0662195+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2520,7 +2556,7 @@
       "Alpha3": "TJK",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8959966+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0662461+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2534,7 +2570,7 @@
       "Alpha3": "TZA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8960207+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0662696+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2548,7 +2584,7 @@
       "Alpha3": "THA",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8960486+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0662944+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2562,7 +2598,7 @@
       "Alpha3": "TLS",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-14T17:51:23.8966303+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0668593+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2576,7 +2612,7 @@
       "Alpha3": "TGO",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-14T17:51:23.8960727+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0663198+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2590,7 +2626,7 @@
       "Alpha3": "TON",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8960997+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0663431+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2604,7 +2640,7 @@
       "Alpha3": "TTO",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8961251+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0663693+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2618,7 +2654,7 @@
       "Alpha3": "TUN",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8961489+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0663925+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2632,7 +2668,7 @@
       "Alpha3": "TUR",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8961766+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0664196+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2646,7 +2682,7 @@
       "Alpha3": "TKM",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8962017+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.066446+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2660,7 +2696,7 @@
       "Alpha3": "TUV",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.896659+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0668866+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2674,7 +2710,7 @@
       "Alpha3": "UGA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-14T17:51:23.8962262+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0664697+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2688,7 +2724,7 @@
       "Alpha3": "UKR",
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-14T17:51:23.8962507+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0664955+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2702,7 +2738,7 @@
       "Alpha3": "ARE",
       "CorporateTax": {
         "Rate": 50.00,
-        "LastUpdated": "2022-11-14T17:51:23.8962825+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0665215+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2716,7 +2752,7 @@
       "Alpha3": "GBR",
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-14T17:51:23.896307+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0665475+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2730,7 +2766,7 @@
       "Alpha3": "USA",
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-14T17:51:23.8963326+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0665723+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2744,7 +2780,7 @@
       "Alpha3": "URY",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-14T17:51:23.8963597+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0665988+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2758,7 +2794,7 @@
       "Alpha3": "UZB",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-14T17:51:23.8963855+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0666245+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2772,7 +2808,7 @@
       "Alpha3": "VUT",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-14T17:51:23.8967015+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0669214+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2786,7 +2822,7 @@
       "Alpha3": "VEN",
       "CorporateTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-14T17:51:23.8964119+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0666503+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2800,7 +2836,7 @@
       "Alpha3": "VNM",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8964417+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0666797+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2814,7 +2850,7 @@
       "Alpha3": "YEM",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-14T17:51:23.8964667+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0667042+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2828,7 +2864,7 @@
       "Alpha3": "ZMB",
       "CorporateTax": {
         "Rate": 40.00,
-        "LastUpdated": "2022-11-14T17:51:23.8964932+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0667314+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2842,7 +2878,7 @@
       "Alpha3": "ZWE",
       "CorporateTax": {
         "Rate": 24.72,
-        "LastUpdated": "2022-11-14T17:51:23.8965222+04:00",
+        "LastUpdated": "2022-11-14T17:55:07.0667558+04:00",
         "Brackets": []
       },
       "CapitalGainsTax": null,

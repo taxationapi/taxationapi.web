@@ -64,7 +64,23 @@ foreach (var file in files)
             }
             if (type == InputFileType.IncomeTax)
             {
+                if (DoesPropertyExist(record, "Income_tax"))
+                {
+                    var rateStr = record.Income_tax.Replace(System.Globalization.CultureInfo.CurrentCulture.NumberFormat.PercentSymbol, "");
 
+                    decimal amount = -1;
+                    decimal.TryParse(rateStr, out amount);
+
+
+                    if (amount > 0)
+                    {
+                        country.IncomeTax = new TaxationOverViewEntityIncomeViewModel()
+                        {
+                            Rate = amount,
+                            LastUpdated = DateTime.Now
+                        };
+                    }
+                }
             }
             if (type == InputFileType.WealthTax)
             {
