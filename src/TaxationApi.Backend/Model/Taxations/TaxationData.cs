@@ -15,6 +15,7 @@ namespace TaxationApi.Backend.Model.Taxation
         public CapitalGainsTaxationData CapitalGainsTax { get; set; }
         public IncomeTaxationData IncomeTax { get; set; }
         public LumpsumpTaxationData LumpsumpTax { get; set; }
+        public WealthTaxTaxationData WealthTax { get; set; }
 
     }
 
@@ -39,6 +40,21 @@ namespace TaxationApi.Backend.Model.Taxation
         public List<TaxationBracket> Brackets { get; set; }
 
         public CapitalGainsTaxationData()
+        {
+            Brackets = new List<TaxationBracket>();
+        }
+    }
+
+    public class WealthTaxTaxationData
+    {
+        public decimal Rate { get; set; }
+        public decimal Base { get; set; }
+        public string Comments { get; set; }
+        public DateTime LastUpdated { get; set; }
+        public string Currency { get; set; }
+        public List<TaxationBracket> Brackets { get; set; }
+
+        public WealthTaxTaxationData()
         {
             Brackets = new List<TaxationBracket>();
         }

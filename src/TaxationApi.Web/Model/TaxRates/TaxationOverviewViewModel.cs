@@ -1,4 +1,6 @@
-﻿namespace TaxationApi.Web.Model.TaxRates
+﻿using TaxationApi.Backend.Model.Taxation;
+
+namespace TaxationApi.Web.Model.TaxRates
 {
     public class TaxationOverviewViewModel
     {
@@ -19,6 +21,8 @@
         public TaxationOverViewEntityCapitalGainsViewModel CapitalGainsTax { get; set; }
         public TaxationOverViewEntityIncomeViewModel IncomeTax { get; set; }
         public TaxationOverViewEntityLumpSumpViewModel LumpsumpTax { get; set; }
+        public TaxationOverViewEntityWealthTaxViewModel WealthTax { get; set; }
+
     }
 
     public class TaxationOverViewEntityCorporateViewModel
@@ -47,6 +51,20 @@
 
     }
 
+    public class TaxationOverViewEntityWealthTaxViewModel
+    {
+        public decimal Rate { get; set; }
+        public decimal Base { get; set; }
+        public string Comments { get; set; }
+        public string Currency { get; set; }
+        public DateTime LastUpdated { get; set; }
+        public List<TaxationBracket> Brackets { get; set; }
+
+        public TaxationOverViewEntityWealthTaxViewModel()
+        {
+            Brackets = new List<TaxationBracket>();
+        }
+    }
 
     public class TaxationOverViewEntityCapitalGainsViewModel
     {

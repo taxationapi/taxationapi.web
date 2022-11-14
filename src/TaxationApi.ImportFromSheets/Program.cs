@@ -67,6 +67,28 @@ foreach (var file in files)
             {
 
             }
+            if (type == InputFileType.WealthTax)
+            {
+                if (DoesPropertyExist(record, "Rate"))
+                {
+                    var rateStr = record.Rate.Replace(System.Globalization.CultureInfo.CurrentCulture.NumberFormat.PercentSymbol, "");
+
+                    decimal amount = -1;
+                    decimal.TryParse(rateStr, out amount);
+                    
+
+                    if (amount > 0)
+                    {
+                        country.WealthTax = new TaxationOverViewEntityWealthTaxViewModel()
+                        {
+                            Rate = amount,
+                            Base = Decimal.Parse(record.Base),
+                            Comments = record.Comments,
+                            LastUpdated = DateTime.Now
+                        };
+                    }
+                }
+            }
             if (type == InputFileType.LumpsumpTax)
             {
                 if (DoesPropertyExist(record, "Lumpsump_amount"))
@@ -105,7 +127,9 @@ InputFileType? GetFileTypeBasedOnStringName(string name)
         return InputFileType.IncomeTax;
     if (name.Contains("Lump"))
         return InputFileType.LumpsumpTax;
-
+    if (name.Contains("Wealth-tax"))
+        return InputFileType.WealthTax;
+    
     return null;
 }
 

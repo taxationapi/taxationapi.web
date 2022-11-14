@@ -9,6 +9,7 @@
         public decimal? MinimumCorporateTax { get; set; }
         public decimal? MinimumCapitalGainsTax { get; set; }
         public decimal? MinimumIncomeTax { get; set; }
+        public bool? WealthTaxPossible { get; set; }
         public bool? LumpsumpTaxPossible { get; set; }
         
     }

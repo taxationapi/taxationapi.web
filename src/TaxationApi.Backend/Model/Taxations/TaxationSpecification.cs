@@ -16,5 +16,6 @@ namespace TaxationApi.Backend.Model.Taxation
         public decimal? MinimumCapitalGainsTax { get; set; }
         public decimal? MinimumIncomeTax { get; set; }
         public bool? LumpsumpTaxPossible { get; set; }
+        public bool? WealthTaxPossible { get; set; }
     }
 }

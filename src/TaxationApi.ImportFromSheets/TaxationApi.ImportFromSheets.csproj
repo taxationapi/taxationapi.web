@@ -28,6 +28,9 @@
     <None Update="InputFiles\Taxation - Lumpsump tax.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="InputFiles\Taxation - Wealth-tax.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

@@ -54,7 +54,6 @@ namespace TaxationApi.Backend.Services
             {
                 returnSet = returnSet.Where(x => x.IncomeTax != null && x.CorporateTax.Rate >= specification.MinimumIncomeTax.Value).ToList();
             }
-
             if (specification.LumpsumpTaxPossible.HasValue)
             {
                 if (specification.LumpsumpTaxPossible.Value)
@@ -66,7 +65,19 @@ namespace TaxationApi.Backend.Services
                     returnSet = returnSet.Where(x => x.LumpsumpTax == null).ToList();
                 }
             }
-            
+            if (specification.WealthTaxPossible.HasValue)
+            {
+                if (specification.WealthTaxPossible.Value)
+                {
+                    returnSet = returnSet.Where(x => x.WealthTax != null).ToList();
+                }
+                else
+                {
+                    returnSet = returnSet.Where(x => x.WealthTax == null).ToList();
+                }
+            }
+
+
             FixCurrencies(returnSet);
             return returnSet;
         }
@@ -88,6 +99,12 @@ namespace TaxationApi.Backend.Services
                 {
                     country.LumpsumpTax.Currency = currency;
                 }
+
+                if (country.WealthTax != null)
+                {
+                    country.WealthTax.Currency = currency;
+                }
+
             }
         }
     }

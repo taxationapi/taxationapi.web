@@ -11,6 +11,7 @@ namespace TaxationApi.ImportFromSheets
         CorporateTax,
         IncomeTax,
         CapitalGainsTax,
-        LumpsumpTax   
+        LumpsumpTax  ,
+        WealthTax
     }
 }
