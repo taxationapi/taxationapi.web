@@ -105,6 +105,13 @@ namespace TaxationApi.Backend.Services
                     country.WealthTax.Currency = currency;
                 }
 
+                if (country.IncomeTax != null)
+                {
+                    foreach (var bracket in country.IncomeTax.Brackets)
+                    {
+                        bracket.Currency = currency;
+                    }
+                }
             }
         }
     }
