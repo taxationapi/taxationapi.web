@@ -24,26 +24,53 @@ namespace TaxationApi.Backend.Helpers.Extensions
 
             decimal totalMonthlyTax = 0.0m;
 
-            if (taxationData.IncomeTax != null)
+            totalMonthlyTax = CalculateIncomeTax(taxationData, request, totalMonthlyTax, ref isAllData);
+            totalMonthlyTax = CalculateCorporateTax(taxationData, request, totalMonthlyTax, ref isAllData);
+            totalMonthlyTax = CalculateCapitalGainsTax(taxationData, request, totalMonthlyTax, ref isAllData);
+            totalMonthlyTax = CalculateWealthTax(taxationData, request, totalMonthlyTax, ref isAllData);
+            
+            SetTaxationObject(request, taxation, totalMonthlyTax, isAllData);
+
+            return taxation;
+
+
+        }
+        
+
+        private static void SetTaxationObject(ComputingTaxationRequest request, ComputedTaxation taxation,
+            decimal totalMonthlyTax, bool isAllData)
+        {
+            taxation.MonthlyTax = totalMonthlyTax;
+            taxation.MonthlyNetIncome =
+                ((request.YearlyIncome + request.YearlyCorporateProfits + request.YearlyCapitalGains) / 12) -
+                totalMonthlyTax;
+            taxation.IsAllDataAvailable = isAllData;
+        }
+
+        private static decimal CalculateWealthTax(TaxationData taxationData, ComputingTaxationRequest request,
+            decimal totalMonthlyTax, ref bool isAllData)
+        {
+            if (taxationData.WealthTax != null && request.TotalWealth.HasValue && request.TotalWealth.Value > 0)
             {
-                decimal monthlyIncomeTax = (request.YearlyIncome / 12) * (taxationData.IncomeTax.Rate/100);
-                totalMonthlyTax += monthlyIncomeTax;
-            }
-            else
-            {
-                isAllData = false;
+                var minimumBase = taxationData.WealthTax.Base;
+                if (request.TotalWealth > minimumBase)
+                {
+                    var amountAbove = request.TotalWealth - minimumBase;
+                    var wealthTaxation = amountAbove * (taxationData.WealthTax.Rate/100);
+                    var wealthTaxationMonthly = wealthTaxation / 12;
+                    
+                    totalMonthlyTax += wealthTaxationMonthly.Value;
+
+                }
             }
 
-            if (taxationData.CorporateTax != null)
-            {
-                decimal monthlyCorporateTax = (request.YearlyCorporateProfits / 12) * (taxationData.CorporateTax.Rate / 100);
-                totalMonthlyTax += monthlyCorporateTax;
-            }
-            else
-            {
-                isAllData = false;
-            }
+            return totalMonthlyTax;
+        }
 
+        
+        private static decimal CalculateCapitalGainsTax(TaxationData taxationData, ComputingTaxationRequest request,
+            decimal totalMonthlyTax, ref bool isAllData)
+        {
             if (taxationData.CapitalGainsTax != null)
             {
                 decimal monthlyCapitalGainsTax = (request.YearlyCapitalGains / 12) * (taxationData.CapitalGainsTax.Rate / 100);
@@ -54,15 +81,39 @@ namespace TaxationApi.Backend.Helpers.Extensions
                 isAllData = false;
             }
 
-            taxation.MonthlyTax = totalMonthlyTax;
-            taxation.MonthlyNetIncome =
-                ((request.YearlyIncome + request.YearlyCorporateProfits + request.YearlyCapitalGains) / 12) -
-                totalMonthlyTax;
-            taxation.IsAllDataAvailable = isAllData;
+            return totalMonthlyTax;
+        }
 
-            return taxation;
+        private static decimal CalculateCorporateTax(TaxationData taxationData, ComputingTaxationRequest request,
+            decimal totalMonthlyTax, ref bool isAllData)
+        {
+            if (taxationData.CorporateTax != null)
+            {
+                decimal monthlyCorporateTax = (request.YearlyCorporateProfits / 12) * (taxationData.CorporateTax.Rate / 100);
+                totalMonthlyTax += monthlyCorporateTax;
+            }
+            else
+            {
+                isAllData = false;
+            }
 
+            return totalMonthlyTax;
+        }
 
+        private static decimal CalculateIncomeTax(TaxationData taxationData, ComputingTaxationRequest request,
+            decimal totalMonthlyTax, ref bool isAllData)
+        {
+            if (taxationData.IncomeTax != null)
+            {
+                decimal monthlyIncomeTax = (request.YearlyIncome / 12) * (taxationData.IncomeTax.Rate / 100);
+                totalMonthlyTax += monthlyIncomeTax;
+            }
+            else
+            {
+                isAllData = false;
+            }
+
+            return totalMonthlyTax;
         }
     }
 }

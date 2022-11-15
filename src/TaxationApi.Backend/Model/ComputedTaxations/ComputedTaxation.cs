@@ -53,6 +53,11 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
         {
             get
             {
+                if (YearlyGrossIncome == 0)
+                {
+                    return 0;
+                }
+
                 return 1 - YearlyNetIncome / YearlyGrossIncome;
             }
         }

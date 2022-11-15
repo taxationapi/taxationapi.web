@@ -11,5 +11,6 @@ namespace TaxationApi.Backend.Model.ComputedTaxations.Requests
         public decimal YearlyIncome { get; set; }
         public decimal YearlyCorporateProfits { get; set; }
         public decimal YearlyCapitalGains { get; set; }
+        public decimal? TotalWealth { get; set; }
     }
 }
