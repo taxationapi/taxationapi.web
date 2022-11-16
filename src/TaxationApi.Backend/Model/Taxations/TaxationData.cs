@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TaxationApi.Backend.Model.Taxations;
 
 namespace TaxationApi.Backend.Model.Taxation
 {
@@ -24,6 +25,7 @@ namespace TaxationApi.Backend.Model.Taxation
     {
         public decimal Rate { get; set; }
         public DateTime LastUpdated { get; set; }
+        public ValidationLevel ValidationLevel { get; set; }
         public List<TaxationBracket> Brackets { get; set; }
 
         public CorporateTaxationData()
@@ -37,6 +39,7 @@ namespace TaxationApi.Backend.Model.Taxation
     {
         public decimal Rate { get; set; }
         public DateTime LastUpdated { get; set; }
+        public ValidationLevel ValidationLevel { get; set; }
         public List<TaxationBracket> Brackets { get; set; }
 
         public CapitalGainsTaxationData()
@@ -50,6 +53,7 @@ namespace TaxationApi.Backend.Model.Taxation
         public decimal Rate { get; set; }
         public decimal Base { get; set; }
         public string Comments { get; set; }
+        public ValidationLevel ValidationLevel { get; set; }
         public DateTime LastUpdated { get; set; }
         public string Currency { get; set; }
         public List<TaxationBracket> Brackets { get; set; }
@@ -64,6 +68,7 @@ namespace TaxationApi.Backend.Model.Taxation
     {
         public decimal Rate { get; set; }
         public DateTime LastUpdated { get; set; }
+        public ValidationLevel ValidationLevel { get; set; }
         public List<TaxationBracket> Brackets { get; set; }
 
         public IncomeTaxationData()
@@ -77,6 +82,7 @@ namespace TaxationApi.Backend.Model.Taxation
         public decimal Amount { get; set; }
         public decimal? Rate { get; set; }
         public string Currency { get; set; }
+        public ValidationLevel ValidationLevel { get; set; }
         public DateTime LastUpdated { get; set; }
     }
 
@@ -85,6 +91,7 @@ namespace TaxationApi.Backend.Model.Taxation
         public decimal? Rate { get; set; }
         public decimal? Amount { get; set; }
         public string Currency { get; set; }
+        public ValidationLevel ValidationLevel { get; set; }
         public decimal LowerBracket { get; set; }
         public decimal HigherBracket { get; set; }
 

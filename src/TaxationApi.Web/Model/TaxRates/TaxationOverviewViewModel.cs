@@ -1,4 +1,8 @@
-﻿using TaxationApi.Backend.Model.Taxation;
+﻿using System.ComponentModel.DataAnnotations;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+using TaxationApi.Backend.Model.Taxation;
+using TaxationApi.Backend.Model.Taxations;
 
 namespace TaxationApi.Web.Model.TaxRates
 {
@@ -29,6 +33,7 @@ namespace TaxationApi.Web.Model.TaxRates
     {
         public decimal Rate { get; set; }
         public DateTime LastUpdated { get; set; }
+        public ValidationLevel ValidationLevel { get; set; }
         public List<TaxationBracketEntityViewModel> Brackets { get; set; }
 
         public TaxationOverViewEntityCorporateViewModel()
@@ -42,6 +47,8 @@ namespace TaxationApi.Web.Model.TaxRates
         public decimal Amount { get; set; }
         public string Currency { get; set; }
         public decimal? Rate { get; set; }
+
+        public ValidationLevel ValidationLevel { get; set; }
         public DateTime LastUpdated { get; set; }
 
         public TaxationOverViewEntityLumpSumpViewModel()
@@ -57,6 +64,8 @@ namespace TaxationApi.Web.Model.TaxRates
         public decimal Base { get; set; }
         public string Comments { get; set; }
         public string Currency { get; set; }
+
+        public ValidationLevel ValidationLevel { get; set; }
         public DateTime LastUpdated { get; set; }
         public List<TaxationBracket> Brackets { get; set; }
 
@@ -70,6 +79,8 @@ namespace TaxationApi.Web.Model.TaxRates
     {
         public decimal Rate { get; set; }
         public DateTime LastUpdated { get; set; }
+
+        public ValidationLevel ValidationLevel { get; set; }
         public List<TaxationBracketEntityViewModel> Brackets { get; set; }
 
         public TaxationOverViewEntityCapitalGainsViewModel()
@@ -81,6 +92,7 @@ namespace TaxationApi.Web.Model.TaxRates
     public class TaxationOverViewEntityIncomeViewModel
     {
         public decimal Rate { get; set; }
+        public ValidationLevel ValidationLevel { get; set; }
         public DateTime LastUpdated { get; set; }
         public List<TaxationBracketEntityViewModel> Brackets { get; set; }
 
