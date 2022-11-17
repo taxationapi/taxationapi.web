@@ -11,41 +11,122 @@ namespace TaxationApi.Backend.Helpers.Extensions
 {
     public static class TaxationExtensions
     {
-        public static ComputedTaxation GetTax(this TaxationData taxationData, ComputingTaxationRequest request)
+        public static ComputedIncomeTaxation GetIncomeTax(this TaxationData taxationData, ComputingTaxationRequest request)
         {
-            ComputedTaxation taxation = new ComputedTaxation()
-            {
-                Alpha2 = taxationData.Alpha2,
-                Alpha3 = taxationData.Alpha3,
-                Name = taxationData.Name
-            };
-
-            bool isAllData = true;
-
-            decimal totalMonthlyTax = 0.0m;
-
-            totalMonthlyTax = CalculateIncomeTax(taxationData, request, totalMonthlyTax, ref isAllData);
-            totalMonthlyTax = CalculateCorporateTax(taxationData, request, totalMonthlyTax, ref isAllData);
-            totalMonthlyTax = CalculateCapitalGainsTax(taxationData, request, totalMonthlyTax, ref isAllData);
-            totalMonthlyTax = CalculateWealthTax(taxationData, request, totalMonthlyTax, ref isAllData);
+            ComputedIncomeTaxation incomeTaxation = new ComputedIncomeTaxation();
+            var incomeTax = taxationData.IncomeTax;
+            var taxableIncome = request.YearlyIncome;
+            var taxedIncomeSoFar = 0.0m;
+            var taxabaleIncomeLeft = taxableIncome - taxedIncomeSoFar;
+            var lowestBracket = 0.0m;
             
-            SetTaxationObject(request, taxation, totalMonthlyTax, isAllData);
+            if (incomeTax != null)
+            {
+                foreach (var incomeBracket in incomeTax.Brackets.OrderBy(c=>c.LowerBracket))
+                {
+                    lowestBracket = incomeBracket.LowerBracket;
+                    
+                    if (taxabaleIncomeLeft > 0) // we need to take income from this bracket
+                    {
+                        bool shouldUseEntireBracket = taxabaleIncomeLeft > incomeBracket.BracketSize;
+                        if (shouldUseEntireBracket)
+                        {
+                            var taxableIncomeInBracket = incomeBracket.BracketSize * incomeBracket.Rate.Value / 100m;
+                            incomeTaxation.Brackets.Add(new ComputedTaxBracket()
+                            {
+                                LowerBracket = incomeBracket.LowerBracket,
+                                HigherBracket = incomeBracket.HigherBracket,
+                                TaxInBracket = taxableIncomeInBracket,
+                                Rate = incomeBracket.Rate.Value,
+                                IncomeInBracket = incomeBracket.BracketSize
+                            });
+                            taxedIncomeSoFar += incomeBracket.BracketSize;
+                            taxabaleIncomeLeft -= incomeBracket.BracketSize;
+                        }
+                        else
+                        {
+                            var taxableAmountInBracket = taxabaleIncomeLeft;
+                            var taxableIncomeBracket = taxableAmountInBracket * incomeBracket.Rate.Value / 100m;
+                            incomeTaxation.Brackets.Add(new ComputedTaxBracket()
+                            {
+                                LowerBracket = incomeBracket.LowerBracket,
+                                HigherBracket = incomeBracket.HigherBracket,
+                                TaxInBracket = taxableIncomeBracket,
+                                Rate = incomeBracket.Rate.Value,
+                                IncomeInBracket = taxableAmountInBracket
+                            });
+                            taxedIncomeSoFar += taxableAmountInBracket;
+                            taxabaleIncomeLeft = 0;
+                            break;
+                        }
+                    }
+                    else
+                    {
+                        break;
+                    }
+                    
+                }
 
-            return taxation;
+                if (taxabaleIncomeLeft > 0) // rest income should be the full taxation amount
+                {
+                    var taxableAmountOutsideBracket = taxabaleIncomeLeft * incomeTax.Rate / 100m;
+                    incomeTaxation.Brackets.Add(new ComputedTaxBracket()
+                    {
+                        LowerBracket = lowestBracket,
+                        TaxInBracket = taxableAmountOutsideBracket,
+                        Rate = incomeTax.Rate,
+                        IncomeInBracket = taxabaleIncomeLeft
+                    });
+                }
 
+                
+            }
+            else
+            {
+                return null;
+            }
 
+            
+            incomeTaxation.MonthlyTax = incomeTaxation.Brackets.Sum(c => c.TaxInBracket) / 12;
+            incomeTaxation.MonthlyNetIncome = (request.YearlyIncome / 12) - incomeTaxation.MonthlyTax;
+           
+            return incomeTaxation;
         }
+
+        //public static ComputedTaxation GetTax(this TaxationData taxationData, ComputingTaxationRequest request)
+        //{
+        //    ComputedTaxation taxation = new ComputedTaxation()
+        //    {
+        //        Alpha2 = taxationData.Alpha2,
+        //        Alpha3 = taxationData.Alpha3,
+        //        Name = taxationData.Name
+        //    };
+
+        //    bool isAllData = true;
+
+        //    decimal totalMonthlyTax = 0.0m;
+            
+        //    totalMonthlyTax = CalculateCorporateTax(taxationData, request, totalMonthlyTax, ref isAllData);
+        //    totalMonthlyTax = CalculateCapitalGainsTax(taxationData, request, totalMonthlyTax, ref isAllData);
+        //    totalMonthlyTax = CalculateWealthTax(taxationData, request, totalMonthlyTax, ref isAllData);
+            
+        //   // SetTaxationObject(request, taxation, totalMonthlyTax, isAllData);
+
+        //    return taxation;
+
+
+        //}
         
 
-        private static void SetTaxationObject(ComputingTaxationRequest request, ComputedTaxation taxation,
-            decimal totalMonthlyTax, bool isAllData)
-        {
-            taxation.MonthlyTax = totalMonthlyTax;
-            taxation.MonthlyNetIncome =
-                ((request.YearlyIncome + request.YearlyCorporateProfits + request.YearlyCapitalGains) / 12) -
-                totalMonthlyTax;
-            taxation.IsAllDataAvailable = isAllData;
-        }
+        //private static void SetTaxationObject(ComputingTaxationRequest request, ComputedTaxation taxation,
+        //    decimal totalMonthlyTax, bool isAllData)
+        //{
+        //    taxation.MonthlyTax = totalMonthlyTax;
+        //    taxation.MonthlyNetIncome =
+        //        ((request.YearlyIncome + request.YearlyCorporateProfits + request.YearlyCapitalGains) / 12) -
+        //        totalMonthlyTax;
+        //    taxation.IsAllDataAvailable = isAllData;
+        //}
 
         private static decimal CalculateWealthTax(TaxationData taxationData, ComputingTaxationRequest request,
             decimal totalMonthlyTax, ref bool isAllData)

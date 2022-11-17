@@ -29,8 +29,19 @@ namespace TaxationApi.Backend.Services
             var allTaxations = _data.ToList();
             foreach (var taxation in allTaxations)
             {
-                var computed = taxation.GetTax(request);
-                computedTaxations.Add(computed);
+                var incomeTaxation = taxation.GetIncomeTax(request);
+                if (incomeTaxation != null)
+                {
+                    var compuated = new ComputedTaxation()
+                    {
+                        IncomeTaxation = incomeTaxation,
+                        Alpha2 = taxation.Alpha2,
+                        Alpha3 = taxation.Alpha3,
+                        Name = taxation.Name
+                    };
+                    computedTaxations.Add(compuated);
+                }
+               
             }
 
             return computedTaxations;

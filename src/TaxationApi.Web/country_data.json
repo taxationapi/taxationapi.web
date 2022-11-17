@@ -222,6 +222,13 @@
         "LastUpdated": "2022-11-15T22:44:07.2264684+04:00",
         "Brackets": [
           {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 11000.0
+          },
+          {
             "Rate": 20.0,
             "Amount": null,
             "Currency": null,

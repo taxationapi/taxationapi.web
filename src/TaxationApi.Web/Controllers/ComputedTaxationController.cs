@@ -22,7 +22,7 @@ namespace TaxationApi.Web.Controllers
         {
 
             var result = _computedTaxationService.ComputeTaxations(getRequest);
-            result = result.Where(c => c.IsAllDataAvailable).ToList();
+          //  result = result.Where(c => c.Alpha3 == "AUT").ToList();
             return Ok(result);
         }
     }

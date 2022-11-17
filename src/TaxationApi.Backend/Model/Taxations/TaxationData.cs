@@ -95,5 +95,13 @@ namespace TaxationApi.Backend.Model.Taxation
         public decimal LowerBracket { get; set; }
         public decimal HigherBracket { get; set; }
 
+        public decimal BracketSize
+        {
+            get
+            {
+                return HigherBracket - LowerBracket;
+            }
+        }
+
     }
 }

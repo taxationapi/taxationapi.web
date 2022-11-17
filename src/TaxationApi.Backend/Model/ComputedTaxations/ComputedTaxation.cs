@@ -12,8 +12,25 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
         public string Alpha2 { get; set; }
         public string Alpha3 { get; set; }
         public bool IsAllDataAvailable { get; set; }
-        public decimal MonthlyNetIncome { get; set; }
-        public decimal MonthlyTax { get; set; }
+
+    
+        public ComputedIncomeTaxation IncomeTaxation { get; set; }
+
+        public decimal MonthlyNetIncome
+        {
+            get
+            {
+                return IncomeTaxation.MonthlyNetIncome;
+            }
+        }
+
+        public decimal MonthlyTax
+        {
+            get
+            {
+                return IncomeTaxation.MonthlyTax;
+            }
+        }
 
         public decimal MonthlyGrossIncome
         {
@@ -65,6 +82,17 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
         public ComputedTaxation()
         {
             
+        }
+    }
+
+    public class ComputedIncomeTaxation
+    {
+        public decimal MonthlyNetIncome { get; set; }
+        public decimal MonthlyTax { get; set; }
+        public List<ComputedTaxBracket> Brackets { get; set; }
+        public ComputedIncomeTaxation()
+        {
+            Brackets = new List<ComputedTaxBracket>();
         }
     }
 }
