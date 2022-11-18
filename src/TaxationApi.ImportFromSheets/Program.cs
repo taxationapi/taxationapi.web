@@ -172,8 +172,91 @@ foreach (var file in files)
                                 };
                                 country.IncomeTax.Brackets.Add(bracket);
                             }
-                            
-                         
+                        }
+                        if (DoesPropertyExist(record, "Bracket_6_low"))
+                        {
+                            var lowAmountStr = record.Bracket_6_low;
+                            if (!string.IsNullOrWhiteSpace(lowAmountStr))
+                            {
+                                var highAmountStr = record.Bracket_6_high;
+                                var bracketStr = record.Bracket_6_amount.Replace(System.Globalization.CultureInfo.CurrentCulture.NumberFormat.PercentSymbol, "");
+
+                                var bracket = new TaxationBracketEntityViewModel()
+                                {
+                                    Rate = decimal.Parse(bracketStr),
+                                    LowerBracket = decimal.Parse(lowAmountStr),
+                                    HigherBracket = decimal.Parse(highAmountStr)
+                                };
+                                country.IncomeTax.Brackets.Add(bracket);
+                            }
+                        }
+                        if (DoesPropertyExist(record, "Bracket_7_low"))
+                        {
+                            var lowAmountStr = record.Bracket_7_low;
+                            if (!string.IsNullOrWhiteSpace(lowAmountStr))
+                            {
+                                var highAmountStr = record.Bracket_7_high;
+                                var bracketStr = record.Bracket_7_amount.Replace(System.Globalization.CultureInfo.CurrentCulture.NumberFormat.PercentSymbol, "");
+
+                                var bracket = new TaxationBracketEntityViewModel()
+                                {
+                                    Rate = decimal.Parse(bracketStr),
+                                    LowerBracket = decimal.Parse(lowAmountStr),
+                                    HigherBracket = decimal.Parse(highAmountStr)
+                                };
+                                country.IncomeTax.Brackets.Add(bracket);
+                            }
+                        }
+                        if (DoesPropertyExist(record, "Bracket_8_low"))
+                        {
+                            var lowAmountStr = record.Bracket_8_low;
+                            if (!string.IsNullOrWhiteSpace(lowAmountStr))
+                            {
+                                var highAmountStr = record.Bracket_8_high;
+                                var bracketStr = record.Bracket_8_amount.Replace(System.Globalization.CultureInfo.CurrentCulture.NumberFormat.PercentSymbol, "");
+
+                                var bracket = new TaxationBracketEntityViewModel()
+                                {
+                                    Rate = decimal.Parse(bracketStr),
+                                    LowerBracket = decimal.Parse(lowAmountStr),
+                                    HigherBracket = decimal.Parse(highAmountStr)
+                                };
+                                country.IncomeTax.Brackets.Add(bracket);
+                            }
+                        }
+                        if (DoesPropertyExist(record, "Bracket_9_low"))
+                        {
+                            var lowAmountStr = record.Bracket_9_low;
+                            if (!string.IsNullOrWhiteSpace(lowAmountStr))
+                            {
+                                var highAmountStr = record.Bracket_9_high;
+                                var bracketStr = record.Bracket_9_amount.Replace(System.Globalization.CultureInfo.CurrentCulture.NumberFormat.PercentSymbol, "");
+
+                                var bracket = new TaxationBracketEntityViewModel()
+                                {
+                                    Rate = decimal.Parse(bracketStr),
+                                    LowerBracket = decimal.Parse(lowAmountStr),
+                                    HigherBracket = decimal.Parse(highAmountStr)
+                                };
+                                country.IncomeTax.Brackets.Add(bracket);
+                            }
+                        }
+                        if (DoesPropertyExist(record, "Bracket_10_low"))
+                        {
+                            var lowAmountStr = record.Bracket_10_low;
+                            if (!string.IsNullOrWhiteSpace(lowAmountStr))
+                            {
+                                var highAmountStr = record.Bracket_10_high;
+                                var bracketStr = record.Bracket_10_amount.Replace(System.Globalization.CultureInfo.CurrentCulture.NumberFormat.PercentSymbol, "");
+
+                                var bracket = new TaxationBracketEntityViewModel()
+                                {
+                                    Rate = decimal.Parse(bracketStr),
+                                    LowerBracket = decimal.Parse(lowAmountStr),
+                                    HigherBracket = decimal.Parse(highAmountStr)
+                                };
+                                country.IncomeTax.Brackets.Add(bracket);
+                            }
                         }
 
                     }

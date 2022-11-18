@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxationApi.Web", "src\Taxa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxationApi.Backend", "src\TaxationApi.Backend\TaxationApi.Backend.csproj", "{5ADE9F09-030E-4C74-962D-2F6777291234}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxationApi.ImportFromSheets", "src\TaxationApi.ImportFromSheets\TaxationApi.ImportFromSheets.csproj", "{4D26965A-ED05-4EF2-A07F-15329C4F0FCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaxationApi.ImportFromSheets", "src\TaxationApi.ImportFromSheets\TaxationApi.ImportFromSheets.csproj", "{4D26965A-ED05-4EF2-A07F-15329C4F0FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taxation.UpdateExchangeRates", "Taxation.UpdateExchangeRates\Taxation.UpdateExchangeRates.csproj", "{94BFFA68-CC8E-470F-A5C0-2FEB62E1F95B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4D26965A-ED05-4EF2-A07F-15329C4F0FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D26965A-ED05-4EF2-A07F-15329C4F0FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D26965A-ED05-4EF2-A07F-15329C4F0FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94BFFA68-CC8E-470F-A5C0-2FEB62E1F95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BFFA68-CC8E-470F-A5C0-2FEB62E1F95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BFFA68-CC8E-470F-A5C0-2FEB62E1F95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BFFA68-CC8E-470F-A5C0-2FEB62E1F95B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

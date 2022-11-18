@@ -16,17 +16,20 @@
       "Alpha3": "AFG",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.44783+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.142647+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4359294+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1321032+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:07.2197691+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1640611+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -38,18 +41,36 @@
       "Alpha3": "ALB",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4485573+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1427619+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.437988+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1339708+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
-        "Rate": 50.00,
-        "LastUpdated": "2022-11-15T22:44:07.2263104+04:00",
-        "Brackets": []
+        "Rate": 23.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1766935+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 30000.0
+          },
+          {
+            "Rate": 13.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 30000.0,
+            "HigherBracket": 150000.0
+          }
+        ]
       },
       "LumpsumpTax": null,
       "WealthTax": null
@@ -60,17 +81,20 @@
       "Alpha3": "DZA",
       "CorporateTax": {
         "Rate": 26.00,
-        "LastUpdated": "2022-11-15T22:44:04.4469273+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1427732+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4380066+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1339935+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:07.2263406+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1844087+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -82,17 +106,20 @@
       "Alpha3": "AND",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4489691+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1427834+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4380217+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1340048+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:07.2263616+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.184438+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -104,17 +131,20 @@
       "Alpha3": "AGO",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4469584+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1427933+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4380326+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1340221+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2263788+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1844623+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -126,12 +156,14 @@
       "Alpha3": "AIA",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4492751+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1428066+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4380447+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1340351+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": null,
@@ -144,17 +176,20 @@
       "Alpha3": "ARG",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4458885+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1428173+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4380652+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1340481+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:07.2264149+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1845097+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -163,7 +198,8 @@
         "Base": 300000000.0,
         "Comments": "Higher rates for abroad assets",
         "Currency": null,
-        "LastUpdated": "2022-11-15T22:44:07.270272+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2567754+04:00",
         "Brackets": []
       }
     },
@@ -173,17 +209,20 @@
       "Alpha3": "ARM",
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-15T22:44:04.4483664+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1428271+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 18.0,
-        "LastUpdated": "2022-11-15T22:44:04.4380762+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.134063+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
-        "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:07.2264313+04:00",
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1845355+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -195,13 +234,15 @@
       "Alpha3": "AUS",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4461768+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1428403+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 45.00,
-        "LastUpdated": "2022-11-15T22:44:07.2264475+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1845615+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -213,13 +254,15 @@
       "Alpha3": "AUT",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4469679+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1428505+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 55.00,
-        "LastUpdated": "2022-11-15T22:44:07.2264684+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1845871+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -274,18 +317,29 @@
       "Alpha3": "AZE",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4478396+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1428607+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4381134+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1341009+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 14.00,
-        "LastUpdated": "2022-11-15T22:44:07.2400585+04:00",
-        "Brackets": []
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1926955+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 8000.0
+          }
+        ]
       },
       "LumpsumpTax": null,
       "WealthTax": null
@@ -296,12 +350,14 @@
       "Alpha3": "BHS",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4492884+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1428733+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4381237+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1341119+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": null,
@@ -314,12 +370,14 @@
       "Alpha3": "BHR",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4492984+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1428842+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4381398+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1341226+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": null,
@@ -332,17 +390,20 @@
       "Alpha3": "BGD",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4461897+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1428945+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4381503+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.134137+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2401134+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1927771+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -354,17 +415,20 @@
       "Alpha3": "BRB",
       "CorporateTax": {
         "Rate": 5.50,
-        "LastUpdated": "2022-11-15T22:44:04.4492556+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1429086+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4381606+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1341481+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 28.50,
-        "LastUpdated": "2022-11-15T22:44:07.2401317+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.192805+04:00",
         "Brackets": [
           {
             "Rate": 12.50,
@@ -384,13 +448,15 @@
       "Alpha3": "BLR",
       "CorporateTax": {
         "Rate": 20.0,
-        "LastUpdated": "2022-11-15T22:44:04.4478538+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1429194+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 13.00,
-        "LastUpdated": "2022-11-15T22:44:07.2401503+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1928297+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -402,18 +468,43 @@
       "Alpha3": "BEL",
       "CorporateTax": {
         "Rate": 25.0,
-        "LastUpdated": "2022-11-15T22:44:04.4469778+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.14293+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 16.50,
-        "LastUpdated": "2022-11-15T22:44:04.4381876+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1341752+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
-        "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2401706+04:00",
-        "Brackets": []
+        "Rate": 50.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1928578+04:00",
+        "Brackets": [
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 13870.0
+          },
+          {
+            "Rate": 40.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 13870.0,
+            "HigherBracket": 24480.0
+          },
+          {
+            "Rate": 45.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 24480.0,
+            "HigherBracket": 42370.0
+          }
+        ]
       },
       "LumpsumpTax": null,
       "WealthTax": {
@@ -421,7 +512,8 @@
         "Base": 1000000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-15T22:44:07.2705433+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2569956+04:00",
         "Brackets": []
       }
     },
@@ -431,17 +523,20 @@
       "Alpha3": "BLZ",
       "CorporateTax": {
         "Rate": 1.75,
-        "LastUpdated": "2022-11-15T22:44:04.4492658+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1429434+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.0,
-        "LastUpdated": "2022-11-15T22:44:04.4382024+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1341864+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2401877+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1928941+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -453,13 +548,15 @@
       "Alpha3": "BEN",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4461998+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1429545+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:07.2402109+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1929215+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -471,12 +568,14 @@
       "Alpha3": "BMU",
       "CorporateTax": {
         "Rate": 7.00,
-        "LastUpdated": "2022-11-15T22:44:04.4492411+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1429654+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4382254+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1342142+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": null,
@@ -489,13 +588,15 @@
       "Alpha3": "BTN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4469918+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1429789+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2402455+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1929705+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -507,17 +608,20 @@
       "Alpha3": "BOL",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4470021+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.14299+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4382508+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1342419+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 13.00,
-        "LastUpdated": "2022-11-15T22:44:07.2402628+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1929945+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -529,17 +633,20 @@
       "Alpha3": "BIH",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4489805+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1430015+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4382686+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1342539+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:07.2402828+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.193022+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -551,13 +658,15 @@
       "Alpha3": "BWA",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-15T22:44:04.4475826+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1430194+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2403009+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1930498+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -569,13 +678,15 @@
       "Alpha3": "BRA",
       "CorporateTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-15T22:44:04.4460832+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1430359+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 27.50,
-        "LastUpdated": "2022-11-15T22:44:07.2403211+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1930786+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -587,12 +698,14 @@
       "Alpha3": "BRN",
       "CorporateTax": {
         "Rate": 18.50,
-        "LastUpdated": "2022-11-15T22:44:04.4483346+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1430474+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.438309+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1342999+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": null,
@@ -605,17 +718,20 @@
       "Alpha3": "BGR",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4489911+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1430622+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4383206+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1343122+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:07.2403537+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1931435+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -627,13 +743,15 @@
       "Alpha3": "BFA",
       "CorporateTax": {
         "Rate": 27.50,
-        "LastUpdated": "2022-11-15T22:44:04.4468242+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1430737+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2403744+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1931717+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -645,17 +763,20 @@
       "Alpha3": "BDI",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4462104+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1430885+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4383493+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1343405+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:07.2403912+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1931959+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -667,18 +788,28 @@
       "Alpha3": "KHM",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4478651+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1431004+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4383658+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1343554+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:07.2404135+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1932271+04:00",
         "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 1300000.0
+          },
           {
             "Rate": 5.0,
             "Amount": null,
@@ -711,17 +842,20 @@
       "Alpha3": "CMR",
       "CorporateTax": {
         "Rate": 33.00,
-        "LastUpdated": "2022-11-15T22:44:04.4461107+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1431119+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 16.50,
-        "LastUpdated": "2022-11-15T22:44:04.4383774+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1343678+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 38.50,
-        "LastUpdated": "2022-11-15T22:44:07.2404454+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1932611+04:00",
         "Brackets": [
           {
             "Rate": 11.0,
@@ -755,13 +889,15 @@
       "Alpha3": "CAN",
       "CorporateTax": {
         "Rate": 38.00,
-        "LastUpdated": "2022-11-15T22:44:04.4458781+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1431273+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 33.00,
-        "LastUpdated": "2022-11-15T22:44:07.2404669+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1932913+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -773,11 +909,46 @@
       "Alpha3": "CAF",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4462247+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1431393+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 40.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1933448+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 378000.0
+          },
+          {
+            "Rate": 8.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 378000.0,
+            "HigherBracket": 1680000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1680000.0,
+            "HigherBracket": 3360000.0
+          },
+          {
+            "Rate": 28.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 3360000.0,
+            "HigherBracket": 5040000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -787,15 +958,44 @@
       "Alpha3": "TCD",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4458995+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1431538+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4384214+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1344115+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1933769+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 800000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 800001.0,
+            "HigherBracket": 2500000.0
+          },
+          {
+            "Rate": 7500000.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 2500000.0,
+            "HigherBracket": 20.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -805,13 +1005,15 @@
       "Alpha3": "CHL",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-15T22:44:04.4468381+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1431663+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 35.50,
-        "LastUpdated": "2022-11-15T22:44:07.240525+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1934049+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -823,13 +1025,15 @@
       "Alpha3": "CHN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4470174+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1431811+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 45.00,
-        "LastUpdated": "2022-11-15T22:44:07.2405438+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1934335+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -841,18 +1045,47 @@
       "Alpha3": "COL",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.445915+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1431934+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 33.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1934624+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 1400.0
+          },
+          {
+            "Rate": 19.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1400.0,
+            "HigherBracket": 1700.0
+          },
+          {
+            "Rate": 28.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1700.0,
+            "HigherBracket": 4100.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": {
         "Rate": 1.0,
         "Base": 5000000000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-15T22:44:07.27087+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2572532+04:00",
         "Brackets": []
       }
     },
@@ -862,13 +1095,15 @@
       "Alpha3": "COG",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4462362+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1432081+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 40.00,
-        "LastUpdated": "2022-11-15T22:44:07.2405818+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1934923+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -880,13 +1115,15 @@
       "Alpha3": "CRI",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4462536+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1432221+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2406045+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1935231+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -898,13 +1135,15 @@
       "Alpha3": "CIV",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4470291+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1432369+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:07.2406234+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1935494+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -916,13 +1155,15 @@
       "Alpha3": "HRV",
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-15T22:44:04.4483834+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1432496+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:07.2406532+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1935783+04:00",
         "Brackets": [
           {
             "Rate": 20.0,
@@ -942,14 +1183,23 @@
       "Alpha3": "CUB",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4459266+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1432621+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 50.00,
-        "LastUpdated": "2022-11-15T22:44:07.2406774+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1936095+04:00",
         "Brackets": [
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 10000.0
+          },
           {
             "Rate": 20.0,
             "Amount": null,
@@ -982,18 +1232,28 @@
       "Alpha3": "CYP",
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-15T22:44:04.4488309+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1432799+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4385671+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1345516+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:07.2407006+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1936426+04:00",
         "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 19500.0
+          },
           {
             "Rate": 20.0,
             "Amount": null,
@@ -1026,17 +1286,20 @@
       "Alpha3": "CZE",
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-15T22:44:04.4482461+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1432926+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4385814+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1345683+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 23.00,
-        "LastUpdated": "2022-11-15T22:44:07.2407255+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1936743+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1048,17 +1311,20 @@
       "Alpha3": "DNK",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-15T22:44:04.4475946+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1433087+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 42.00,
-        "LastUpdated": "2022-11-15T22:44:04.4385985+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1345825+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 56.00,
-        "LastUpdated": "2022-11-15T22:44:07.2407464+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.193703+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1070,17 +1336,20 @@
       "Alpha3": "DJI",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4470434+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1433219+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 5.00,
-        "LastUpdated": "2022-11-15T22:44:04.4386114+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1345993+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:07.2407647+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1937315+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1092,17 +1361,20 @@
       "Alpha3": "DMA",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4470555+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1433374+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4386269+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1346129+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:07.2407868+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1937582+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1114,13 +1386,15 @@
       "Alpha3": "DOM",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-15T22:44:04.4468505+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1433506+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2408066+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.193788+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1131,18 +1405,21 @@
       "Alpha2": "EC",
       "Alpha3": "ECU",
       "CorporateTax": {
-        "Rate": 28.00,
-        "LastUpdated": "2022-11-15T22:44:04.4467684+04:00",
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-18T18:44:51.1433667+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4386582+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1346461+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 37.00,
-        "LastUpdated": "2022-11-15T22:44:07.2408303+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1938187+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1154,17 +1431,20 @@
       "Alpha3": "EGY",
       "CorporateTax": {
         "Rate": 22.50,
-        "LastUpdated": "2022-11-15T22:44:04.4475676+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1433825+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 22.50,
-        "LastUpdated": "2022-11-15T22:44:04.4386711+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1346598+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:07.2408525+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1938482+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1176,17 +1456,20 @@
       "Alpha3": "SLV",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4467536+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1433968+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.438689+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1346764+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:07.2408734+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1938781+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1198,17 +1481,20 @@
       "Alpha3": "GNQ",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4459456+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1434125+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4387067+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1346903+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:07.2408966+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1939094+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1220,17 +1506,20 @@
       "Alpha3": "ERI",
       "CorporateTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-15T22:44:04.446096+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1434258+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-15T22:44:04.4387203+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1347073+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-15T22:44:07.2409179+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1939385+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1242,17 +1531,20 @@
       "Alpha3": "EST",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.447923+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.143442+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4387373+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1347231+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:07.2409364+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1939646+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1264,13 +1556,15 @@
       "Alpha3": "ETH",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4462664+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1434555+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:07.2409589+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1939943+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1282,13 +1576,15 @@
       "Alpha3": "FRO",
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-15T22:44:04.4483965+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1434716+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:07.2409818+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1940242+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1300,17 +1596,20 @@
       "Alpha3": "FJI",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4479609+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1434855+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4388126+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1347997+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:07.2410017+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1940544+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1322,13 +1621,15 @@
       "Alpha3": "FIN",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4479742+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.143504+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 55.00,
-        "LastUpdated": "2022-11-15T22:44:07.2410251+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1940854+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1339,14 +1640,16 @@
       "Alpha2": "FR",
       "Alpha3": "FRA",
       "CorporateTax": {
-        "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4462827+04:00",
+        "Rate": 26.50,
+        "LastUpdated": "2022-11-18T18:44:51.1435205+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 45.00,
-        "LastUpdated": "2022-11-15T22:44:07.2410478+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1941159+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1355,7 +1658,8 @@
         "Base": 10000000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-15T22:44:07.2712637+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2575727+04:00",
         "Brackets": []
       }
     },
@@ -1364,14 +1668,16 @@
       "Alpha2": "GA",
       "Alpha3": "GAB",
       "CorporateTax": {
-        "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.44857+04:00",
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-18T18:44:51.1435345+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:07.2410681+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1941458+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1383,13 +1689,15 @@
       "Alpha3": "GMB",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-15T22:44:04.4468665+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1435515+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
       "IncomeTax": {
-        "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:07.2410915+04:00",
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1941752+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1401,13 +1709,20 @@
       "Alpha3": "GEO",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4485913+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1435654+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
+      "CapitalGainsTax": {
+        "Rate": 5.75,
+        "LastUpdated": "2022-11-18T18:44:51.1348828+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
       "IncomeTax": {
         "Rate": 5.75,
-        "LastUpdated": "2022-11-15T22:44:07.2411143+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1942055+04:00",
         "Brackets": []
       },
       "LumpsumpTax": null,
@@ -1419,11 +1734,22 @@
       "Alpha3": "DEU",
       "CorporateTax": {
         "Rate": 15.83,
-        "LastUpdated": "2022-11-15T22:44:04.4485481+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1435824+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-18T18:44:51.1348978+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 45.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1942461+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1433,11 +1759,22 @@
       "Alpha3": "GHA",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4470712+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1435993+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1349148+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.194278+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1447,16 +1784,28 @@
       "Alpha3": "GIB",
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-15T22:44:04.448849+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1436135+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-18T18:44:51.1349328+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1943168+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": {
         "Amount": 120000.0,
         "Currency": null,
         "Rate": 0.0,
-        "LastUpdated": "2022-11-15T22:44:07.2568263+04:00"
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2496262+04:00"
       },
       "WealthTax": null
     },
@@ -1466,16 +1815,28 @@
       "Alpha3": "GRC",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-15T22:44:04.4476123+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1436307+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1349476+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 44.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1943483+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": {
         "Amount": 100000.0,
         "Currency": null,
         "Rate": 0.0,
-        "LastUpdated": "2022-11-15T22:44:07.2569254+04:00"
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2497206+04:00"
       },
       "WealthTax": null
     },
@@ -1485,11 +1846,22 @@
       "Alpha3": "GRL",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4470851+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1436453+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 31.80,
+        "LastUpdated": "2022-11-18T18:44:51.1349657+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 36.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1943812+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1499,11 +1871,22 @@
       "Alpha3": "GRD",
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-15T22:44:04.4488674+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1436625+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-18T18:44:51.1349844+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 28.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1944122+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1513,10 +1896,16 @@
       "Alpha3": "GUM",
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-15T22:44:04.4476704+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1436795+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1349998+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
       "IncomeTax": null,
       "LumpsumpTax": null,
       "WealthTax": null
@@ -1527,11 +1916,30 @@
       "Alpha3": "GTM",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4471017+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1436941+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-18T18:44:51.1350174+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 7.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1944723+04:00",
+        "Brackets": [
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 300000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1541,11 +1949,17 @@
       "Alpha3": "GIN",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4459637+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1437132+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 40.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1945038+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1555,11 +1969,17 @@
       "Alpha3": "GNB",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.447118+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1437312+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 40.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1945459+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1569,11 +1989,30 @@
       "Alpha3": "GUY",
       "CorporateTax": {
         "Rate": 45.00,
-        "LastUpdated": "2022-11-15T22:44:04.4457123+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.143746+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-18T18:44:51.1350688+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 40.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.194589+04:00",
+        "Brackets": [
+          {
+            "Rate": 28.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 1560000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1583,11 +2022,51 @@
       "Alpha3": "HTI",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4462998+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1437632+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1350877+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1946331+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 60000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 60001.0,
+            "HigherBracket": 240000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 240001.0,
+            "HigherBracket": 480000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 480001.0,
+            "HigherBracket": 1000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1597,11 +2076,44 @@
       "Alpha3": "HND",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4471326+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1437811+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-18T18:44:51.135106+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 25.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1946712+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 17211790.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 17211790.0,
+            "HigherBracket": 262449.27
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 262449.28,
+            "HigherBracket": 262449.28
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1611,11 +2123,46 @@
       "Alpha3": "HKG",
       "CorporateTax": {
         "Rate": 16.50,
-        "LastUpdated": "2022-11-15T22:44:04.4485077+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1437962+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 17.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1947452+04:00",
+        "Brackets": [
+          {
+            "Rate": 2.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 50000.0
+          },
+          {
+            "Rate": 6.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 50001.0,
+            "HigherBracket": 100000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 100001.0,
+            "HigherBracket": 150000.0
+          },
+          {
+            "Rate": 14.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 150001.0,
+            "HigherBracket": 200000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1625,11 +2172,22 @@
       "Alpha3": "HUN",
       "CorporateTax": {
         "Rate": 9.00,
-        "LastUpdated": "2022-11-15T22:44:04.4491487+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1438147+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1351409+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1947887+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1639,11 +2197,37 @@
       "Alpha3": "ISL",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4479942+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1438336+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 22.00,
+        "LastUpdated": "2022-11-18T18:44:51.1351598+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 46.25,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1948224+04:00",
+        "Brackets": [
+          {
+            "Rate": 31.45,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 370482.0
+          },
+          {
+            "Rate": 37.95,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 370482.0,
+            "HigherBracket": 669624.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1653,11 +2237,22 @@
       "Alpha3": "IND",
       "CorporateTax": {
         "Rate": 43.68,
-        "LastUpdated": "2022-11-15T22:44:04.4458239+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.143849+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1351811+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.194872+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1667,11 +2262,46 @@
       "Alpha3": "IDN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4471497+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1438675+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1949242+04:00",
+        "Brackets": [
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 60000000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 60000000.0,
+            "HigherBracket": 250000000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 250000000.0,
+            "HigherBracket": 500000000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 500000000.0,
+            "HigherBracket": 5000000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1681,11 +2311,51 @@
       "Alpha3": "IRN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4471667+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1438853+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-18T18:44:51.1352172+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1949783+04:00",
+        "Brackets": [
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 30000000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 30000000.0,
+            "HigherBracket": 100000000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 100000000.0,
+            "HigherBracket": 250000000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 250000000.0,
+            "HigherBracket": 1000000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1695,11 +2365,39 @@
       "Alpha3": "IRQ",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4486106+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1439042+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1950161+04:00",
+        "Brackets": [
+          {
+            "Rate": 3.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 250000.0
+          },
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 250000.0,
+            "HigherBracket": 500000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 500000.0,
+            "HigherBracket": 1000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1708,12 +2406,23 @@
       "Alpha2": "IE",
       "Alpha3": "IRL",
       "CorporateTax": {
-        "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4471815+04:00",
+        "Rate": 12.50,
+        "LastUpdated": "2022-11-18T18:44:51.1439201+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 33.00,
+        "LastUpdated": "2022-11-18T18:44:51.1352582+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1950496+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1723,11 +2432,17 @@
       "Alpha3": "ISR",
       "CorporateTax": {
         "Rate": 23.00,
-        "LastUpdated": "2022-11-15T22:44:04.4475552+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1439385+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 50.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1950922+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1737,16 +2452,50 @@
       "Alpha3": "ITA",
       "CorporateTax": {
         "Rate": 24.00,
-        "LastUpdated": "2022-11-15T22:44:04.4475141+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1439571+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 26.00,
+        "LastUpdated": "2022-11-18T18:44:51.1352942+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 43.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1951288+04:00",
+        "Brackets": [
+          {
+            "Rate": 23.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 15000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 15001.0,
+            "HigherBracket": 28000.0
+          },
+          {
+            "Rate": 35.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 28001.0,
+            "HigherBracket": 50000.0
+          }
+        ]
+      },
       "LumpsumpTax": {
         "Amount": 100000.0,
         "Currency": null,
         "Rate": 0.0,
-        "LastUpdated": "2022-11-15T22:44:07.2571092+04:00"
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2499995+04:00"
       },
       "WealthTax": null
     },
@@ -1755,12 +2504,23 @@
       "Alpha2": "JM",
       "Alpha3": "JAM",
       "CorporateTax": {
-        "Rate": 33.00,
-        "LastUpdated": "2022-11-15T22:44:04.4461259+04:00",
+        "Rate": 25.00,
+        "LastUpdated": "2022-11-18T18:44:51.1439728+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-18T18:44:51.1353147+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1951633+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1770,11 +2530,65 @@
       "Alpha3": "JPN",
       "CorporateTax": {
         "Rate": 30.62,
-        "LastUpdated": "2022-11-15T22:44:04.4461671+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1439918+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 39.63,
+        "LastUpdated": "2022-11-18T18:44:51.135336+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 45.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1951977+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 1950000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1950001.0,
+            "HigherBracket": 3300000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 3300001.0,
+            "HigherBracket": 6950000.0
+          },
+          {
+            "Rate": 23.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 6950001.0,
+            "HigherBracket": 9000000.0
+          },
+          {
+            "Rate": 33.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 900001.0,
+            "HigherBracket": 18000000.0
+          },
+          {
+            "Rate": 40.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 18000001.0,
+            "HigherBracket": 40000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1783,12 +2597,18 @@
       "Alpha2": "JO",
       "Alpha3": "JOR",
       "CorporateTax": {
-        "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4459792+04:00",
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-18T18:44:51.1440106+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1952371+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1798,11 +2618,22 @@
       "Alpha3": "KAZ",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4480143+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1440349+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-18T18:44:51.135373+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1952718+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1812,11 +2643,22 @@
       "Alpha3": "KEN",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4463153+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1440522+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 5.00,
+        "LastUpdated": "2022-11-18T18:44:51.1353953+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1953041+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1826,10 +2668,16 @@
       "Alpha3": "KWT",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4486303+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1440721+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1354369+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
       "IncomeTax": null,
       "LumpsumpTax": null,
       "WealthTax": null
@@ -1840,11 +2688,22 @@
       "Alpha3": "KGZ",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4490101+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1440913+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 10.00,
+        "LastUpdated": "2022-11-18T18:44:51.1354584+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 10.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1954059+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1854,11 +2713,37 @@
       "Alpha3": "LVA",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4480344+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1441126+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-18T18:44:51.1354805+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 31.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1954515+04:00",
+        "Brackets": [
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 20004.0
+          },
+          {
+            "Rate": 23.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 20004.0,
+            "HigherBracket": 78100.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1868,11 +2753,58 @@
       "Alpha3": "LBN",
       "CorporateTax": {
         "Rate": 17.00,
-        "LastUpdated": "2022-11-15T22:44:04.4484405+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1441317+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1355002+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 25.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1954883+04:00",
+        "Brackets": [
+          {
+            "Rate": 4.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 9000000.0
+          },
+          {
+            "Rate": 7.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 9000001.0,
+            "HigherBracket": 24000000.0
+          },
+          {
+            "Rate": 12.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 24000001.0,
+            "HigherBracket": 54000000.0
+          },
+          {
+            "Rate": 16.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 54000001.0,
+            "HigherBracket": 104000000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 104000001.0,
+            "HigherBracket": 225000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1882,11 +2814,39 @@
       "Alpha3": "LBR",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4472216+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1441483+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 25.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1955268+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 70000.0
+          },
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 70001.0,
+            "HigherBracket": 200000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 200001.0,
+            "HigherBracket": 800000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1896,11 +2856,25 @@
       "Alpha3": "LBY",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4480545+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.144168+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 10.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1955653+04:00",
+        "Brackets": [
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 1000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1910,11 +2884,17 @@
       "Alpha3": "LIE",
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-15T22:44:04.4489143+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1441872+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 22.40,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1955997+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1924,11 +2904,22 @@
       "Alpha3": "LTU",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4486464+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.144207+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1355846+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1956336+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1938,11 +2929,17 @@
       "Alpha3": "LUX",
       "CorporateTax": {
         "Rate": 24.94,
-        "LastUpdated": "2022-11-15T22:44:04.4474669+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1442266+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 42.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1956667+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1952,11 +2949,60 @@
       "Alpha3": "MAC",
       "CorporateTax": {
         "Rate": 12.00,
-        "LastUpdated": "2022-11-15T22:44:04.4489312+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1442434+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 12.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1957016+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 144000.0
+          },
+          {
+            "Rate": 7.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 144000.0,
+            "HigherBracket": 164000.0
+          },
+          {
+            "Rate": 8.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 164000.0,
+            "HigherBracket": 184000.0
+          },
+          {
+            "Rate": 9.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 184000.0,
+            "HigherBracket": 224000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 224000.0,
+            "HigherBracket": 304000.0
+          },
+          {
+            "Rate": 11.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 304000.0,
+            "HigherBracket": 424000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1966,11 +3012,22 @@
       "Alpha3": "MKD",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4490299+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1442634+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 15.00,
+        "LastUpdated": "2022-11-18T18:44:51.1356459+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 18.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1957753+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1980,11 +3037,51 @@
       "Alpha3": "MDG",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4480709+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1442832+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-18T18:44:51.1356678+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1958286+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 350000.0
+          },
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 350001.0,
+            "HigherBracket": 400000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 400001.0,
+            "HigherBracket": 500000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 500001.0,
+            "HigherBracket": 600000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -1994,11 +3091,60 @@
       "Alpha3": "MYS",
       "CorporateTax": {
         "Rate": 24.00,
-        "LastUpdated": "2022-11-15T22:44:04.4475346+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.144304+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.195886+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 5000.0
+          },
+          {
+            "Rate": 1.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 5001.0,
+            "HigherBracket": 20000.0
+          },
+          {
+            "Rate": 3.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 20001.0,
+            "HigherBracket": 35000.0
+          },
+          {
+            "Rate": 8.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 35001.0,
+            "HigherBracket": 50000.0
+          },
+          {
+            "Rate": 14.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 50001.0,
+            "HigherBracket": 70000.0
+          },
+          {
+            "Rate": 21.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 70001.0,
+            "HigherBracket": 100000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2008,11 +3154,46 @@
       "Alpha3": "MDV",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4477385+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.144359+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.195964+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 720000.0
+          },
+          {
+            "Rate": 5.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 720000.0,
+            "HigherBracket": 1200000.0
+          },
+          {
+            "Rate": 8.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1200000.0,
+            "HigherBracket": 1800000.0
+          },
+          {
+            "Rate": 12.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1800000.0,
+            "HigherBracket": 2400000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2022,11 +3203,17 @@
       "Alpha3": "MLI",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.446337+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.144379+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1960197+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2036,11 +3223,17 @@
       "Alpha3": "MLT",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4459982+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1443989+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1960705+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2050,11 +3243,17 @@
       "Alpha3": "MUS",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4486671+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1444164+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1961248+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2064,11 +3263,17 @@
       "Alpha3": "MEX",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4463573+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1444371+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1961718+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2078,11 +3283,17 @@
       "Alpha3": "MDA",
       "CorporateTax": {
         "Rate": 12.00,
-        "LastUpdated": "2022-11-15T22:44:04.4489527+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1444575+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1962177+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2092,7 +3303,8 @@
       "Alpha3": "MCO",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4472425+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.144478+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2106,11 +3318,17 @@
       "Alpha3": "MNG",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4472621+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1444988+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1963187+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2120,11 +3338,32 @@
       "Alpha3": "MNE",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4478876+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1445219+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1963659+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 700.0
+          },
+          {
+            "Rate": 9.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 701.0,
+            "HigherBracket": 1000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2134,11 +3373,53 @@
       "Alpha3": "MAR",
       "CorporateTax": {
         "Rate": 31.00,
-        "LastUpdated": "2022-11-15T22:44:04.4479099+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1445431+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 38.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1964065+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 30000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 30001.0,
+            "HigherBracket": 50000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 50001.0,
+            "HigherBracket": 60000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 60001.0,
+            "HigherBracket": 80000.0
+          },
+          {
+            "Rate": 34.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 80001.0,
+            "HigherBracket": 180000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2148,11 +3429,46 @@
       "Alpha3": "MOZ",
       "CorporateTax": {
         "Rate": 32.00,
-        "LastUpdated": "2022-11-15T22:44:04.4461481+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1445636+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 32.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1964577+04:00",
+        "Brackets": [
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 42000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 42000.0,
+            "HigherBracket": 168000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 168000.0,
+            "HigherBracket": 504000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 504000.0,
+            "HigherBracket": 1512000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2162,11 +3478,17 @@
       "Alpha3": "MMR",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-15T22:44:04.4476341+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1445841+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 25.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1965076+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2175,12 +3497,61 @@
       "Alpha2": "NA",
       "Alpha3": "NAM",
       "CorporateTax": {
-        "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4472817+04:00",
+        "Rate": 32.00,
+        "LastUpdated": "2022-11-18T18:44:51.1446056+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 37.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1965583+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 50000.0
+          },
+          {
+            "Rate": 18.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 50000.0,
+            "HigherBracket": 100000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 100000.0,
+            "HigherBracket": 300000.0
+          },
+          {
+            "Rate": 28.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 300000.0,
+            "HigherBracket": 500000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 500000.0,
+            "HigherBracket": 800000.0
+          },
+          {
+            "Rate": 32.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 800000.0,
+            "HigherBracket": 1500000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2190,11 +3561,46 @@
       "Alpha3": "NPL",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.447304+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1446263+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 36.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1966072+04:00",
+        "Brackets": [
+          {
+            "Rate": 1.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 500000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 500001.0,
+            "HigherBracket": 700000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 700001.0,
+            "HigherBracket": 1000000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1000001.0,
+            "HigherBracket": 20000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2204,18 +3610,40 @@
       "Alpha3": "NLD",
       "CorporateTax": {
         "Rate": 25.80,
-        "LastUpdated": "2022-11-15T22:44:04.4469489+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1446446+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 49.50,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1966859+04:00",
+        "Brackets": [
+          {
+            "Rate": 9.70,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 34712.0
+          },
+          {
+            "Rate": 37.35,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 34713.0,
+            "HigherBracket": 68507.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": {
         "Rate": 1.68,
         "Base": 1020096.0,
         "Comments": "Yields only",
         "Currency": null,
-        "LastUpdated": "2022-11-15T22:44:07.2725328+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2586372+04:00",
         "Brackets": []
       }
     },
@@ -2225,11 +3653,46 @@
       "Alpha3": "NZL",
       "CorporateTax": {
         "Rate": 28.00,
-        "LastUpdated": "2022-11-15T22:44:04.4467897+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1446656+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 39.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1967412+04:00",
+        "Brackets": [
+          {
+            "Rate": 10.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 14000.0
+          },
+          {
+            "Rate": 17.75,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 14000.0,
+            "HigherBracket": 48000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 48000.0,
+            "HigherBracket": 70000.0
+          },
+          {
+            "Rate": 33.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 70000.0,
+            "HigherBracket": 180000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2239,11 +3702,46 @@
       "Alpha3": "NIC",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4463803+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1446871+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1968172+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 100000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 100000.01,
+            "HigherBracket": 200000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 200000.01,
+            "HigherBracket": 350000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 350000.01,
+            "HigherBracket": 500000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2253,11 +3751,17 @@
       "Alpha3": "NER",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4464031+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1447094+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 24.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1968735+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2267,11 +3771,17 @@
       "Alpha3": "NGA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4464236+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1447303+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 24.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1969247+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2281,18 +3791,25 @@
       "Alpha3": "NOR",
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-15T22:44:04.4476562+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1447528+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 38.20,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.196981+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": {
         "Rate": 0.95,
         "Base": 1500000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-15T22:44:07.2726487+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.258742+04:00",
         "Brackets": []
       }
     },
@@ -2302,7 +3819,8 @@
       "Alpha3": "OMN",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4486886+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1447746+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2315,12 +3833,61 @@
       "Alpha2": "PK",
       "Alpha3": "PAK",
       "CorporateTax": {
-        "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4460187+04:00",
+        "Rate": 29.00,
+        "LastUpdated": "2022-11-18T18:44:51.1447965+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1970795+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 600000.0
+          },
+          {
+            "Rate": 2.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 600000.0,
+            "HigherBracket": 1200000.0
+          },
+          {
+            "Rate": 12.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1200000.0,
+            "HigherBracket": 2400000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 2400000.0,
+            "HigherBracket": 3600000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 3600000.0,
+            "HigherBracket": 6000000.0
+          },
+          {
+            "Rate": 32.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 6000000.0,
+            "HigherBracket": 12000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2330,11 +3897,17 @@
       "Alpha3": "PLW",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.449319+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1448182+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 19.60,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1971744+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2344,11 +3917,32 @@
       "Alpha3": "PSE",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4487113+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.14484+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 5.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1972514+04:00",
+        "Brackets": [
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 75000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 75001.0,
+            "HigherBracket": 150000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2358,11 +3952,32 @@
       "Alpha3": "PAN",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4473252+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1448615+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 25.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1973242+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 11000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 11000.0,
+            "HigherBracket": 50000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2372,11 +3987,17 @@
       "Alpha3": "PNG",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4464459+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1448848+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 42.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1974463+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2386,11 +4007,17 @@
       "Alpha3": "PRY",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4490543+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1449065+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 10.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1975171+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2400,11 +4027,17 @@
       "Alpha3": "PER",
       "CorporateTax": {
         "Rate": 29.50,
-        "LastUpdated": "2022-11-15T22:44:04.4467406+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1449283+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1975875+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2414,11 +4047,17 @@
       "Alpha3": "PHL",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4473473+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.14495+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1976941+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2428,11 +4067,25 @@
       "Alpha3": "POL",
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-15T22:44:04.4482692+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1449725+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 32.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1977316+04:00",
+        "Brackets": [
+          {
+            "Rate": 12.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 120000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2442,11 +4095,53 @@
       "Alpha3": "PRT",
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-15T22:44:04.4476932+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1449946+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 48.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1977776+04:00",
+        "Brackets": [
+          {
+            "Rate": 14.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 7116.0
+          },
+          {
+            "Rate": 23.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 7116.0,
+            "HigherBracket": 10736.0
+          },
+          {
+            "Rate": 28.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 10736.0,
+            "HigherBracket": 15216.0
+          },
+          {
+            "Rate": 28.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 15216.0,
+            "HigherBracket": 19696.0
+          },
+          {
+            "Rate": 35.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 19696.0,
+            "HigherBracket": 25076.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2455,12 +4150,47 @@
       "Alpha2": "PR",
       "Alpha3": "PRI",
       "CorporateTax": {
-        "Rate": 18.50,
-        "LastUpdated": "2022-11-15T22:44:04.4483567+04:00",
+        "Rate": 37.50,
+        "LastUpdated": "2022-11-18T18:44:51.1450171+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 33.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1978244+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 9000.0
+          },
+          {
+            "Rate": 7.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 9000.0,
+            "HigherBracket": 25000.0
+          },
+          {
+            "Rate": 14.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 25000.0,
+            "HigherBracket": 41500.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 41500.0,
+            "HigherBracket": 61500.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2470,7 +4200,8 @@
       "Alpha3": "QAT",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4490773+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1450432+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2484,11 +4215,17 @@
       "Alpha3": "ROU",
       "CorporateTax": {
         "Rate": 16.00,
-        "LastUpdated": "2022-11-15T22:44:04.4485309+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1450665+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 10.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1979381+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2497,12 +4234,18 @@
       "Alpha2": "RU",
       "Alpha3": "RUS",
       "CorporateTax": {
-        "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4487347+04:00",
+        "Rate": 20.00,
+        "LastUpdated": "2022-11-18T18:44:51.1450897+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 13.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1979829+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2512,11 +4255,32 @@
       "Alpha3": "RWA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4464682+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1451125+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.198032+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 30000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 30001.0,
+            "HigherBracket": 100000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2526,11 +4290,32 @@
       "Alpha3": "VCT",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4466903+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1451481+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2452045+04:00",
+        "Brackets": [
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 5000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 5001.0,
+            "HigherBracket": 10000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2540,11 +4325,17 @@
       "Alpha3": "WSM",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-15T22:44:04.4469151+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1451738+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 27.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2452428+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2554,11 +4345,67 @@
       "Alpha3": "SMR",
       "CorporateTax": {
         "Rate": 17.00,
-        "LastUpdated": "2022-11-15T22:44:04.4484633+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1451966+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1980898+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 10000.0
+          },
+          {
+            "Rate": 13.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 10000.0,
+            "HigherBracket": 18000.0
+          },
+          {
+            "Rate": 17.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 18000.0,
+            "HigherBracket": 28000.0
+          },
+          {
+            "Rate": 21.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 28000.0,
+            "HigherBracket": 38000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 38000.0,
+            "HigherBracket": 50000.0
+          },
+          {
+            "Rate": 28.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 50000.0,
+            "HigherBracket": 65000.0
+          },
+          {
+            "Rate": 31.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 65000.0,
+            "HigherBracket": 80000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2568,11 +4415,17 @@
       "Alpha3": "STP",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4491037+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1452227+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 37.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2452803+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2582,7 +4435,8 @@
       "Alpha3": "SAU",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4480947+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1452485+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -2596,11 +4450,53 @@
       "Alpha3": "SEN",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4464902+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.145275+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 40.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2129145+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 630000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 630001.0,
+            "HigherBracket": 1500000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1500001.0,
+            "HigherBracket": 400000.0
+          },
+          {
+            "Rate": 35.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 4000001.0,
+            "HigherBracket": 8000000.0
+          },
+          {
+            "Rate": 37.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 8000001.0,
+            "HigherBracket": 13500000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2610,11 +4506,17 @@
       "Alpha3": "SRB",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4487605+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1452977+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2319523+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2623,12 +4525,18 @@
       "Alpha2": "SC",
       "Alpha3": "SYC",
       "CorporateTax": {
-        "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.446514+04:00",
+        "Rate": 33.00,
+        "LastUpdated": "2022-11-18T18:44:51.1453207+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2319927+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2638,11 +4546,17 @@
       "Alpha3": "SLE",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4465378+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1453432+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2320274+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2652,11 +4566,88 @@
       "Alpha3": "SGP",
       "CorporateTax": {
         "Rate": 17.00,
-        "LastUpdated": "2022-11-15T22:44:04.4484872+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1453663+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 22.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2320873+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 20000.0
+          },
+          {
+            "Rate": 2.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 20000.0,
+            "HigherBracket": 30000.0
+          },
+          {
+            "Rate": 3.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 30000.0,
+            "HigherBracket": 40000.0
+          },
+          {
+            "Rate": 7.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 40000.0,
+            "HigherBracket": 80000.0
+          },
+          {
+            "Rate": 11.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 80000.0,
+            "HigherBracket": 120000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 120000.0,
+            "HigherBracket": 160000.0
+          },
+          {
+            "Rate": 18.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 160000.0,
+            "HigherBracket": 200000.0
+          },
+          {
+            "Rate": 19.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 200000.0,
+            "HigherBracket": 240000.0
+          },
+          {
+            "Rate": 19.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 240000.0,
+            "HigherBracket": 280000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 280000.0,
+            "HigherBracket": 320000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2666,11 +4657,17 @@
       "Alpha3": "SVK",
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-15T22:44:04.4477634+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1453896+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 25.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2439149+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2680,11 +4677,17 @@
       "Alpha3": "SVN",
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-15T22:44:04.4482936+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1454134+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 50.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2439637+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2694,11 +4697,39 @@
       "Alpha3": "SOM",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.446562+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1454369+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 18.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2440016+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 200.0
+          },
+          {
+            "Rate": 6.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 201.0,
+            "HigherBracket": 800.0
+          },
+          {
+            "Rate": 12.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 801.0,
+            "HigherBracket": 1500.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2708,11 +4739,60 @@
       "Alpha3": "ZAF",
       "CorporateTax": {
         "Rate": 28.00,
-        "LastUpdated": "2022-11-15T22:44:04.4468131+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1454612+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 45.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2440456+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 226000.0
+          },
+          {
+            "Rate": 26.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 226001.0,
+            "HigherBracket": 353100.0
+          },
+          {
+            "Rate": 31.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 353101.0,
+            "HigherBracket": 488700.0
+          },
+          {
+            "Rate": 36.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 488701.0,
+            "HigherBracket": 641400.0
+          },
+          {
+            "Rate": 39.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 641401.0,
+            "HigherBracket": 817600.0
+          },
+          {
+            "Rate": 41.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 817601.0,
+            "HigherBracket": 1731600.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2721,12 +4801,59 @@
       "Alpha2": "KR",
       "Alpha3": "KOR",
       "CorporateTax": {
-        "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4472022+04:00",
+        "Rate": 22.00,
+        "LastUpdated": "2022-11-18T18:44:51.1454806+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
-      "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "CapitalGainsTax": {
+        "Rate": 33.00,
+        "LastUpdated": "2022-11-18T18:44:51.1354162+04:00",
+        "ValidationLevel": 0,
+        "Brackets": []
+      },
+      "IncomeTax": {
+        "Rate": 45.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.1953385+04:00",
+        "Brackets": [
+          {
+            "Rate": 6.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 12000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 12000.0,
+            "HigherBracket": 46000.0
+          },
+          {
+            "Rate": 24.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 46000.0,
+            "HigherBracket": 88000.0
+          },
+          {
+            "Rate": 35.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 88000.0,
+            "HigherBracket": 150000.0
+          },
+          {
+            "Rate": 38.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 150000.0,
+            "HigherBracket": 300000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2736,11 +4863,46 @@
       "Alpha3": "SSD",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.446045+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1455035+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2440906+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 2000.0
+          },
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 2001.0,
+            "HigherBracket": 5000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 5001.0,
+            "HigherBracket": 10000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 10001.0,
+            "HigherBracket": 15000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2750,18 +4912,54 @@
       "Alpha3": "ESP",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4473735+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1455276+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 45.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2441336+04:00",
+        "Brackets": [
+          {
+            "Rate": 19.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 12450.0
+          },
+          {
+            "Rate": 24.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 12451.0,
+            "HigherBracket": 20200.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 20201.0,
+            "HigherBracket": 35200.0
+          },
+          {
+            "Rate": 37.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 35201.0,
+            "HigherBracket": 60000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": {
         "Rate": 3.50,
         "Base": 10000000.0,
         "Comments": "",
         "Currency": null,
-        "LastUpdated": "2022-11-15T22:44:07.2733525+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2593442+04:00",
         "Brackets": []
       }
     },
@@ -2771,11 +4969,17 @@
       "Alpha3": "LKA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.446592+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1455545+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2441711+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2785,11 +4989,17 @@
       "Alpha3": "SDN",
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-15T22:44:04.4460677+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1455819+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2442077+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2799,11 +5009,17 @@
       "Alpha3": "SWE",
       "CorporateTax": {
         "Rate": 20.60,
-        "LastUpdated": "2022-11-15T22:44:04.4478207+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1456056+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2442434+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2813,23 +5029,31 @@
       "Alpha3": "CHE",
       "CorporateTax": {
         "Rate": 8.50,
-        "LastUpdated": "2022-11-15T22:44:04.4492304+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1456293+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 13.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2442796+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": {
         "Amount": 400000.0,
         "Currency": null,
         "Rate": 0.0,
-        "LastUpdated": "2022-11-15T22:44:07.258047+04:00"
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2510359+04:00"
       },
       "WealthTax": {
         "Rate": 0.30,
         "Base": 3158000.0,
         "Comments": "Data from Zurich",
         "Currency": null,
-        "LastUpdated": "2022-11-15T22:44:07.2734567+04:00",
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.259435+04:00",
         "Brackets": []
       }
     },
@@ -2839,11 +5063,46 @@
       "Alpha3": "TWN",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4481234+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1456528+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 40.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2443165+04:00",
+        "Brackets": [
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 560000.0
+          },
+          {
+            "Rate": 12.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 560001.0,
+            "HigherBracket": 1260000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1260001.0,
+            "HigherBracket": 2520000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 2520001.0,
+            "HigherBracket": 4720000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2853,11 +5112,17 @@
       "Alpha3": "TJK",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4473973+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.145677+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2443548+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2867,11 +5132,46 @@
       "Alpha3": "TZA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4466166+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1457037+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2443919+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 270000.0
+          },
+          {
+            "Rate": 8.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 270000.0,
+            "HigherBracket": 520000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 520000.0,
+            "HigherBracket": 760000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 760000.0,
+            "HigherBracket": 1000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2881,11 +5181,67 @@
       "Alpha3": "THA",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4488933+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1457289+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2444327+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 150000.0
+          },
+          {
+            "Rate": 5.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 150001.0,
+            "HigherBracket": 300000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 300001.0,
+            "HigherBracket": 500000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 500001.0,
+            "HigherBracket": 750000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 750001.0,
+            "HigherBracket": 1000000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1000001.0,
+            "HigherBracket": 2000000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 2000001.0,
+            "HigherBracket": 5000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2895,11 +5251,17 @@
       "Alpha3": "TLS",
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-15T22:44:04.4491337+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1457576+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 10.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2453174+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2909,11 +5271,53 @@
       "Alpha3": "TGO",
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-15T22:44:04.4468898+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1457818+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2444764+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.50,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 900000.0
+          },
+          {
+            "Rate": 7.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 900001.0,
+            "HigherBracket": 4000000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 4000001.0,
+            "HigherBracket": 6000000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 6000001.0,
+            "HigherBracket": 10000000.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 10000001.0,
+            "HigherBracket": 15000000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2923,11 +5327,46 @@
       "Alpha3": "TON",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.4474207+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1458068+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 25.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2445171+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 12000.0
+          },
+          {
+            "Rate": 10.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 12001.0,
+            "HigherBracket": 30000.0
+          },
+          {
+            "Rate": 15.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 30001.0,
+            "HigherBracket": 50000.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 50001.0,
+            "HigherBracket": 70000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2937,11 +5376,17 @@
       "Alpha3": "TTO",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4466407+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1458337+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2445569+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2951,11 +5396,46 @@
       "Alpha3": "TUN",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4487918+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.145858+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.244595+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 5000.0
+          },
+          {
+            "Rate": 26.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 5001.0,
+            "HigherBracket": 20000.0
+          },
+          {
+            "Rate": 28.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 20001.0,
+            "HigherBracket": 30000.0
+          },
+          {
+            "Rate": 32.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 30001.0,
+            "HigherBracket": 50000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2964,12 +5444,18 @@
       "Alpha2": "TR",
       "Alpha3": "TUR",
       "CorporateTax": {
-        "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.448149+04:00",
+        "Rate": 23.00,
+        "LastUpdated": "2022-11-18T18:44:51.1458824+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 40.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2446336+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2979,11 +5465,17 @@
       "Alpha3": "TKM",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4481752+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1459067+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 10.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2446694+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -2993,11 +5485,17 @@
       "Alpha3": "TUV",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4467193+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.145937+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 30.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.245353+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3007,11 +5505,17 @@
       "Alpha3": "UGA",
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-15T22:44:04.4466648+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1459614+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 40.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2447063+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3021,11 +5525,17 @@
       "Alpha3": "UKR",
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-15T22:44:04.4484204+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.145986+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 18.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2447425+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3034,8 +5544,9 @@
       "Alpha2": "AE",
       "Alpha3": "ARE",
       "CorporateTax": {
-        "Rate": 9.00,
-        "LastUpdated": "2022-11-15T22:44:04.4492052+04:00",
+        "Rate": 0.00,
+        "LastUpdated": "2022-11-18T18:44:51.1460105+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -3049,11 +5560,17 @@
       "Alpha3": "GBR",
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-15T22:44:04.4483189+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1460405+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 45.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2448192+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3063,11 +5580,17 @@
       "Alpha3": "USA",
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-15T22:44:04.4477955+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1460682+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 37.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2448565+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3077,11 +5600,17 @@
       "Alpha3": "URY",
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-15T22:44:04.447445+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1460946+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 36.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2449318+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3091,11 +5620,17 @@
       "Alpha3": "UZB",
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-15T22:44:04.4488186+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1461194+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 20.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2449693+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3105,7 +5640,8 @@
       "Alpha3": "VUT",
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-15T22:44:04.4493584+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1461493+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
@@ -3119,11 +5655,67 @@
       "Alpha3": "VEN",
       "CorporateTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-15T22:44:04.4491789+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1461754+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 34.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2450082+04:00",
+        "Brackets": [
+          {
+            "Rate": 6.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 1000.0
+          },
+          {
+            "Rate": 9.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1000.0,
+            "HigherBracket": 1500.0
+          },
+          {
+            "Rate": 12.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 1500.0,
+            "HigherBracket": 2000.0
+          },
+          {
+            "Rate": 16.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 2000.0,
+            "HigherBracket": 2500.0
+          },
+          {
+            "Rate": 20.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 2500.0,
+            "HigherBracket": 3000.0
+          },
+          {
+            "Rate": 24.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 3000.0,
+            "HigherBracket": 4000.0
+          },
+          {
+            "Rate": 29.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 4000.0,
+            "HigherBracket": 6000.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3133,11 +5725,17 @@
       "Alpha3": "VNM",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4482045+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1462009+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 35.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2450505+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3147,11 +5745,17 @@
       "Alpha3": "YEM",
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-15T22:44:04.4482338+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1462261+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 15.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2450879+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3160,12 +5764,40 @@
       "Alpha2": "ZM",
       "Alpha3": "ZMB",
       "CorporateTax": {
-        "Rate": 40.00,
-        "LastUpdated": "2022-11-15T22:44:04.4458623+04:00",
+        "Rate": 30.00,
+        "LastUpdated": "2022-11-18T18:44:51.1462557+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 37.50,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2451262+04:00",
+        "Brackets": [
+          {
+            "Rate": 0.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 0.0,
+            "HigherBracket": 54000.0
+          },
+          {
+            "Rate": 25.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 54001.0,
+            "HigherBracket": 57600.0
+          },
+          {
+            "Rate": 30.0,
+            "Amount": null,
+            "Currency": null,
+            "LowerBracket": 57601.0,
+            "HigherBracket": 82800.0
+          }
+        ]
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     },
@@ -3175,11 +5807,17 @@
       "Alpha3": "ZWE",
       "CorporateTax": {
         "Rate": 24.72,
-        "LastUpdated": "2022-11-15T22:44:04.447494+04:00",
+        "LastUpdated": "2022-11-18T18:44:51.1463001+04:00",
+        "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
+      "IncomeTax": {
+        "Rate": 40.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-18T18:44:51.2451659+04:00",
+        "Brackets": []
+      },
       "LumpsumpTax": null,
       "WealthTax": null
     }

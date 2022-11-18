@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TaxationApi.Backend\TaxationApi.Backend.csproj" />
     <ProjectReference Include="..\TaxationApi.Web\TaxationApi.Web.csproj" />
   </ItemGroup>
 
@@ -22,7 +23,7 @@
     <None Update="InputFiles\Taxation - Corporate tax.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="InputFiles\Taxation - Income tax.csv">
+    <None Update="InputFiles\Taxation - Income tax %283%29.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="InputFiles\Taxation - Lumpsump tax.csv">

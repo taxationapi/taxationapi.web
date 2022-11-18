@@ -11,5 +11,6 @@ namespace TaxationApi.Backend.Model.CountryCurrencies
         public string Alpha2 { get; set; }
         public string Alpha3 { get; set; }
         public string CurrencyCode { get; set; }
+        public decimal UsdExchangeRate { get; set; }
     }
 }
