@@ -20,7 +20,7 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
         {
             get
             {
-                return IncomeTaxation.MonthlyNetIncome;
+                return MonthlyGrossIncome - MonthlyTax;
             }
         }
 
@@ -36,8 +36,7 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
         {
             get
             {
-                return MonthlyNetIncome + MonthlyTax;
-
+                return IncomeTaxation.MonthlyGrossIncome;
 
             }
         }
@@ -87,7 +86,7 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
 
     public class ComputedIncomeTaxation
     {
-        public decimal MonthlyNetIncome { get; set; }
+        public decimal MonthlyGrossIncome { get; set; }
         public decimal MonthlyTax { get; set; }
         public List<ComputedTaxBracket> Brackets { get; set; }
         public ComputedIncomeTaxation()

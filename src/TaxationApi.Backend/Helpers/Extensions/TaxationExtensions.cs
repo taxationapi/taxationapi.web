@@ -95,48 +95,13 @@ namespace TaxationApi.Backend.Helpers.Extensions
             }
 
             var localMonthlyTax = incomeTaxation.Brackets.Sum(c => c.TaxInBracket) / 12;
-            var localMonthlyNet = (request.YearlyIncome / 12) - incomeTaxation.MonthlyTax;
+            var localMonthlyGross = (request.YearlyIncome / 12) - incomeTaxation.MonthlyTax;
             incomeTaxation.MonthlyTax = localMonthlyTax;
-            incomeTaxation.MonthlyNetIncome = localMonthlyNet;
+            incomeTaxation.MonthlyGrossIncome = localMonthlyGross;
 
             return incomeTaxation;
         }
-
-        //public static ComputedTaxation GetTax(this TaxationData taxationData, ComputingTaxationRequest request)
-        //{
-        //    ComputedTaxation taxation = new ComputedTaxation()
-        //    {
-        //        Alpha2 = taxationData.Alpha2,
-        //        Alpha3 = taxationData.Alpha3,
-        //        Name = taxationData.Name
-        //    };
-
-        //    bool isAllData = true;
-
-        //    decimal totalMonthlyTax = 0.0m;
-            
-        //    totalMonthlyTax = CalculateCorporateTax(taxationData, request, totalMonthlyTax, ref isAllData);
-        //    totalMonthlyTax = CalculateCapitalGainsTax(taxationData, request, totalMonthlyTax, ref isAllData);
-        //    totalMonthlyTax = CalculateWealthTax(taxationData, request, totalMonthlyTax, ref isAllData);
-            
-        //   // SetTaxationObject(request, taxation, totalMonthlyTax, isAllData);
-
-        //    return taxation;
-
-
-        //}
         
-
-        //private static void SetTaxationObject(ComputingTaxationRequest request, ComputedTaxation taxation,
-        //    decimal totalMonthlyTax, bool isAllData)
-        //{
-        //    taxation.MonthlyTax = totalMonthlyTax;
-        //    taxation.MonthlyNetIncome =
-        //        ((request.YearlyIncome + request.YearlyCorporateProfits + request.YearlyCapitalGains) / 12) -
-        //        totalMonthlyTax;
-        //    taxation.IsAllDataAvailable = isAllData;
-        //}
-
         private static decimal CalculateWealthTax(TaxationData taxationData, ComputingTaxationRequest request,
             decimal totalMonthlyTax, ref bool isAllData)
         {

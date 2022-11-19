@@ -27,7 +27,7 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
                 return null;
             }
         }
-
+        
         
         public decimal? BracketPercentUsed
         {
@@ -35,6 +35,11 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
             {
                 if (BracketSize.HasValue)
                 {
+                    if (BracketSize.Value == 0)
+                    {
+                        return 100;
+                    }
+
                     return (IncomeInBracket / BracketSize.Value)*100;
                 }
 
