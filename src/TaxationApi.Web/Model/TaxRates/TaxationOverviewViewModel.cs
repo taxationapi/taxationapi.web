@@ -21,6 +21,8 @@ namespace TaxationApi.Web.Model.TaxRates
         public string Name { get; set; }
         public string Alpha2 { get; set; }
         public string Alpha3 { get; set; }
+        public string Continent { get; set; }
+        
         public TaxationOverViewEntityCorporateViewModel CorporateTax { get; set; }
         public TaxationOverViewEntityCapitalGainsViewModel CapitalGainsTax { get; set; }
         public TaxationOverViewEntityIncomeViewModel IncomeTax { get; set; }

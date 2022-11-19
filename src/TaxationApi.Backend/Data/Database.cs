@@ -18,12 +18,19 @@ namespace TaxationApi.Backend.Data
             return data;
         }
 
-
         public static TaxationDatabaseModel LoadTaxationData()
         {
             var file = System.IO.File.ReadAllText("country_data.json");
 
             var data = JsonConvert.DeserializeObject<TaxationDatabaseModel>(file);
+            return data;
+        }
+
+        public static CountryMetadataDatabaseModel LoadCountryData()
+        {
+            var file = System.IO.File.ReadAllText("country_metadata.json");
+
+            var data = JsonConvert.DeserializeObject<CountryMetadataDatabaseModel>(file);
             return data;
         }
 

@@ -12,6 +12,7 @@ namespace TaxationApi.Backend.Model.Taxation
         public string Name { get; set; }
         public string Alpha2 { get; set; }
         public string Alpha3 { get; set; }
+        public string Region { get; set; }
         public CorporateTaxationData CorporateTax { get; set; }
         public CapitalGainsTaxationData CapitalGainsTax { get; set; }
         public IncomeTaxationData IncomeTax { get; set; }
@@ -94,7 +95,7 @@ namespace TaxationApi.Backend.Model.Taxation
         public ValidationLevel ValidationLevel { get; set; }
         public decimal LowerBracket { get; set; }
         public decimal HigherBracket { get; set; }
-
+        
         public decimal BracketSize
         {
             get

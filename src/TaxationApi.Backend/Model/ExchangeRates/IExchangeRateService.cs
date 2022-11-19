@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace TaxationApi.Backend.Model.ExchangeRates
 {
    public interface IExchangeRateService
-    {
-    }
+   {
+       decimal Convert(decimal amount, string mainCurrency, string toCurrency);
+   }
 }

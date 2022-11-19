@@ -1,5 +1,7 @@
 using TaxationApi.Backend.Model.ComputedTaxations;
+using TaxationApi.Backend.Model.Countries;
 using TaxationApi.Backend.Model.CountryCurrencies;
+using TaxationApi.Backend.Model.ExchangeRates;
 using TaxationApi.Backend.Model.Taxation;
 using TaxationApi.Backend.Services;
 
@@ -11,6 +13,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<ITaxationService, TaxationService>();
 builder.Services.AddScoped<IComputedTaxationService, ComputedTaxationService>();
 builder.Services.AddScoped<ICountryCurrencyService, CountryCurrencyService>();
+builder.Services.AddScoped<IExchangeRateService, ExchangeRateService>();
+builder.Services.AddScoped<ICountryService, CountryService>();
 
 
 

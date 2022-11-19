@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TaxationApi.Backend.Model.Countries;
 
 namespace TaxationApi.Backend.Model.Taxation
 {
     public class TaxationSpecification
     {
         public string? Query { get; set; }
+        public Region? Region { get; set; }
         public decimal? MaximumCorporateTax { get; set; }
         public decimal? MaximumCapitalGainsTax { get; set; }
         public decimal? MaximumIncomeTax { get; set; }

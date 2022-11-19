@@ -19,6 +19,12 @@ namespace TaxationApi.Backend.Services
         }
 
 
+        public CountryCurrency GetByCurrencyCode(string code)
+        {
+            var returnSet = _data.ToList();
+            return returnSet.FirstOrDefault(c => c.CurrencyCode == code);
+        }
+
         public List<CountryCurrency> GetAllCountries()
         {
             var returnSet = _data.ToList();

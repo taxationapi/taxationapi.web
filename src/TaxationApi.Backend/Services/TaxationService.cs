@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TaxationApi.Backend.Data;
+using TaxationApi.Backend.Model.Countries;
 using TaxationApi.Backend.Model.CountryCurrencies;
 using TaxationApi.Backend.Model.Taxation;
 
@@ -15,20 +16,29 @@ namespace TaxationApi.Backend.Services
     {
         private List<TaxationData> _data;
         private ICountryCurrencyService _countryCurrencyService;
+        private ICountryService _countryService;
 
-        public TaxationService(ICountryCurrencyService countryCurrencyService)
+        public TaxationService(ICountryCurrencyService countryCurrencyService,
+            ICountryService countryService)
         {
             _data = Database.LoadTaxationData().Taxations;
             _countryCurrencyService = countryCurrencyService;
+            _countryService = countryService;
         }
 
         public List<TaxationData> GetTaxationData(TaxationSpecification specification)
         {
             var returnSet = _data.ToList();
+            FixCurrencies(returnSet);
+            FixRegions(returnSet);
 
-            if(!string.IsNullOrWhiteSpace(specification.Query))
+            if (!string.IsNullOrWhiteSpace(specification.Query))
             {
                 returnSet = returnSet.Where(c => c.Name.Contains(specification.Query)).ToList();
+            }
+            if(specification.Region != null)
+            {
+                returnSet = returnSet.Where(c => !string.IsNullOrWhiteSpace(c.Region) && c.Region.Contains(specification.Region.ToString())).ToList();
             }
             if (specification.MaximumCorporateTax.HasValue)
             {
@@ -78,10 +88,21 @@ namespace TaxationApi.Backend.Services
             }
 
 
-            FixCurrencies(returnSet);
-            return returnSet;
+           return returnSet;
         }
 
+        private void FixRegions(List<TaxationData> taxationDatas)
+        {
+            var countries = _countryService.GetAllCountries();
+            foreach (var country in taxationDatas)
+            {
+              var countryData = countries.FirstOrDefault(c => c.Alpha3 == country.Alpha3);
+                    if (countryData != null)
+                    {
+                        country.Region = countryData.Region;
+                    }
+            }
+        }
         private void FixCurrencies(List<TaxationData> taxationDatas)
         {
             var countries = _countryCurrencyService.GetAllCountries();

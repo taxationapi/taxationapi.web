@@ -9,7 +9,7 @@ namespace TaxationApi.Backend.Model.CountryCurrencies
 {
     public interface ICountryCurrencyService
     {
-
+        CountryCurrency GetByCurrencyCode(string code);
         List<CountryCurrency> GetAllCountries();
     }
 }
