@@ -71,7 +71,7 @@ foreach (var file in files)
                     decimal amount = -1;
                     decimal.TryParse(rateStr, out amount);
                     
-                    if (amount > 0)
+                    if (amount > -1)
                     {
                         country.IncomeTax = new TaxationOverViewEntityIncomeViewModel()
                         {
@@ -272,7 +272,7 @@ foreach (var file in files)
                     decimal.TryParse(rateStr, out amount);
                     
 
-                    if (amount > 0)
+                    if (!string.IsNullOrWhiteSpace(rateStr)&&amount > -1)
                     {
                         country.WealthTax = new TaxationOverViewEntityWealthTaxViewModel()
                         {
@@ -291,7 +291,7 @@ foreach (var file in files)
                     decimal amount = -1;
                     decimal.TryParse(record.Lumpsump_amount.ToString(), out amount);
 
-                    if (amount > 0)
+                    if (amount > -1)
                     {
                         country.LumpsumpTax = new TaxationOverViewEntityLumpSumpViewModel()
                         {

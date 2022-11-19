@@ -4,6 +4,7 @@
       "Name": "",
       "Alpha2": "",
       "Alpha3": "",
+      "Continent": null,
       "CorporateTax": null,
       "CapitalGainsTax": null,
       "IncomeTax": null,
@@ -14,47 +15,55 @@
       "Name": "Afghanistan",
       "Alpha2": "AF",
       "Alpha3": "AFG",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.142647+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9864356+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1321032+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9756929+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1640611+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0063548+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0830887+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Albania",
       "Alpha2": "AL",
       "Alpha3": "ALB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1427619+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9865644+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1339708+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.977496+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 23.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1766935+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0172986+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -72,134 +81,180 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0831891+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Algeria",
       "Alpha2": "DZ",
       "Alpha3": "DZA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 26.00,
-        "LastUpdated": "2022-11-18T18:44:51.1427732+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9865779+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1339935+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9775144+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1844087+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0238237+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0831937+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Andorra",
       "Alpha2": "AD",
       "Alpha3": "AND",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1427834+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9865932+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1340048+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9775254+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.184438+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0238782+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0831973+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Angola",
       "Alpha2": "AO",
       "Alpha3": "AGO",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1427933+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866031+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1340221+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9775425+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1844623+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0239075+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083201+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Anguilla",
       "Alpha2": "AI",
       "Alpha3": "AIA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1428066+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866128+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1340351+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9775548+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0239329+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832046+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Argentina",
       "Alpha2": "AR",
       "Alpha3": "ARG",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1428173+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866226+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1340481+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9775672+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1845097+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0239566+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832096+04:00"
+      },
       "WealthTax": {
         "Rate": 1.75,
         "Base": 300000000.0,
         "Comments": "Higher rates for abroad assets",
         "Currency": null,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2567754+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0925503+04:00",
         "Brackets": []
       }
     },
@@ -207,34 +262,42 @@
       "Name": "Armenia",
       "Alpha2": "AM",
       "Alpha3": "ARM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-18T18:44:51.1428271+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866349+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 18.0,
-        "LastUpdated": "2022-11-18T18:44:51.134063+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9775809+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1845355+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0239815+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832133+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Australia",
       "Alpha2": "AU",
       "Alpha3": "AUS",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1428403+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866446+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -242,19 +305,26 @@
       "IncomeTax": {
         "Rate": 45.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1845615+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0240054+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832169+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Austria",
       "Alpha2": "AT",
       "Alpha3": "AUT",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1428505+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866539+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -262,7 +332,7 @@
       "IncomeTax": {
         "Rate": 55.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1845871+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0240336+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -308,29 +378,36 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832205+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Azerbaijan",
       "Alpha2": "AZ",
       "Alpha3": "AZE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1428607+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866633+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1341009+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9776188+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 14.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1926955+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.032031+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -341,94 +418,132 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832243+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Bahamas",
       "Alpha2": "BS",
       "Alpha3": "BHS",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1428733+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866761+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1341119+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9776297+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0320656+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832281+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Bahrain",
       "Alpha2": "BH",
       "Alpha3": "BHR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1428842+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866865+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1341226+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.97764+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0320911+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832332+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Bangladesh",
       "Alpha2": "BD",
       "Alpha3": "BGD",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1428945+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9866993+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.134137+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.977654+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1927771+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0321142+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832373+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Barbados",
       "Alpha2": "BB",
       "Alpha3": "BRB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 5.50,
-        "LastUpdated": "2022-11-18T18:44:51.1429086+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9867141+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1341481+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9776649+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 28.50,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.192805+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0321419+04:00",
         "Brackets": [
           {
             "Rate": 12.50,
@@ -439,16 +554,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832414+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Belarus",
       "Alpha2": "BY",
       "Alpha3": "BLR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.0,
-        "LastUpdated": "2022-11-18T18:44:51.1429194+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9867241+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -456,32 +578,39 @@
       "IncomeTax": {
         "Rate": 13.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1928297+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0321655+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832453+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Belgium",
       "Alpha2": "BE",
       "Alpha3": "BEL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.0,
-        "LastUpdated": "2022-11-18T18:44:51.14293+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9867339+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 16.50,
-        "LastUpdated": "2022-11-18T18:44:51.1341752+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9776906+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 50.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1928578+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0321967+04:00",
         "Brackets": [
           {
             "Rate": 25.0,
@@ -506,14 +635,20 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832494+04:00"
+      },
       "WealthTax": {
         "Rate": 0.15,
         "Base": 1000000.0,
         "Comments": "",
         "Currency": null,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2569956+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0928159+04:00",
         "Brackets": []
       }
     },
@@ -521,34 +656,42 @@
       "Name": "Belize",
       "Alpha2": "BZ",
       "Alpha3": "BLZ",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 1.75,
-        "LastUpdated": "2022-11-18T18:44:51.1429434+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9867474+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.0,
-        "LastUpdated": "2022-11-18T18:44:51.1341864+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9777016+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1928941+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0322276+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832543+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Benin",
       "Alpha2": "BJ",
       "Alpha3": "BEN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1429545+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9867578+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -556,39 +699,58 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1929215+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0322535+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832586+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Bermuda",
       "Alpha2": "BM",
       "Alpha3": "BMU",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 7.00,
-        "LastUpdated": "2022-11-18T18:44:51.1429654+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9867676+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1342142+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9777272+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0322766+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832631+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Bhutan",
       "Alpha2": "BT",
       "Alpha3": "BTN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1429789+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9867813+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -596,69 +758,90 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1929705+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0323033+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832675+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Bolivia",
       "Alpha2": "BO",
       "Alpha3": "BOL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.14299+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9867914+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1342419+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.977753+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 13.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1929945+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0323287+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832727+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Bosnia and Herzegovina",
       "Alpha2": "BA",
       "Alpha3": "BIH",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1430015+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9868084+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1342539+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9777643+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.193022+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0323521+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832774+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Botswana",
       "Alpha2": "BW",
       "Alpha3": "BWA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-18T18:44:51.1430194+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9868193+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -666,19 +849,26 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1930498+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0323786+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083282+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Brazil",
       "Alpha2": "BR",
       "Alpha3": "BRA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-18T18:44:51.1430359+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9868298+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -686,64 +876,90 @@
       "IncomeTax": {
         "Rate": 27.50,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1930786+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0324052+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832868+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Brunei Darussalam",
       "Alpha2": "BN",
       "Alpha3": "BRN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 18.50,
-        "LastUpdated": "2022-11-18T18:44:51.1430474+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9868433+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1342999+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9778083+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0324288+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832924+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Bulgaria",
       "Alpha2": "BG",
       "Alpha3": "BGR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1430622+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9868541+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1343122+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9778199+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1931435+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0324552+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0832972+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Burkina Faso",
       "Alpha2": "BF",
       "Alpha3": "BFA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 27.50,
-        "LastUpdated": "2022-11-18T18:44:51.1430737+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9868674+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -751,57 +967,71 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1931717+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0324842+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833021+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Burundi",
       "Alpha2": "BI",
       "Alpha3": "BDI",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1430885+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9868785+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1343405+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9778472+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1931959+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0325101+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083307+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Cambodia",
       "Alpha2": "KH",
       "Alpha3": "KHM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1431004+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.98689+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1343554+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9778616+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1932271+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0325361+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -833,29 +1063,36 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833133+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Cameroon",
       "Alpha2": "CM",
       "Alpha3": "CMR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 33.00,
-        "LastUpdated": "2022-11-18T18:44:51.1431119+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9869039+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 16.50,
-        "LastUpdated": "2022-11-18T18:44:51.1343678+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.977874+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 38.50,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1932611+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0325695+04:00",
         "Brackets": [
           {
             "Rate": 11.0,
@@ -880,16 +1117,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833183+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Canada",
       "Alpha2": "CA",
       "Alpha3": "CAN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 38.00,
-        "LastUpdated": "2022-11-18T18:44:51.1431273+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9869149+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -897,19 +1141,26 @@
       "IncomeTax": {
         "Rate": 33.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1932913+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0325992+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833235+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Central African Republic",
       "Alpha2": "CF",
       "Alpha3": "CAF",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1431393+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9869288+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -917,7 +1168,7 @@
       "IncomeTax": {
         "Rate": 40.0,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1933448+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.032658+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -949,29 +1200,36 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833296+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Chad",
       "Alpha2": "TD",
       "Alpha3": "TCD",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1431538+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.986942+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1344115+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9779173+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1933769+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0326892+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -996,16 +1254,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083335+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Chile",
       "Alpha2": "CL",
       "Alpha3": "CHL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-18T18:44:51.1431663+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9869534+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1013,19 +1278,26 @@
       "IncomeTax": {
         "Rate": 35.50,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1934049+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0327187+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833402+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "China",
       "Alpha2": "CN",
       "Alpha3": "CHN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1431811+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9869684+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1033,19 +1305,26 @@
       "IncomeTax": {
         "Rate": 45.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1934335+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0327439+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833462+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Colombia",
       "Alpha2": "CO",
       "Alpha3": "COL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1431934+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9869802+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1053,7 +1332,7 @@
       "IncomeTax": {
         "Rate": 33.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1934624+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0327719+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -1078,14 +1357,20 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833517+04:00"
+      },
       "WealthTax": {
         "Rate": 1.0,
         "Base": 5000000000.0,
         "Comments": "",
         "Currency": null,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2572532+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0930759+04:00",
         "Brackets": []
       }
     },
@@ -1093,9 +1378,10 @@
       "Name": "Congo",
       "Alpha2": "CG",
       "Alpha3": "COG",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1432081+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9869953+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1103,19 +1389,26 @@
       "IncomeTax": {
         "Rate": 40.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1934923+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0328051+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833571+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Costa Rica",
       "Alpha2": "CR",
       "Alpha3": "CRI",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1432221+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9870085+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1123,19 +1416,26 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1935231+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.032835+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833635+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Côte dIvoire",
       "Alpha2": "CI",
       "Alpha3": "CIV",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1432369+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9870242+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1143,19 +1443,26 @@
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1935494+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0328635+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833694+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Croatia",
       "Alpha2": "HR",
       "Alpha3": "HRV",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-18T18:44:51.1432496+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9870368+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1163,7 +1470,7 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1935783+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0328895+04:00",
         "Brackets": [
           {
             "Rate": 20.0,
@@ -1174,16 +1481,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833751+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Cuba",
       "Alpha2": "CU",
       "Alpha3": "CUB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1432621+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9870536+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1191,7 +1505,7 @@
       "IncomeTax": {
         "Rate": 50.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1936095+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0329202+04:00",
         "Brackets": [
           {
             "Rate": 15.0,
@@ -1223,29 +1537,36 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833815+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Cyprus",
       "Alpha2": "CY",
       "Alpha3": "CYP",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-18T18:44:51.1432799+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9870669+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1345516+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9780577+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1936426+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0329529+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -1277,116 +1598,151 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833873+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Czechia",
       "Alpha2": "CZ",
       "Alpha3": "CZE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-18T18:44:51.1432926+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9870825+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1345683+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9780745+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 23.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1936743+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0329843+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0833933+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Denmark",
       "Alpha2": "DK",
       "Alpha3": "DNK",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-18T18:44:51.1433087+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9870953+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 42.00,
-        "LastUpdated": "2022-11-18T18:44:51.1345825+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9780879+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 56.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.193703+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0330117+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834002+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Djibouti",
       "Alpha2": "DJ",
       "Alpha3": "DJI",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1433219+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9871113+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 5.00,
-        "LastUpdated": "2022-11-18T18:44:51.1345993+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9781035+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1937315+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0330393+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834063+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Dominica",
       "Alpha2": "DM",
       "Alpha3": "DMA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1433374+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9871243+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1346129+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9781196+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1937582+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0330682+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834133+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Dominican Republic",
       "Alpha2": "DO",
       "Alpha3": "DOM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-18T18:44:51.1433506+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9871423+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1394,169 +1750,218 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.193788+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.033097+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834196+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Ecuador",
       "Alpha2": "EC",
       "Alpha3": "ECU",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1433667+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9871572+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1346461+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9781499+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 37.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1938187+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0331227+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834259+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Egypt",
       "Alpha2": "EG",
       "Alpha3": "EGY",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 22.50,
-        "LastUpdated": "2022-11-18T18:44:51.1433825+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9871741+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 22.50,
-        "LastUpdated": "2022-11-18T18:44:51.1346598+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.978163+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1938482+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0331514+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083433+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "El Salvador",
       "Alpha2": "SV",
       "Alpha3": "SLV",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1433968+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.987188+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1346764+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9781789+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1938781+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0331805+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834395+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Equatorial Guinea",
       "Alpha2": "GQ",
       "Alpha3": "GNQ",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1434125+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9872048+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1346903+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9781924+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1939094+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0332092+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834467+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Eritrea",
       "Alpha2": "ER",
       "Alpha3": "ERI",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-18T18:44:51.1434258+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9872181+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-18T18:44:51.1347073+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9782092+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 34.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1939385+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.033237+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834535+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Estonia",
       "Alpha2": "EE",
       "Alpha3": "EST",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.143442+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9872354+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1347231+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9782248+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1939646+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0332647+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.08346+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Ethiopia",
       "Alpha2": "ET",
       "Alpha3": "ETH",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1434555+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9872519+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1564,19 +1969,26 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1939943+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0332936+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834675+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Faroe Islands",
       "Alpha2": "FO",
       "Alpha3": "FRO",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-18T18:44:51.1434716+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9872649+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1584,44 +1996,58 @@
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1940242+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0333199+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834742+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Fiji",
       "Alpha2": "FJ",
       "Alpha3": "FJI",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1434855+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9872816+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1347997+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9783078+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1940544+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0333502+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834817+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Finland",
       "Alpha2": "FI",
       "Alpha3": "FIN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.143504+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9872956+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1629,19 +2055,26 @@
       "IncomeTax": {
         "Rate": 55.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1940854+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0333794+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834886+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "France",
       "Alpha2": "FR",
       "Alpha3": "FRA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 26.50,
-        "LastUpdated": "2022-11-18T18:44:51.1435205+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9873116+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1649,17 +2082,23 @@
       "IncomeTax": {
         "Rate": 45.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1941159+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.033411+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0834962+04:00"
+      },
       "WealthTax": {
         "Rate": 1.50,
         "Base": 10000000.0,
         "Comments": "",
         "Currency": null,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2575727+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0933948+04:00",
         "Brackets": []
       }
     },
@@ -1667,9 +2106,10 @@
       "Name": "Gabon",
       "Alpha2": "GA",
       "Alpha3": "GAB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1435345+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9873253+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1677,19 +2117,26 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1941458+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0334403+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835031+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Gambia",
       "Alpha2": "GM",
       "Alpha3": "GMB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-18T18:44:51.1435515+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9873417+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1697,107 +2144,135 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1941752+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0334688+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835108+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Georgia",
       "Alpha2": "GE",
       "Alpha3": "GEO",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1435654+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9873584+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 5.75,
-        "LastUpdated": "2022-11-18T18:44:51.1348828+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9783914+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 5.75,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1942055+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0334977+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835179+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Germany",
       "Alpha2": "DE",
       "Alpha3": "DEU",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.83,
-        "LastUpdated": "2022-11-18T18:44:51.1435824+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9873724+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1348978+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9784057+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 45.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1942461+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0335269+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835261+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Ghana",
       "Alpha2": "GH",
       "Alpha3": "GHA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1435993+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9873893+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1349148+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9784234+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.194278+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0335561+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835335+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Gibraltar",
       "Alpha2": "GI",
       "Alpha3": "GIB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-18T18:44:51.1436135+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9874028+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1349328+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9784414+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1943168+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0335999+04:00",
         "Brackets": []
       },
       "LumpsumpTax": {
@@ -1805,7 +2280,7 @@
         "Currency": null,
         "Rate": 0.0,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2496262+04:00"
+        "LastUpdated": "2022-11-19T22:52:20.0835423+04:00"
       },
       "WealthTax": null
     },
@@ -1813,22 +2288,23 @@
       "Name": "Greece",
       "Alpha2": "GR",
       "Alpha3": "GRC",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-18T18:44:51.1436307+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9874198+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1349476+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9784561+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 44.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1943483+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0336307+04:00",
         "Brackets": []
       },
       "LumpsumpTax": {
@@ -1836,7 +2312,7 @@
         "Currency": null,
         "Rate": 0.0,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2497206+04:00"
+        "LastUpdated": "2022-11-19T22:52:20.0835511+04:00"
       },
       "WealthTax": null
     },
@@ -1844,92 +2320,119 @@
       "Name": "Greenland",
       "Alpha2": "GL",
       "Alpha3": "GRL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1436453+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9874361+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 31.80,
-        "LastUpdated": "2022-11-18T18:44:51.1349657+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9784746+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 36.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1943812+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.033661+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835588+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Grenada",
       "Alpha2": "GD",
       "Alpha3": "GRD",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-18T18:44:51.1436625+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9874509+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1349844+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9784945+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 28.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1944122+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0336909+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835669+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Guam",
       "Alpha2": "GU",
       "Alpha3": "GUM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-18T18:44:51.1436795+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9874684+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1349998+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.978513+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0337174+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835745+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Guatemala",
       "Alpha2": "GT",
       "Alpha3": "GTM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1436941+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9874873+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1350174+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9785277+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 7.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1944723+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0337472+04:00",
         "Brackets": [
           {
             "Rate": 5.0,
@@ -1940,16 +2443,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835829+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Guinea",
       "Alpha2": "GN",
       "Alpha3": "GIN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1437132+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9875016+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1957,19 +2467,26 @@
       "IncomeTax": {
         "Rate": 40.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1945038+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0337793+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835905+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Guinea-Bissau",
       "Alpha2": "GW",
       "Alpha3": "GNB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1437312+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.987519+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -1977,32 +2494,39 @@
       "IncomeTax": {
         "Rate": 40.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1945459+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0338121+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0835987+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Guyana",
       "Alpha2": "GY",
       "Alpha3": "GUY",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 45.00,
-        "LastUpdated": "2022-11-18T18:44:51.143746+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9875365+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1350688+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9785783+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 40.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.194589+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.033843+04:00",
         "Brackets": [
           {
             "Rate": 28.0,
@@ -2013,29 +2537,36 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836064+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Haiti",
       "Alpha2": "HT",
       "Alpha3": "HTI",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1437632+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9875507+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1350877+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9785971+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1946331+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0338762+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -2067,29 +2598,36 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836148+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Honduras",
       "Alpha2": "HN",
       "Alpha3": "HND",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1437811+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9875679+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.135106+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9786159+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1946712+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0339136+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -2114,16 +2652,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836228+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Hong Kong",
       "Alpha2": "HK",
       "Alpha3": "HKG",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 16.50,
-        "LastUpdated": "2022-11-18T18:44:51.1437962+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9875864+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2131,7 +2676,7 @@
       "IncomeTax": {
         "Rate": 17.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1947452+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0339478+04:00",
         "Brackets": [
           {
             "Rate": 2.0,
@@ -2163,54 +2708,68 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836316+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Hungary",
       "Alpha2": "HU",
       "Alpha3": "HUN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 9.00,
-        "LastUpdated": "2022-11-18T18:44:51.1438147+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9876011+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1351409+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.978649+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1947887+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0339799+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836399+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Iceland",
       "Alpha2": "IS",
       "Alpha3": "ISL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1438336+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9876186+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-18T18:44:51.1351598+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9786676+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 46.25,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1948224+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0340111+04:00",
         "Brackets": [
           {
             "Rate": 31.45,
@@ -2228,41 +2787,55 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836491+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "India",
       "Alpha2": "IN",
       "Alpha3": "IND",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 43.68,
-        "LastUpdated": "2022-11-18T18:44:51.143849+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9876362+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1351811+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9786881+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.194872+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0340442+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836582+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Indonesia",
       "Alpha2": "ID",
       "Alpha3": "IDN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1438675+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9876511+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2270,7 +2843,7 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1949242+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0340763+04:00",
         "Brackets": [
           {
             "Rate": 5.0,
@@ -2302,29 +2875,36 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836666+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Iran",
       "Alpha2": "IR",
       "Alpha3": "IRN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1438853+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9876691+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1352172+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9787219+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1949783+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.034112+04:00",
         "Brackets": [
           {
             "Rate": 15.0,
@@ -2356,16 +2936,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836755+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Iraq",
       "Alpha2": "IQ",
       "Alpha3": "IRQ",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1439042+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9876887+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2373,7 +2960,7 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1950161+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0341487+04:00",
         "Brackets": [
           {
             "Rate": 3.0,
@@ -2398,41 +2985,55 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0836856+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Ireland",
       "Alpha2": "IE",
       "Alpha3": "IRL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-18T18:44:51.1439201+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9877069+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 33.00,
-        "LastUpdated": "2022-11-18T18:44:51.1352582+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9787602+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1950496+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0341815+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0837148+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Israel",
       "Alpha2": "IL",
       "Alpha3": "ISR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 23.00,
-        "LastUpdated": "2022-11-18T18:44:51.1439385+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.987722+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2440,32 +3041,39 @@
       "IncomeTax": {
         "Rate": 50.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1950922+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0342129+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0837249+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Italy",
       "Alpha2": "IT",
       "Alpha3": "ITA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 24.00,
-        "LastUpdated": "2022-11-18T18:44:51.1439571+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9877401+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 26.00,
-        "LastUpdated": "2022-11-18T18:44:51.1352942+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9787952+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 43.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1951288+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0342448+04:00",
         "Brackets": [
           {
             "Rate": 23.0,
@@ -2495,7 +3103,7 @@
         "Currency": null,
         "Rate": 0.0,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2499995+04:00"
+        "LastUpdated": "2022-11-19T22:52:20.0837338+04:00"
       },
       "WealthTax": null
     },
@@ -2503,47 +3111,55 @@
       "Name": "Jamaica",
       "Alpha2": "JM",
       "Alpha3": "JAM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1439728+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9877578+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1353147+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9788145+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1951633+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0342783+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083743+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Japan",
       "Alpha2": "JP",
       "Alpha3": "JPN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.62,
-        "LastUpdated": "2022-11-18T18:44:51.1439918+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.987773+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 39.63,
-        "LastUpdated": "2022-11-18T18:44:51.135336+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9788345+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 45.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1951977+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0343121+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -2589,16 +3205,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0837516+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Jordan",
       "Alpha2": "JO",
       "Alpha3": "JOR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1440106+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9877914+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2606,127 +3229,167 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1952371+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0343514+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0837608+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Kazakhstan",
       "Alpha2": "KZ",
       "Alpha3": "KAZ",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1440349+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9878093+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.135373+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9788701+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1952718+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0343832+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0837703+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Kenya",
       "Alpha2": "KE",
       "Alpha3": "KEN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1440522+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9878274+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 5.00,
-        "LastUpdated": "2022-11-18T18:44:51.1353953+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9788912+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1953041+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.034418+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0837793+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Kuwait",
       "Alpha2": "KW",
       "Alpha3": "KWT",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1440721+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9878467+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1354369+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9789348+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0344852+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0837987+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Kyrgyzstan",
       "Alpha2": "KG",
       "Alpha3": "KGZ",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1440913+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9878626+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1354584+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.978959+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1954059+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0345161+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083808+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Latvia",
       "Alpha2": "LV",
       "Alpha3": "LVA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1441126+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.987883+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1354805+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9789927+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 31.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1954515+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0345604+04:00",
         "Brackets": [
           {
             "Rate": 20.0,
@@ -2744,29 +3407,36 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0838177+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Lebanon",
       "Alpha2": "LB",
       "Alpha3": "LBN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 17.00,
-        "LastUpdated": "2022-11-18T18:44:51.1441317+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9879023+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1355002+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9790214+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1954883+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0345979+04:00",
         "Brackets": [
           {
             "Rate": 4.0,
@@ -2805,16 +3475,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0838276+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Liberia",
       "Alpha2": "LR",
       "Alpha3": "LBR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1441483+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9879218+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2822,7 +3499,7 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1955268+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.034637+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -2847,16 +3524,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0838369+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Libya",
       "Alpha2": "LY",
       "Alpha3": "LBY",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.144168+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9879398+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2864,7 +3548,7 @@
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1955653+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0346712+04:00",
         "Brackets": [
           {
             "Rate": 5.0,
@@ -2875,16 +3559,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0838467+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Liechtenstein",
       "Alpha2": "LI",
       "Alpha3": "LIE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 12.50,
-        "LastUpdated": "2022-11-18T18:44:51.1441872+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9879594+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2892,44 +3583,58 @@
       "IncomeTax": {
         "Rate": 22.40,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1955997+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0347042+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083857+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Lithuania",
       "Alpha2": "LT",
       "Alpha3": "LTU",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.144207+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9879793+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1355846+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9791503+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1956336+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0347367+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0838663+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Luxembourg",
       "Alpha2": "LU",
       "Alpha3": "LUX",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 24.94,
-        "LastUpdated": "2022-11-18T18:44:51.1442266+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.987998+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2937,19 +3642,26 @@
       "IncomeTax": {
         "Rate": 42.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1956667+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0347692+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0838765+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Macao",
       "Alpha2": "MO",
       "Alpha3": "MAC",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 12.00,
-        "LastUpdated": "2022-11-18T18:44:51.1442434+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9880174+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -2957,7 +3669,7 @@
       "IncomeTax": {
         "Rate": 12.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1957016+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0348105+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3003,54 +3715,68 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0838866+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Macedonia",
       "Alpha2": "MK",
       "Alpha3": "MKD",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1442634+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9880366+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1356459+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9792436+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 18.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1957753+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0348514+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0838964+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Madagascar",
       "Alpha2": "MG",
       "Alpha3": "MDG",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1442832+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9880527+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1356678+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9792656+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1958286+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0348857+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3082,16 +3808,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0839071+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Malaysia",
       "Alpha2": "MY",
       "Alpha3": "MYS",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 24.00,
-        "LastUpdated": "2022-11-18T18:44:51.144304+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9880737+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3099,7 +3832,7 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.195886+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0349264+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3145,16 +3878,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083918+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Maldives",
       "Alpha2": "MV",
       "Alpha3": "MDV",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.144359+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9881335+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3162,7 +3902,7 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.195964+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0349656+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3194,16 +3934,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0839286+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Mali",
       "Alpha2": "ML",
       "Alpha3": "MLI",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.144379+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9881531+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3211,19 +3958,26 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1960197+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0350003+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0839385+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Malta",
       "Alpha2": "MT",
       "Alpha3": "MLT",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1443989+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9881724+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3231,19 +3985,26 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1960705+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0350332+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0839492+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Mauritius",
       "Alpha2": "MU",
       "Alpha3": "MUS",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1444164+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9881923+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3251,19 +4012,26 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1961248+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0350704+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0839598+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Mexico",
       "Alpha2": "MX",
       "Alpha3": "MEX",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1444371+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9882117+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3271,19 +4039,26 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1961718+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0351036+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0839707+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Moldova",
       "Alpha2": "MD",
       "Alpha3": "MDA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 12.00,
-        "LastUpdated": "2022-11-18T18:44:51.1444575+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9882286+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3291,34 +4066,53 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1962177+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0351366+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0839808+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Monaco",
       "Alpha2": "MC",
       "Alpha3": "MCO",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.144478+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9882487+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0351691+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.083992+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Mongolia",
       "Alpha2": "MN",
       "Alpha3": "MNG",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1444988+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9882685+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3326,19 +4120,26 @@
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1963187+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0352022+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0840031+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Montenegro",
       "Alpha2": "ME",
       "Alpha3": "MNE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1445219+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9882907+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3346,7 +4147,7 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1963659+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0352383+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3364,16 +4165,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0840142+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Morocco",
       "Alpha2": "MA",
       "Alpha3": "MAR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 31.00,
-        "LastUpdated": "2022-11-18T18:44:51.1445431+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9883124+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3381,7 +4189,7 @@
       "IncomeTax": {
         "Rate": 38.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1964065+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0352753+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3420,16 +4228,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0840248+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Mozambique",
       "Alpha2": "MZ",
       "Alpha3": "MOZ",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 32.00,
-        "LastUpdated": "2022-11-18T18:44:51.1445636+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9883324+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3437,7 +4252,7 @@
       "IncomeTax": {
         "Rate": 32.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1964577+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0353157+04:00",
         "Brackets": [
           {
             "Rate": 10.0,
@@ -3469,16 +4284,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0840364+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Myanmar",
       "Alpha2": "MM",
       "Alpha3": "MMR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-18T18:44:51.1445841+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9883525+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3486,19 +4308,26 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1965076+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0353519+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0840473+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Namibia",
       "Alpha2": "NA",
       "Alpha3": "NAM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 32.00,
-        "LastUpdated": "2022-11-18T18:44:51.1446056+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9883728+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3506,7 +4335,7 @@
       "IncomeTax": {
         "Rate": 37.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1965583+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0353872+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3552,16 +4381,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0840587+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Nepal",
       "Alpha2": "NP",
       "Alpha3": "NPL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1446263+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.988393+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3569,7 +4405,7 @@
       "IncomeTax": {
         "Rate": 36.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1966072+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0354279+04:00",
         "Brackets": [
           {
             "Rate": 1.0,
@@ -3601,16 +4437,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0840699+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Netherlands",
       "Alpha2": "NL",
       "Alpha3": "NLD",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.80,
-        "LastUpdated": "2022-11-18T18:44:51.1446446+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9884133+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3618,7 +4461,7 @@
       "IncomeTax": {
         "Rate": 49.50,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1966859+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0354742+04:00",
         "Brackets": [
           {
             "Rate": 9.70,
@@ -3636,14 +4479,20 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0840811+04:00"
+      },
       "WealthTax": {
         "Rate": 1.68,
         "Base": 1020096.0,
         "Comments": "Yields only",
         "Currency": null,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2586372+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0945443+04:00",
         "Brackets": []
       }
     },
@@ -3651,9 +4500,10 @@
       "Name": "New Zealand",
       "Alpha2": "NZ",
       "Alpha3": "NZL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 28.00,
-        "LastUpdated": "2022-11-18T18:44:51.1446656+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9884338+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3661,7 +4511,7 @@
       "IncomeTax": {
         "Rate": 39.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1967412+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.035516+04:00",
         "Brackets": [
           {
             "Rate": 10.50,
@@ -3693,16 +4543,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0840927+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Nicaragua",
       "Alpha2": "NI",
       "Alpha3": "NIC",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1446871+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9884555+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3710,7 +4567,7 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1968172+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0355539+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3742,16 +4599,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0841042+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Niger",
       "Alpha2": "NE",
       "Alpha3": "NER",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1447094+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9884766+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3759,19 +4623,26 @@
       "IncomeTax": {
         "Rate": 24.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1968735+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0355914+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0841158+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Nigeria",
       "Alpha2": "NG",
       "Alpha3": "NGA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1447303+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9884972+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3779,19 +4650,26 @@
       "IncomeTax": {
         "Rate": 24.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1969247+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0356283+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.084128+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Norway",
       "Alpha2": "NO",
       "Alpha3": "NOR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-18T18:44:51.1447528+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.988518+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3799,17 +4677,23 @@
       "IncomeTax": {
         "Rate": 38.20,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.196981+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0356627+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0841401+04:00"
+      },
       "WealthTax": {
         "Rate": 0.95,
         "Base": 1500000.0,
         "Comments": "",
         "Currency": null,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.258742+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0946458+04:00",
         "Brackets": []
       }
     },
@@ -3817,24 +4701,37 @@
       "Name": "Oman",
       "Alpha2": "OM",
       "Alpha3": "OMN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1447746+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9885363+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0356963+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0841512+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Pakistan",
       "Alpha2": "PK",
       "Alpha3": "PAK",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 29.00,
-        "LastUpdated": "2022-11-18T18:44:51.1447965+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9885571+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3842,7 +4739,7 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1970795+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0357364+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3888,16 +4785,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0841631+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Palau",
       "Alpha2": "PW",
       "Alpha3": "PLW",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1448182+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9885788+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3905,19 +4809,26 @@
       "IncomeTax": {
         "Rate": 19.60,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1971744+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.035775+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0841751+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Palestine",
       "Alpha2": "PS",
       "Alpha3": "PSE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.14484+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9886003+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3925,7 +4836,7 @@
       "IncomeTax": {
         "Rate": 5.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1972514+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0358115+04:00",
         "Brackets": [
           {
             "Rate": 5.0,
@@ -3943,16 +4854,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0841869+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Panama",
       "Alpha2": "PA",
       "Alpha3": "PAN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1448615+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9886213+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3960,7 +4878,7 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1973242+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0358506+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -3978,16 +4896,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0841992+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Papua New Guinea",
       "Alpha2": "PG",
       "Alpha3": "PNG",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1448848+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.988644+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -3995,19 +4920,26 @@
       "IncomeTax": {
         "Rate": 42.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1974463+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0358879+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0842115+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Paraguay",
       "Alpha2": "PY",
       "Alpha3": "PRY",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1449065+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9886661+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4015,19 +4947,26 @@
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1975171+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0359258+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0842237+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Peru",
       "Alpha2": "PE",
       "Alpha3": "PER",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 29.50,
-        "LastUpdated": "2022-11-18T18:44:51.1449283+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9886873+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4035,19 +4974,26 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1975875+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0359616+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0842359+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Philippines",
       "Alpha2": "PH",
       "Alpha3": "PHL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.14495+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9887088+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4055,19 +5001,26 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1976941+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0359977+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0842479+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Poland",
       "Alpha2": "PL",
       "Alpha3": "POL",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-18T18:44:51.1449725+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9887302+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4075,7 +5028,7 @@
       "IncomeTax": {
         "Rate": 32.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1977316+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0360355+04:00",
         "Brackets": [
           {
             "Rate": 12.0,
@@ -4086,16 +5039,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.084261+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Portugal",
       "Alpha2": "PT",
       "Alpha3": "PRT",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-18T18:44:51.1449946+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.988753+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4103,7 +5063,7 @@
       "IncomeTax": {
         "Rate": 48.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1977776+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0360743+04:00",
         "Brackets": [
           {
             "Rate": 14.50,
@@ -4142,16 +5102,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0842735+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Puerto Rico",
       "Alpha2": "PR",
       "Alpha3": "PRI",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 37.50,
-        "LastUpdated": "2022-11-18T18:44:51.1450171+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9887779+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4159,7 +5126,7 @@
       "IncomeTax": {
         "Rate": 33.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1978244+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0361184+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -4191,31 +5158,50 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0842861+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Qatar",
       "Alpha2": "QA",
       "Alpha3": "QAT",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1450432+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9888012+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0361565+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0842988+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Romania",
       "Alpha2": "RO",
       "Alpha3": "ROU",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 16.00,
-        "LastUpdated": "2022-11-18T18:44:51.1450665+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.988824+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4223,19 +5209,26 @@
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1979381+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0361912+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0843115+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Russia",
       "Alpha2": "RU",
       "Alpha3": "RUS",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1450897+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9888458+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4243,19 +5236,26 @@
       "IncomeTax": {
         "Rate": 13.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1979829+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0362314+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0843242+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Rwanda",
       "Alpha2": "RW",
       "Alpha3": "RWA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1451125+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.988868+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4263,7 +5263,7 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.198032+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0362704+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -4281,16 +5281,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.084342+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Saint Vincent and the Grenadines",
       "Alpha2": "VC",
       "Alpha3": "VCT",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1451481+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9888998+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4298,7 +5305,7 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2452045+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0785357+04:00",
         "Brackets": [
           {
             "Rate": 10.0,
@@ -4316,16 +5323,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0850255+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Samoa",
       "Alpha2": "WS",
       "Alpha3": "WSM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-18T18:44:51.1451738+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9889243+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4333,19 +5347,26 @@
       "IncomeTax": {
         "Rate": 27.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2452428+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0785731+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0850408+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "San Marino",
       "Alpha2": "SM",
       "Alpha3": "SMR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 17.00,
-        "LastUpdated": "2022-11-18T18:44:51.1451966+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9889476+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4353,7 +5374,7 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1980898+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0363138+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -4406,16 +5427,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.084364+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Sao Tome and Principe",
       "Alpha2": "ST",
       "Alpha3": "STP",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1452227+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9889775+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4423,34 +5451,53 @@
       "IncomeTax": {
         "Rate": 37.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2452803+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0786088+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.085057+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Saudi Arabia",
       "Alpha2": "SA",
       "Alpha3": "SAU",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1452485+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9890004+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0481203+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.084386+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Senegal",
       "Alpha2": "SN",
       "Alpha3": "SEN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.145275+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.989023+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4458,7 +5505,7 @@
       "IncomeTax": {
         "Rate": 40.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2129145+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0581584+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -4497,16 +5544,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0844052+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Serbia",
       "Alpha2": "RS",
       "Alpha3": "SRB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1452977+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9890452+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4514,19 +5568,26 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2319523+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0680888+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0844262+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Seychelles",
       "Alpha2": "SC",
       "Alpha3": "SYC",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 33.00,
-        "LastUpdated": "2022-11-18T18:44:51.1453207+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9890689+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4534,19 +5595,26 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2319927+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0681276+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0844503+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Sierra Leone",
       "Alpha2": "SL",
       "Alpha3": "SLE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1453432+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9890911+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4554,19 +5622,26 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2320274+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0681618+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0844734+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Singapore",
       "Alpha2": "SG",
       "Alpha3": "SGP",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 17.00,
-        "LastUpdated": "2022-11-18T18:44:51.1453663+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9891134+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4574,7 +5649,7 @@
       "IncomeTax": {
         "Rate": 22.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2320873+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0682261+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -4648,16 +5723,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0844956+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Slovakia",
       "Alpha2": "SK",
       "Alpha3": "SVK",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-18T18:44:51.1453896+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9891355+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4665,19 +5747,26 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2439149+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0771683+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0845185+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Slovenia",
       "Alpha2": "SI",
       "Alpha3": "SVN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-18T18:44:51.1454134+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9891591+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4685,19 +5774,26 @@
       "IncomeTax": {
         "Rate": 50.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2439637+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0772078+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0845415+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Somalia",
       "Alpha2": "SO",
       "Alpha3": "SOM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1454369+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.989185+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4705,7 +5801,7 @@
       "IncomeTax": {
         "Rate": 18.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2440016+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0772457+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -4730,16 +5826,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0845657+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "South Africa",
       "Alpha2": "ZA",
       "Alpha3": "ZAF",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 28.00,
-        "LastUpdated": "2022-11-18T18:44:51.1454612+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9892091+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4747,7 +5850,7 @@
       "IncomeTax": {
         "Rate": 45.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2440456+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0772876+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -4793,29 +5896,36 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0845892+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "South Korea",
       "Alpha2": "KR",
       "Alpha3": "KOR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 22.00,
-        "LastUpdated": "2022-11-18T18:44:51.1454806+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9892248+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": {
         "Rate": 33.00,
-        "LastUpdated": "2022-11-18T18:44:51.1354162+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9789119+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "IncomeTax": {
         "Rate": 45.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.1953385+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0344511+04:00",
         "Brackets": [
           {
             "Rate": 6.0,
@@ -4854,16 +5964,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0837888+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "South Sudan",
       "Alpha2": "SS",
       "Alpha3": "SSD",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1455035+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9892502+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4871,7 +5988,7 @@
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2440906+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0773293+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -4903,16 +6020,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0846054+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Spain",
       "Alpha2": "ES",
       "Alpha3": "ESP",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1455276+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9892729+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4920,7 +6044,7 @@
       "IncomeTax": {
         "Rate": 45.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2441336+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0773667+04:00",
         "Brackets": [
           {
             "Rate": 19.0,
@@ -4952,14 +6076,20 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0846193+04:00"
+      },
       "WealthTax": {
         "Rate": 3.50,
         "Base": 10000000.0,
         "Comments": "",
         "Currency": null,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2593442+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0952934+04:00",
         "Brackets": []
       }
     },
@@ -4967,9 +6097,10 @@
       "Name": "Sri Lanka",
       "Alpha2": "LK",
       "Alpha3": "LKA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1455545+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9892957+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4977,19 +6108,26 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2441711+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0774119+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0846331+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Sudan",
       "Alpha2": "SD",
       "Alpha3": "SDN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 35.00,
-        "LastUpdated": "2022-11-18T18:44:51.1455819+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9893239+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -4997,19 +6135,26 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2442077+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0774516+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0846469+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Sweden",
       "Alpha2": "SE",
       "Alpha3": "SWE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.60,
-        "LastUpdated": "2022-11-18T18:44:51.1456056+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9893479+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5017,19 +6162,26 @@
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2442434+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0775073+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0846607+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Switzerland",
       "Alpha2": "CH",
       "Alpha3": "CHE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 8.50,
-        "LastUpdated": "2022-11-18T18:44:51.1456293+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9893724+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5037,7 +6189,7 @@
       "IncomeTax": {
         "Rate": 13.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2442796+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0775665+04:00",
         "Brackets": []
       },
       "LumpsumpTax": {
@@ -5045,7 +6197,7 @@
         "Currency": null,
         "Rate": 0.0,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2510359+04:00"
+        "LastUpdated": "2022-11-19T22:52:20.0846765+04:00"
       },
       "WealthTax": {
         "Rate": 0.30,
@@ -5053,7 +6205,7 @@
         "Comments": "Data from Zurich",
         "Currency": null,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.259435+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0953913+04:00",
         "Brackets": []
       }
     },
@@ -5061,9 +6213,10 @@
       "Name": "Taiwan",
       "Alpha2": "TW",
       "Alpha3": "TWN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1456528+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9893962+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5071,7 +6224,7 @@
       "IncomeTax": {
         "Rate": 40.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2443165+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0776057+04:00",
         "Brackets": [
           {
             "Rate": 5.0,
@@ -5103,16 +6256,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0846915+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Tajikistan",
       "Alpha2": "TJ",
       "Alpha3": "TJK",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.145677+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.989423+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5120,19 +6280,26 @@
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2443548+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0776523+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0847064+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Tanzania",
       "Alpha2": "TZ",
       "Alpha3": "TZA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1457037+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9894465+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5140,7 +6307,7 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2443919+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0777101+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -5172,16 +6339,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0847217+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Thailand",
       "Alpha2": "TH",
       "Alpha3": "THA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1457289+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.989471+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5189,7 +6363,7 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2444327+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0777707+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -5242,16 +6416,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0847369+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Timor-Leste",
       "Alpha2": "TL",
       "Alpha3": "TLS",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 10.00,
-        "LastUpdated": "2022-11-18T18:44:51.1457576+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9894988+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5259,19 +6440,26 @@
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2453174+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0786441+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0850728+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Togo",
       "Alpha2": "TG",
       "Alpha3": "TGO",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 27.00,
-        "LastUpdated": "2022-11-18T18:44:51.1457818+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.989525+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5279,7 +6467,7 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2444764+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0778154+04:00",
         "Brackets": [
           {
             "Rate": 0.50,
@@ -5318,16 +6506,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0847527+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Tonga",
       "Alpha2": "TO",
       "Alpha3": "TON",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1458068+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9895486+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5335,7 +6530,7 @@
       "IncomeTax": {
         "Rate": 25.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2445171+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0778547+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -5367,16 +6562,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0847676+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Trinidad and Tobago",
       "Alpha2": "TT",
       "Alpha3": "TTO",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1458337+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9895727+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5384,19 +6586,26 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2445569+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0778921+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0847822+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Tunisia",
       "Alpha2": "TN",
       "Alpha3": "TUN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.145858+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9895962+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5404,7 +6613,7 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.244595+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.077928+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -5436,16 +6645,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.084797+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Turkey",
       "Alpha2": "TR",
       "Alpha3": "TUR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 23.00,
-        "LastUpdated": "2022-11-18T18:44:51.1458824+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9896206+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5453,19 +6669,26 @@
       "IncomeTax": {
         "Rate": 40.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2446336+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0779658+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0848118+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Turkmenistan",
       "Alpha2": "TM",
       "Alpha3": "TKM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1459067+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9896481+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5473,19 +6696,26 @@
       "IncomeTax": {
         "Rate": 10.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2446694+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0779997+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0848266+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Tuvalu",
       "Alpha2": "TV",
       "Alpha3": "TUV",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.145937+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9896742+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5493,19 +6723,26 @@
       "IncomeTax": {
         "Rate": 30.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.245353+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0786798+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0850884+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Uganda",
       "Alpha2": "UG",
       "Alpha3": "UGA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1459614+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9897036+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5513,19 +6750,26 @@
       "IncomeTax": {
         "Rate": 40.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2447063+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0780355+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0848421+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Ukraine",
       "Alpha2": "UA",
       "Alpha3": "UKR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 18.00,
-        "LastUpdated": "2022-11-18T18:44:51.145986+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9897277+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5533,34 +6777,53 @@
       "IncomeTax": {
         "Rate": 18.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2447425+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0780695+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0848572+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "United Arab Emirates",
       "Alpha2": "AE",
       "Alpha3": "ARE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1460105+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9897554+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0781038+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0848721+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "United Kingdom",
       "Alpha2": "GB",
       "Alpha3": "GBR",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 19.00,
-        "LastUpdated": "2022-11-18T18:44:51.1460405+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9897824+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5568,19 +6831,26 @@
       "IncomeTax": {
         "Rate": 45.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2448192+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0781391+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0848868+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "United States",
       "Alpha2": "US",
       "Alpha3": "USA",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 21.00,
-        "LastUpdated": "2022-11-18T18:44:51.1460682+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9898071+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5588,19 +6858,26 @@
       "IncomeTax": {
         "Rate": 37.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2448565+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.078175+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0849016+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Uruguay",
       "Alpha2": "UY",
       "Alpha3": "URY",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 25.00,
-        "LastUpdated": "2022-11-18T18:44:51.1460946+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9898329+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5608,19 +6885,26 @@
       "IncomeTax": {
         "Rate": 36.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2449318+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0782722+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0849171+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Uzbekistan",
       "Alpha2": "UZ",
       "Alpha3": "UZB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 15.00,
-        "LastUpdated": "2022-11-18T18:44:51.1461194+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9898598+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5628,34 +6912,53 @@
       "IncomeTax": {
         "Rate": 20.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2449693+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0783077+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0849322+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Vanuatu",
       "Alpha2": "VU",
       "Alpha3": "VUT",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 0.00,
-        "LastUpdated": "2022-11-18T18:44:51.1461493+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9898855+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
       "CapitalGainsTax": null,
-      "IncomeTax": null,
-      "LumpsumpTax": null,
+      "IncomeTax": {
+        "Rate": 0.00,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0787318+04:00",
+        "Brackets": []
+      },
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0851359+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Venezuela",
       "Alpha2": "VE",
       "Alpha3": "VEN",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 34.00,
-        "LastUpdated": "2022-11-18T18:44:51.1461754+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9899113+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5663,7 +6966,7 @@
       "IncomeTax": {
         "Rate": 34.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2450082+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.078346+04:00",
         "Brackets": [
           {
             "Rate": 6.0,
@@ -5716,16 +7019,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0849475+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Vietnam",
       "Alpha2": "VN",
       "Alpha3": "VNM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1462009+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.989937+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5733,19 +7043,26 @@
       "IncomeTax": {
         "Rate": 35.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2450505+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0783881+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0849634+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Yemen",
       "Alpha2": "YE",
       "Alpha3": "YEM",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 20.00,
-        "LastUpdated": "2022-11-18T18:44:51.1462261+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9899669+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5753,19 +7070,26 @@
       "IncomeTax": {
         "Rate": 15.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2450879+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0784228+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0849788+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Zambia",
       "Alpha2": "ZM",
       "Alpha3": "ZMB",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 30.00,
-        "LastUpdated": "2022-11-18T18:44:51.1462557+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9899969+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5773,7 +7097,7 @@
       "IncomeTax": {
         "Rate": 37.50,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2451262+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0784598+04:00",
         "Brackets": [
           {
             "Rate": 0.0,
@@ -5798,16 +7122,23 @@
           }
         ]
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0849938+04:00"
+      },
       "WealthTax": null
     },
     {
       "Name": "Zimbabwe",
       "Alpha2": "ZW",
       "Alpha3": "ZWE",
+      "Continent": null,
       "CorporateTax": {
         "Rate": 24.72,
-        "LastUpdated": "2022-11-18T18:44:51.1463001+04:00",
+        "LastUpdated": "2022-11-19T22:52:19.9900484+04:00",
         "ValidationLevel": 0,
         "Brackets": []
       },
@@ -5815,10 +7146,16 @@
       "IncomeTax": {
         "Rate": 40.00,
         "ValidationLevel": 0,
-        "LastUpdated": "2022-11-18T18:44:51.2451659+04:00",
+        "LastUpdated": "2022-11-19T22:52:20.0784983+04:00",
         "Brackets": []
       },
-      "LumpsumpTax": null,
+      "LumpsumpTax": {
+        "Amount": 0.0,
+        "Currency": null,
+        "Rate": 0.0,
+        "ValidationLevel": 0,
+        "LastUpdated": "2022-11-19T22:52:20.0850091+04:00"
+      },
       "WealthTax": null
     }
   ]
