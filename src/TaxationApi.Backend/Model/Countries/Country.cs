@@ -13,5 +13,6 @@ namespace TaxationApi.Backend.Model.Countries
         public string Alpha3 { get; set; }
         public string Region { get; set; }
         public string SubRegion { get; set; }
+        public string CurrencyCode { get; set; }
     }
 }

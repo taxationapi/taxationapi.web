@@ -11,17 +11,18 @@ namespace TaxationApi.Backend.Helpers.Extensions
 {
     public static class TaxationExtensions
     {
-        public static ComputedIncomeTaxation GetIncomeTax(this TaxationData taxationData, ComputingTaxationRequest request)
+        public static ComputedIncomeTaxation GetIncomeTax(this TaxationData taxationData, ComputingTaxationRequest request, decimal rate)
         {
             ComputedIncomeTaxation incomeTaxation = new ComputedIncomeTaxation();
             var incomeTax = taxationData.IncomeTax;
-            var taxableIncome = request.YearlyIncome;
-            var taxedIncomeSoFar = 0.0m;
-            var taxabaleIncomeLeft = taxableIncome - taxedIncomeSoFar;
-            var lowestBracket = 0.0m;
             
             if (incomeTax != null)
             {
+                var taxableIncomeUsd = request.YearlyIncome;  // we always convert to local as the brackets should be in local currency
+                var taxableIncome = taxableIncomeUsd*rate;
+                var taxedIncomeSoFar = 0.0m;
+                var taxabaleIncomeLeft = taxableIncome - taxedIncomeSoFar;
+                var lowestBracket = 0.0m;
                 foreach (var incomeBracket in incomeTax.Brackets.OrderBy(c=>c.LowerBracket))
                 {
                     lowestBracket = incomeBracket.LowerBracket;
@@ -78,18 +79,26 @@ namespace TaxationApi.Backend.Helpers.Extensions
                         IncomeInBracket = taxabaleIncomeLeft
                     });
                 }
-
-                
             }
             else
             {
                 return null;
             }
 
-            
-            incomeTaxation.MonthlyTax = incomeTaxation.Brackets.Sum(c => c.TaxInBracket) / 12;
-            incomeTaxation.MonthlyNetIncome = (request.YearlyIncome / 12) - incomeTaxation.MonthlyTax;
-           
+            // now we need to convert it back to USD
+            foreach (var bracket in incomeTaxation.Brackets)
+            {
+                bracket.LowerBracket = bracket.LowerBracket / rate;
+                bracket.HigherBracket = bracket.HigherBracket / rate;
+                bracket.TaxInBracket = bracket.TaxInBracket / rate;
+                bracket.IncomeInBracket = bracket.IncomeInBracket / rate;
+            }
+
+            var localMonthlyTax = incomeTaxation.Brackets.Sum(c => c.TaxInBracket) / 12;
+            var localMonthlyNet = (request.YearlyIncome / 12) - incomeTaxation.MonthlyTax;
+            incomeTaxation.MonthlyTax = localMonthlyTax;
+            incomeTaxation.MonthlyNetIncome = localMonthlyNet;
+
             return incomeTaxation;
         }
 

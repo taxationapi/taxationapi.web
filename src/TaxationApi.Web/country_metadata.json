@@ -1,1325 +1,1514 @@
 [
   {
-    "Name": "Afghanistan",
-    "Alpha2": "AF",
-    "Alpha3": "AFG",
-    "Region": "Asia",
-    "SubRegion": "Southern Asia"
-  },
-  {
-    "Name": "Albania",
-    "Alpha2": "AL",
-    "Alpha3": "ALB",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Algeria",
-    "Alpha2": "DZ",
-    "Alpha3": "DZA",
-    "Region": "Africa",
-    "SubRegion": "Northern Africa"
-  },
-  {
     "Name": "American Samoa",
     "Alpha2": "AS",
     "Alpha3": "ASM",
     "Region": "Oceania",
-    "SubRegion": "Polynesia"
-  },
-  {
-    "Name": "Andorra",
-    "Alpha2": "AD",
-    "Alpha3": "AND",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Angola",
-    "Alpha2": "AO",
-    "Alpha3": "AGO",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Anguilla",
-    "Alpha2": "AI",
-    "Alpha3": "AIA",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
+    "SubRegion": "Polynesia",
+    "CurrencyCode": "USD"
   },
   {
     "Name": "Antarctica",
     "Alpha2": "AQ",
     "Alpha3": "ATA",
     "Region": "",
-    "SubRegion": ""
-  },
-  {
-    "Name": "Argentina",
-    "Alpha2": "AR",
-    "Alpha3": "ARG",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Armenia",
-    "Alpha2": "AM",
-    "Alpha3": "ARM",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Australia",
-    "Alpha2": "AU",
-    "Alpha3": "AUS",
-    "Region": "Oceania",
-    "SubRegion": "Australia and New Zealand"
-  },
-  {
-    "Name": "Austria",
-    "Alpha2": "AT",
-    "Alpha3": "AUT",
-    "Region": "Europe",
-    "SubRegion": "Western Europe"
-  },
-  {
-    "Name": "Azerbaijan",
-    "Alpha2": "AZ",
-    "Alpha3": "AZE",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Bahamas",
-    "Alpha2": "BS",
-    "Alpha3": "BHS",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Bahrain",
-    "Alpha2": "BH",
-    "Alpha3": "BHR",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Bangladesh",
-    "Alpha2": "BD",
-    "Alpha3": "BGD",
-    "Region": "Asia",
-    "SubRegion": "Southern Asia"
-  },
-  {
-    "Name": "Barbados",
-    "Alpha2": "BB",
-    "Alpha3": "BRB",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Belarus",
-    "Alpha2": "BY",
-    "Alpha3": "BLR",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "Belgium",
-    "Alpha2": "BE",
-    "Alpha3": "BEL",
-    "Region": "Europe",
-    "SubRegion": "Western Europe"
-  },
-  {
-    "Name": "Belize",
-    "Alpha2": "BZ",
-    "Alpha3": "BLZ",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Benin",
-    "Alpha2": "BJ",
-    "Alpha3": "BEN",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Bermuda",
-    "Alpha2": "BM",
-    "Alpha3": "BMU",
-    "Region": "Americas",
-    "SubRegion": "Northern America"
-  },
-  {
-    "Name": "Bhutan",
-    "Alpha2": "BT",
-    "Alpha3": "BTN",
-    "Region": "Asia",
-    "SubRegion": "Southern Asia"
-  },
-  {
-    "Name": "Bolivia",
-    "Alpha2": "BO",
-    "Alpha3": "BOL",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Bosnia and Herzegovina",
-    "Alpha2": "BA",
-    "Alpha3": "BIH",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Botswana",
-    "Alpha2": "BW",
-    "Alpha3": "BWA",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Brazil",
-    "Alpha2": "BR",
-    "Alpha3": "BRA",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Brunei Darussalam",
-    "Alpha2": "BN",
-    "Alpha3": "BRN",
-    "Region": "Asia",
-    "SubRegion": "South-eastern Asia"
-  },
-  {
-    "Name": "Bulgaria",
-    "Alpha2": "BG",
-    "Alpha3": "BGR",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "Burkina Faso",
-    "Alpha2": "BF",
-    "Alpha3": "BFA",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Burundi",
-    "Alpha2": "BI",
-    "Alpha3": "BDI",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Cambodia",
-    "Alpha2": "KH",
-    "Alpha3": "KHM",
-    "Region": "Asia",
-    "SubRegion": "South-eastern Asia"
-  },
-  {
-    "Name": "Cameroon",
-    "Alpha2": "CM",
-    "Alpha3": "CMR",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Canada",
-    "Alpha2": "CA",
-    "Alpha3": "CAN",
-    "Region": "Americas",
-    "SubRegion": "Northern America"
-  },
-  {
-    "Name": "Central African Republic",
-    "Alpha2": "CF",
-    "Alpha3": "CAF",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Chad",
-    "Alpha2": "TD",
-    "Alpha3": "TCD",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Chile",
-    "Alpha2": "CL",
-    "Alpha3": "CHL",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "China",
-    "Alpha2": "CN",
-    "Alpha3": "CHN",
-    "Region": "Asia",
-    "SubRegion": "Eastern Asia"
-  },
-  {
-    "Name": "Colombia",
-    "Alpha2": "CO",
-    "Alpha3": "COL",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Congo",
-    "Alpha2": "CG",
-    "Alpha3": "COG",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Costa Rica",
-    "Alpha2": "CR",
-    "Alpha3": "CRI",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Côte dIvoire",
-    "Alpha2": "CI",
-    "Alpha3": "CIV",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Croatia",
-    "Alpha2": "HR",
-    "Alpha3": "HRV",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Cuba",
-    "Alpha2": "CU",
-    "Alpha3": "CUB",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Cyprus",
-    "Alpha2": "CY",
-    "Alpha3": "CYP",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Czechia",
-    "Alpha2": "CZ",
-    "Alpha3": "CZE",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "Denmark",
-    "Alpha2": "DK",
-    "Alpha3": "DNK",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Djibouti",
-    "Alpha2": "DJ",
-    "Alpha3": "DJI",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Dominica",
-    "Alpha2": "DM",
-    "Alpha3": "DMA",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Dominican Republic",
-    "Alpha2": "DO",
-    "Alpha3": "DOM",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
+    "SubRegion": "",
+    "CurrencyCode": "USD"
   },
   {
     "Name": "Ecuador",
     "Alpha2": "EC",
     "Alpha3": "ECU",
     "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Egypt",
-    "Alpha2": "EG",
-    "Alpha3": "EGY",
-    "Region": "Africa",
-    "SubRegion": "Northern Africa"
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "USD"
   },
   {
     "Name": "El Salvador",
     "Alpha2": "SV",
     "Alpha3": "SLV",
     "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Equatorial Guinea",
-    "Alpha2": "GQ",
-    "Alpha3": "GNQ",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Eritrea",
-    "Alpha2": "ER",
-    "Alpha3": "ERI",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Estonia",
-    "Alpha2": "EE",
-    "Alpha3": "EST",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Ethiopia",
-    "Alpha2": "ET",
-    "Alpha3": "ETH",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Faroe Islands",
-    "Alpha2": "FO",
-    "Alpha3": "FRO",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Fiji",
-    "Alpha2": "FJ",
-    "Alpha3": "FJI",
-    "Region": "Oceania",
-    "SubRegion": "Melanesia"
-  },
-  {
-    "Name": "Finland",
-    "Alpha2": "FI",
-    "Alpha3": "FIN",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "France",
-    "Alpha2": "FR",
-    "Alpha3": "FRA",
-    "Region": "Europe",
-    "SubRegion": "Western Europe"
-  },
-  {
-    "Name": "French Guiana",
-    "Alpha2": "GF",
-    "Alpha3": "GUF",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "French Polynesia",
-    "Alpha2": "PF",
-    "Alpha3": "PYF",
-    "Region": "Oceania",
-    "SubRegion": "Polynesia"
-  },
-  {
-    "Name": "Gabon",
-    "Alpha2": "GA",
-    "Alpha3": "GAB",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Gambia",
-    "Alpha2": "GM",
-    "Alpha3": "GMB",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Georgia",
-    "Alpha2": "GE",
-    "Alpha3": "GEO",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Germany",
-    "Alpha2": "DE",
-    "Alpha3": "DEU",
-    "Region": "Europe",
-    "SubRegion": "Western Europe"
-  },
-  {
-    "Name": "Ghana",
-    "Alpha2": "GH",
-    "Alpha3": "GHA",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Gibraltar",
-    "Alpha2": "GI",
-    "Alpha3": "GIB",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Greece",
-    "Alpha2": "GR",
-    "Alpha3": "GRC",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Greenland",
-    "Alpha2": "GL",
-    "Alpha3": "GRL",
-    "Region": "Americas",
-    "SubRegion": "Northern America"
-  },
-  {
-    "Name": "Grenada",
-    "Alpha2": "GD",
-    "Alpha3": "GRD",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "USD"
   },
   {
     "Name": "Guam",
     "Alpha2": "GU",
     "Alpha3": "GUM",
     "Region": "Oceania",
-    "SubRegion": "Micronesia"
-  },
-  {
-    "Name": "Guatemala",
-    "Alpha2": "GT",
-    "Alpha3": "GTM",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Guinea",
-    "Alpha2": "GN",
-    "Alpha3": "GIN",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Guinea-Bissau",
-    "Alpha2": "GW",
-    "Alpha3": "GNB",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Guyana",
-    "Alpha2": "GY",
-    "Alpha3": "GUY",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Haiti",
-    "Alpha2": "HT",
-    "Alpha3": "HTI",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Honduras",
-    "Alpha2": "HN",
-    "Alpha3": "HND",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Hong Kong",
-    "Alpha2": "HK",
-    "Alpha3": "HKG",
-    "Region": "Asia",
-    "SubRegion": "Eastern Asia"
-  },
-  {
-    "Name": "Hungary",
-    "Alpha2": "HU",
-    "Alpha3": "HUN",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "Iceland",
-    "Alpha2": "IS",
-    "Alpha3": "ISL",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "India",
-    "Alpha2": "IN",
-    "Alpha3": "IND",
-    "Region": "Asia",
-    "SubRegion": "Southern Asia"
-  },
-  {
-    "Name": "Indonesia",
-    "Alpha2": "ID",
-    "Alpha3": "IDN",
-    "Region": "Asia",
-    "SubRegion": "South-eastern Asia"
-  },
-  {
-    "Name": "Iran",
-    "Alpha2": "IR",
-    "Alpha3": "IRN",
-    "Region": "Asia",
-    "SubRegion": "Southern Asia"
-  },
-  {
-    "Name": "Iraq",
-    "Alpha2": "IQ",
-    "Alpha3": "IRQ",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Ireland",
-    "Alpha2": "IE",
-    "Alpha3": "IRL",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Isle of Man",
-    "Alpha2": "IM",
-    "Alpha3": "IMN",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Israel",
-    "Alpha2": "IL",
-    "Alpha3": "ISR",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Italy",
-    "Alpha2": "IT",
-    "Alpha3": "ITA",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Jamaica",
-    "Alpha2": "JM",
-    "Alpha3": "JAM",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Japan",
-    "Alpha2": "JP",
-    "Alpha3": "JPN",
-    "Region": "Asia",
-    "SubRegion": "Eastern Asia"
-  },
-  {
-    "Name": "Jordan",
-    "Alpha2": "JO",
-    "Alpha3": "JOR",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Kazakhstan",
-    "Alpha2": "KZ",
-    "Alpha3": "KAZ",
-    "Region": "Asia",
-    "SubRegion": "Central Asia"
-  },
-  {
-    "Name": "Kenya",
-    "Alpha2": "KE",
-    "Alpha3": "KEN",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "South Korea",
-    "Alpha2": "KR",
-    "Alpha3": "KOR",
-    "Region": "Asia",
-    "SubRegion": "Eastern Asia"
-  },
-  {
-    "Name": "Kuwait",
-    "Alpha2": "KW",
-    "Alpha3": "KWT",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Kyrgyzstan",
-    "Alpha2": "KG",
-    "Alpha3": "KGZ",
-    "Region": "Asia",
-    "SubRegion": "Central Asia"
-  },
-  {
-    "Name": "Latvia",
-    "Alpha2": "LV",
-    "Alpha3": "LVA",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Lebanon",
-    "Alpha2": "LB",
-    "Alpha3": "LBN",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Liberia",
-    "Alpha2": "LR",
-    "Alpha3": "LBR",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Libya",
-    "Alpha2": "LY",
-    "Alpha3": "LBY",
-    "Region": "Africa",
-    "SubRegion": "Northern Africa"
-  },
-  {
-    "Name": "Liechtenstein",
-    "Alpha2": "LI",
-    "Alpha3": "LIE",
-    "Region": "Europe",
-    "SubRegion": "Western Europe"
-  },
-  {
-    "Name": "Lithuania",
-    "Alpha2": "LT",
-    "Alpha3": "LTU",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Luxembourg",
-    "Alpha2": "LU",
-    "Alpha3": "LUX",
-    "Region": "Europe",
-    "SubRegion": "Western Europe"
-  },
-  {
-    "Name": "Macao",
-    "Alpha2": "MO",
-    "Alpha3": "MAC",
-    "Region": "Asia",
-    "SubRegion": "Eastern Asia"
-  },
-  {
-    "Name": "Macedonia",
-    "Alpha2": "MK",
-    "Alpha3": "MKD",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Madagascar",
-    "Alpha2": "MG",
-    "Alpha3": "MDG",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Malaysia",
-    "Alpha2": "MY",
-    "Alpha3": "MYS",
-    "Region": "Asia",
-    "SubRegion": "South-eastern Asia"
-  },
-  {
-    "Name": "Maldives",
-    "Alpha2": "MV",
-    "Alpha3": "MDV",
-    "Region": "Asia",
-    "SubRegion": "Southern Asia"
-  },
-  {
-    "Name": "Mali",
-    "Alpha2": "ML",
-    "Alpha3": "MLI",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Malta",
-    "Alpha2": "MT",
-    "Alpha3": "MLT",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Mauritius",
-    "Alpha2": "MU",
-    "Alpha3": "MUS",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Mexico",
-    "Alpha2": "MX",
-    "Alpha3": "MEX",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Moldova",
-    "Alpha2": "MD",
-    "Alpha3": "MDA",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "Monaco",
-    "Alpha2": "MC",
-    "Alpha3": "MCO",
-    "Region": "Europe",
-    "SubRegion": "Western Europe"
-  },
-  {
-    "Name": "Mongolia",
-    "Alpha2": "MN",
-    "Alpha3": "MNG",
-    "Region": "Asia",
-    "SubRegion": "Eastern Asia"
-  },
-  {
-    "Name": "Montenegro",
-    "Alpha2": "ME",
-    "Alpha3": "MNE",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Montserrat",
-    "Alpha2": "MS",
-    "Alpha3": "MSR",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Morocco",
-    "Alpha2": "MA",
-    "Alpha3": "MAR",
-    "Region": "Africa",
-    "SubRegion": "Northern Africa"
-  },
-  {
-    "Name": "Mozambique",
-    "Alpha2": "MZ",
-    "Alpha3": "MOZ",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Myanmar",
-    "Alpha2": "MM",
-    "Alpha3": "MMR",
-    "Region": "Asia",
-    "SubRegion": "South-eastern Asia"
-  },
-  {
-    "Name": "Namibia",
-    "Alpha2": "NA",
-    "Alpha3": "NAM",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Nepal",
-    "Alpha2": "NP",
-    "Alpha3": "NPL",
-    "Region": "Asia",
-    "SubRegion": "Southern Asia"
-  },
-  {
-    "Name": "Netherlands",
-    "Alpha2": "NL",
-    "Alpha3": "NLD",
-    "Region": "Europe",
-    "SubRegion": "Western Europe"
-  },
-  {
-    "Name": "New Zealand",
-    "Alpha2": "NZ",
-    "Alpha3": "NZL",
-    "Region": "Oceania",
-    "SubRegion": "Australia and New Zealand"
-  },
-  {
-    "Name": "Nicaragua",
-    "Alpha2": "NI",
-    "Alpha3": "NIC",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Niger",
-    "Alpha2": "NE",
-    "Alpha3": "NER",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Nigeria",
-    "Alpha2": "NG",
-    "Alpha3": "NGA",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Norway",
-    "Alpha2": "NO",
-    "Alpha3": "NOR",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Oman",
-    "Alpha2": "OM",
-    "Alpha3": "OMN",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Pakistan",
-    "Alpha2": "PK",
-    "Alpha3": "PAK",
-    "Region": "Asia",
-    "SubRegion": "Southern Asia"
+    "SubRegion": "Micronesia",
+    "CurrencyCode": "USD"
   },
   {
     "Name": "Palau",
     "Alpha2": "PW",
     "Alpha3": "PLW",
     "Region": "Oceania",
-    "SubRegion": "Micronesia"
-  },
-  {
-    "Name": "Palestine",
-    "Alpha2": "PS",
-    "Alpha3": "PSE",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Panama",
-    "Alpha2": "PA",
-    "Alpha3": "PAN",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Papua New Guinea",
-    "Alpha2": "PG",
-    "Alpha3": "PNG",
-    "Region": "Oceania",
-    "SubRegion": "Melanesia"
-  },
-  {
-    "Name": "Paraguay",
-    "Alpha2": "PY",
-    "Alpha3": "PRY",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Peru",
-    "Alpha2": "PE",
-    "Alpha3": "PER",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Philippines",
-    "Alpha2": "PH",
-    "Alpha3": "PHL",
-    "Region": "Asia",
-    "SubRegion": "South-eastern Asia"
-  },
-  {
-    "Name": "Poland",
-    "Alpha2": "PL",
-    "Alpha3": "POL",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "Portugal",
-    "Alpha2": "PT",
-    "Alpha3": "PRT",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
+    "SubRegion": "Micronesia",
+    "CurrencyCode": "USD"
   },
   {
     "Name": "Puerto Rico",
     "Alpha2": "PR",
     "Alpha3": "PRI",
     "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Qatar",
-    "Alpha2": "QA",
-    "Alpha3": "QAT",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Romania",
-    "Alpha2": "RO",
-    "Alpha3": "ROU",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "Russia",
-    "Alpha2": "RU",
-    "Alpha3": "RUS",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "Rwanda",
-    "Alpha2": "RW",
-    "Alpha3": "RWA",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "San Marino",
-    "Alpha2": "SM",
-    "Alpha3": "SMR",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Saudi Arabia",
-    "Alpha2": "SA",
-    "Alpha3": "SAU",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Senegal",
-    "Alpha2": "SN",
-    "Alpha3": "SEN",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Serbia",
-    "Alpha2": "RS",
-    "Alpha3": "SRB",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Seychelles",
-    "Alpha2": "SC",
-    "Alpha3": "SYC",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Sierra Leone",
-    "Alpha2": "SL",
-    "Alpha3": "SLE",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Singapore",
-    "Alpha2": "SG",
-    "Alpha3": "SGP",
-    "Region": "Asia",
-    "SubRegion": "South-eastern Asia"
-  },
-  {
-    "Name": "Slovakia",
-    "Alpha2": "SK",
-    "Alpha3": "SVK",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "Slovenia",
-    "Alpha2": "SI",
-    "Alpha3": "SVN",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Somalia",
-    "Alpha2": "SO",
-    "Alpha3": "SOM",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "South Africa",
-    "Alpha2": "ZA",
-    "Alpha3": "ZAF",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "South Georgia",
-    "Alpha2": "GS",
-    "Alpha3": "SGS",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "South Sudan",
-    "Alpha2": "SS",
-    "Alpha3": "SSD",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Spain",
-    "Alpha2": "ES",
-    "Alpha3": "ESP",
-    "Region": "Europe",
-    "SubRegion": "Southern Europe"
-  },
-  {
-    "Name": "Sri Lanka",
-    "Alpha2": "LK",
-    "Alpha3": "LKA",
-    "Region": "Asia",
-    "SubRegion": "Southern Asia"
-  },
-  {
-    "Name": "Sudan",
-    "Alpha2": "SD",
-    "Alpha3": "SDN",
-    "Region": "Africa",
-    "SubRegion": "Northern Africa"
-  },
-  {
-    "Name": "Svalbard",
-    "Alpha2": "SJ",
-    "Alpha3": "SJM",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Sweden",
-    "Alpha2": "SE",
-    "Alpha3": "SWE",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
-  },
-  {
-    "Name": "Switzerland",
-    "Alpha2": "CH",
-    "Alpha3": "CHE",
-    "Region": "Europe",
-    "SubRegion": "Western Europe"
-  },
-  {
-    "Name": "Taiwan",
-    "Alpha2": "TW",
-    "Alpha3": "TWN",
-    "Region": "Asia",
-    "SubRegion": "Eastern Asia"
-  },
-  {
-    "Name": "Tajikistan",
-    "Alpha2": "TJ",
-    "Alpha3": "TJK",
-    "Region": "Asia",
-    "SubRegion": "Central Asia"
-  },
-  {
-    "Name": "Tanzania",
-    "Alpha2": "TZ",
-    "Alpha3": "TZA",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Thailand",
-    "Alpha2": "TH",
-    "Alpha3": "THA",
-    "Region": "Asia",
-    "SubRegion": "South-eastern Asia"
-  },
-  {
-    "Name": "Togo",
-    "Alpha2": "TG",
-    "Alpha3": "TGO",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Tonga",
-    "Alpha2": "TO",
-    "Alpha3": "TON",
-    "Region": "Oceania",
-    "SubRegion": "Polynesia"
-  },
-  {
-    "Name": "Trinidad and Tobago",
-    "Alpha2": "TT",
-    "Alpha3": "TTO",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Tunisia",
-    "Alpha2": "TN",
-    "Alpha3": "TUN",
-    "Region": "Africa",
-    "SubRegion": "Northern Africa"
-  },
-  {
-    "Name": "Turkey",
-    "Alpha2": "TR",
-    "Alpha3": "TUR",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "Turkmenistan",
-    "Alpha2": "TM",
-    "Alpha3": "TKM",
-    "Region": "Asia",
-    "SubRegion": "Central Asia"
-  },
-  {
-    "Name": "Uganda",
-    "Alpha2": "UG",
-    "Alpha3": "UGA",
-    "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
-  },
-  {
-    "Name": "Ukraine",
-    "Alpha2": "UA",
-    "Alpha3": "UKR",
-    "Region": "Europe",
-    "SubRegion": "Eastern Europe"
-  },
-  {
-    "Name": "United Arab Emirates",
-    "Alpha2": "AE",
-    "Alpha3": "ARE",
-    "Region": "Asia",
-    "SubRegion": "Western Asia"
-  },
-  {
-    "Name": "United Kingdom",
-    "Alpha2": "GB",
-    "Alpha3": "GBR",
-    "Region": "Europe",
-    "SubRegion": "Northern Europe"
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "USD"
   },
   {
     "Name": "United States",
     "Alpha2": "US",
     "Alpha3": "USA",
     "Region": "Americas",
-    "SubRegion": "Northern America"
-  },
-  {
-    "Name": "Uruguay",
-    "Alpha2": "UY",
-    "Alpha3": "URY",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Uzbekistan",
-    "Alpha2": "UZ",
-    "Alpha3": "UZB",
-    "Region": "Asia",
-    "SubRegion": "Central Asia"
-  },
-  {
-    "Name": "Venezuela",
-    "Alpha2": "VE",
-    "Alpha3": "VEN",
-    "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
-  },
-  {
-    "Name": "Vietnam",
-    "Alpha2": "VN",
-    "Alpha3": "VNM",
-    "Region": "Asia",
-    "SubRegion": "South-eastern Asia"
+    "SubRegion": "Northern America",
+    "CurrencyCode": "USD"
   },
   {
     "Name": "Virgin Islands (British)",
     "Alpha2": "VG",
     "Alpha3": "VGB",
     "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "USD"
   },
   {
     "Name": "Virgin Islands (U.S.)",
     "Alpha2": "VI",
     "Alpha3": "VIR",
     "Region": "Americas",
-    "SubRegion": "Latin America and the Caribbean"
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "USD"
+  },
+  {
+    "Name": "United Arab Emirates",
+    "Alpha2": "AE",
+    "Alpha3": "ARE",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "AED"
+  },
+  {
+    "Name": "Afghanistan",
+    "Alpha2": "AF",
+    "Alpha3": "AFG",
+    "Region": "Asia",
+    "SubRegion": "Southern Asia",
+    "CurrencyCode": "AFN"
+  },
+  {
+    "Name": "Albania",
+    "Alpha2": "AL",
+    "Alpha3": "ALB",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "ALL"
+  },
+  {
+    "Name": "Armenia",
+    "Alpha2": "AM",
+    "Alpha3": "ARM",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "AMD"
+  },
+  {
+    "Name": "Angola",
+    "Alpha2": "AO",
+    "Alpha3": "AGO",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "AOA"
+  },
+  {
+    "Name": "Argentina",
+    "Alpha2": "AR",
+    "Alpha3": "ARG",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "ARS"
+  },
+  {
+    "Name": "Australia",
+    "Alpha2": "AU",
+    "Alpha3": "AUS",
+    "Region": "Oceania",
+    "SubRegion": "Australia and New Zealand",
+    "CurrencyCode": "AUD"
+  },
+  {
+    "Name": "Azerbaijan",
+    "Alpha2": "AZ",
+    "Alpha3": "AZE",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "AZN"
+  },
+  {
+    "Name": "Bosnia and Herzegovina",
+    "Alpha2": "BA",
+    "Alpha3": "BIH",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "BAM"
+  },
+  {
+    "Name": "Barbados",
+    "Alpha2": "BB",
+    "Alpha3": "BRB",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "BBD"
+  },
+  {
+    "Name": "Bangladesh",
+    "Alpha2": "BD",
+    "Alpha3": "BGD",
+    "Region": "Asia",
+    "SubRegion": "Southern Asia",
+    "CurrencyCode": "BDT"
+  },
+  {
+    "Name": "Bulgaria",
+    "Alpha2": "BG",
+    "Alpha3": "BGR",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "BGN"
+  },
+  {
+    "Name": "Bahrain",
+    "Alpha2": "BH",
+    "Alpha3": "BHR",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "BHD"
+  },
+  {
+    "Name": "Burundi",
+    "Alpha2": "BI",
+    "Alpha3": "BDI",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "BIF"
+  },
+  {
+    "Name": "Bermuda",
+    "Alpha2": "BM",
+    "Alpha3": "BMU",
+    "Region": "Americas",
+    "SubRegion": "Northern America",
+    "CurrencyCode": "BMD"
+  },
+  {
+    "Name": "Brunei Darussalam",
+    "Alpha2": "BN",
+    "Alpha3": "BRN",
+    "Region": "Asia",
+    "SubRegion": "South-eastern Asia",
+    "CurrencyCode": "BND"
+  },
+  {
+    "Name": "Bolivia",
+    "Alpha2": "BO",
+    "Alpha3": "BOL",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "BOB"
+  },
+  {
+    "Name": "Brazil",
+    "Alpha2": "BR",
+    "Alpha3": "BRA",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "BRL"
+  },
+  {
+    "Name": "Bahamas",
+    "Alpha2": "BS",
+    "Alpha3": "BHS",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "BSD"
+  },
+  {
+    "Name": "Botswana",
+    "Alpha2": "BW",
+    "Alpha3": "BWA",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "BWP"
+  },
+  {
+    "Name": "Belarus",
+    "Alpha2": "BY",
+    "Alpha3": "BLR",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "BYR"
+  },
+  {
+    "Name": "Belize",
+    "Alpha2": "BZ",
+    "Alpha3": "BLZ",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "BZD"
+  },
+  {
+    "Name": "Canada",
+    "Alpha2": "CA",
+    "Alpha3": "CAN",
+    "Region": "Americas",
+    "SubRegion": "Northern America",
+    "CurrencyCode": "CAD"
+  },
+  {
+    "Name": "Congo",
+    "Alpha2": "CG",
+    "Alpha3": "COG",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "CDF"
+  },
+  {
+    "Name": "Liechtenstein",
+    "Alpha2": "LI",
+    "Alpha3": "LIE",
+    "Region": "Europe",
+    "SubRegion": "Western Europe",
+    "CurrencyCode": "CHF"
+  },
+  {
+    "Name": "Switzerland",
+    "Alpha2": "CH",
+    "Alpha3": "CHE",
+    "Region": "Europe",
+    "SubRegion": "Western Europe",
+    "CurrencyCode": "CHF"
+  },
+  {
+    "Name": "Chile",
+    "Alpha2": "CL",
+    "Alpha3": "CHL",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "CLP"
+  },
+  {
+    "Name": "China",
+    "Alpha2": "CN",
+    "Alpha3": "CHN",
+    "Region": "Asia",
+    "SubRegion": "Eastern Asia",
+    "CurrencyCode": "CNY"
+  },
+  {
+    "Name": "Colombia",
+    "Alpha2": "CO",
+    "Alpha3": "COL",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "COP"
+  },
+  {
+    "Name": "Costa Rica",
+    "Alpha2": "CR",
+    "Alpha3": "CRI",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "CRC"
+  },
+  {
+    "Name": "Cuba",
+    "Alpha2": "CU",
+    "Alpha3": "CUB",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "CUP"
+  },
+  {
+    "Name": "Czechia",
+    "Alpha2": "CZ",
+    "Alpha3": "CZE",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "CZK"
+  },
+  {
+    "Name": "Djibouti",
+    "Alpha2": "DJ",
+    "Alpha3": "DJI",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "DJF"
+  },
+  {
+    "Name": "Denmark",
+    "Alpha2": "DK",
+    "Alpha3": "DNK",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "DKK"
+  },
+  {
+    "Name": "Faroe Islands",
+    "Alpha2": "FO",
+    "Alpha3": "FRO",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "DKK"
+  },
+  {
+    "Name": "Greenland",
+    "Alpha2": "GL",
+    "Alpha3": "GRL",
+    "Region": "Americas",
+    "SubRegion": "Northern America",
+    "CurrencyCode": "DKK"
+  },
+  {
+    "Name": "Dominican Republic",
+    "Alpha2": "DO",
+    "Alpha3": "DOM",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "DOP"
+  },
+  {
+    "Name": "Algeria",
+    "Alpha2": "DZ",
+    "Alpha3": "DZA",
+    "Region": "Africa",
+    "SubRegion": "Northern Africa",
+    "CurrencyCode": "DZD"
+  },
+  {
+    "Name": "Egypt",
+    "Alpha2": "EG",
+    "Alpha3": "EGY",
+    "Region": "Africa",
+    "SubRegion": "Northern Africa",
+    "CurrencyCode": "EGP"
+  },
+  {
+    "Name": "Eritrea",
+    "Alpha2": "ER",
+    "Alpha3": "ERI",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "ERN"
+  },
+  {
+    "Name": "Ethiopia",
+    "Alpha2": "ET",
+    "Alpha3": "ETH",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "ETB"
+  },
+  {
+    "Name": "Finland",
+    "Alpha2": "FI",
+    "Alpha3": "FIN",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "France",
+    "Alpha2": "FR",
+    "Alpha3": "FRA",
+    "Region": "Europe",
+    "SubRegion": "Western Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "French Guiana",
+    "Alpha2": "GF",
+    "Alpha3": "GUF",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Greece",
+    "Alpha2": "GR",
+    "Alpha3": "GRC",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Germany",
+    "Alpha2": "DE",
+    "Alpha3": "DEU",
+    "Region": "Europe",
+    "SubRegion": "Western Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Estonia",
+    "Alpha2": "EE",
+    "Alpha3": "EST",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Cyprus",
+    "Alpha2": "CY",
+    "Alpha3": "CYP",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Andorra",
+    "Alpha2": "AD",
+    "Alpha3": "AND",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Belgium",
+    "Alpha2": "BE",
+    "Alpha3": "BEL",
+    "Region": "Europe",
+    "SubRegion": "Western Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Austria",
+    "Alpha2": "AT",
+    "Alpha3": "AUT",
+    "Region": "Europe",
+    "SubRegion": "Western Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Luxembourg",
+    "Alpha2": "LU",
+    "Alpha3": "LUX",
+    "Region": "Europe",
+    "SubRegion": "Western Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Latvia",
+    "Alpha2": "LV",
+    "Alpha3": "LVA",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Ireland",
+    "Alpha2": "IE",
+    "Alpha3": "IRL",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Italy",
+    "Alpha2": "IT",
+    "Alpha3": "ITA",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Malta",
+    "Alpha2": "MT",
+    "Alpha3": "MLT",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Monaco",
+    "Alpha2": "MC",
+    "Alpha3": "MCO",
+    "Region": "Europe",
+    "SubRegion": "Western Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Montenegro",
+    "Alpha2": "ME",
+    "Alpha3": "MNE",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Netherlands",
+    "Alpha2": "NL",
+    "Alpha3": "NLD",
+    "Region": "Europe",
+    "SubRegion": "Western Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Portugal",
+    "Alpha2": "PT",
+    "Alpha3": "PRT",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "San Marino",
+    "Alpha2": "SM",
+    "Alpha3": "SMR",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Slovakia",
+    "Alpha2": "SK",
+    "Alpha3": "SVK",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Slovenia",
+    "Alpha2": "SI",
+    "Alpha3": "SVN",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Spain",
+    "Alpha2": "ES",
+    "Alpha3": "ESP",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "EUR"
+  },
+  {
+    "Name": "Fiji",
+    "Alpha2": "FJ",
+    "Alpha3": "FJI",
+    "Region": "Oceania",
+    "SubRegion": "Melanesia",
+    "CurrencyCode": "FJD"
+  },
+  {
+    "Name": "Isle of Man",
+    "Alpha2": "IM",
+    "Alpha3": "IMN",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "GBP"
+  },
+  {
+    "Name": "United Kingdom",
+    "Alpha2": "GB",
+    "Alpha3": "GBR",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "GBP"
+  },
+  {
+    "Name": "South Georgia",
+    "Alpha2": "GS",
+    "Alpha3": "SGS",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "GEL"
+  },
+  {
+    "Name": "Georgia",
+    "Alpha2": "GE",
+    "Alpha3": "GEO",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "GEL"
+  },
+  {
+    "Name": "Ghana",
+    "Alpha2": "GH",
+    "Alpha3": "GHA",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "GHS"
+  },
+  {
+    "Name": "Gibraltar",
+    "Alpha2": "GI",
+    "Alpha3": "GIB",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "GIP"
+  },
+  {
+    "Name": "Gambia",
+    "Alpha2": "GM",
+    "Alpha3": "GMB",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "GMD"
+  },
+  {
+    "Name": "Guinea",
+    "Alpha2": "GN",
+    "Alpha3": "GIN",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "GNF"
+  },
+  {
+    "Name": "Guatemala",
+    "Alpha2": "GT",
+    "Alpha3": "GTM",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "GTQ"
+  },
+  {
+    "Name": "Guyana",
+    "Alpha2": "GY",
+    "Alpha3": "GUY",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "GYD"
+  },
+  {
+    "Name": "Hong Kong",
+    "Alpha2": "HK",
+    "Alpha3": "HKG",
+    "Region": "Asia",
+    "SubRegion": "Eastern Asia",
+    "CurrencyCode": "HKD"
+  },
+  {
+    "Name": "Honduras",
+    "Alpha2": "HN",
+    "Alpha3": "HND",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "HNL"
+  },
+  {
+    "Name": "Croatia",
+    "Alpha2": "HR",
+    "Alpha3": "HRV",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "HRK"
+  },
+  {
+    "Name": "Haiti",
+    "Alpha2": "HT",
+    "Alpha3": "HTI",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "HTG"
+  },
+  {
+    "Name": "Hungary",
+    "Alpha2": "HU",
+    "Alpha3": "HUN",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "HUF"
+  },
+  {
+    "Name": "Indonesia",
+    "Alpha2": "ID",
+    "Alpha3": "IDN",
+    "Region": "Asia",
+    "SubRegion": "South-eastern Asia",
+    "CurrencyCode": "IDR"
+  },
+  {
+    "Name": "Israel",
+    "Alpha2": "IL",
+    "Alpha3": "ISR",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "ILS"
+  },
+  {
+    "Name": "Palestine",
+    "Alpha2": "PS",
+    "Alpha3": "PSE",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "ILS"
+  },
+  {
+    "Name": "India",
+    "Alpha2": "IN",
+    "Alpha3": "IND",
+    "Region": "Asia",
+    "SubRegion": "Southern Asia",
+    "CurrencyCode": "INR"
+  },
+  {
+    "Name": "Bhutan",
+    "Alpha2": "BT",
+    "Alpha3": "BTN",
+    "Region": "Asia",
+    "SubRegion": "Southern Asia",
+    "CurrencyCode": "INR"
+  },
+  {
+    "Name": "Iraq",
+    "Alpha2": "IQ",
+    "Alpha3": "IRQ",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "IQD"
+  },
+  {
+    "Name": "Iran",
+    "Alpha2": "IR",
+    "Alpha3": "IRN",
+    "Region": "Asia",
+    "SubRegion": "Southern Asia",
+    "CurrencyCode": "IRR"
+  },
+  {
+    "Name": "Iceland",
+    "Alpha2": "IS",
+    "Alpha3": "ISL",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "ISK"
+  },
+  {
+    "Name": "Jamaica",
+    "Alpha2": "JM",
+    "Alpha3": "JAM",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "JMD"
+  },
+  {
+    "Name": "Jordan",
+    "Alpha2": "JO",
+    "Alpha3": "JOR",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "JOD"
+  },
+  {
+    "Name": "Japan",
+    "Alpha2": "JP",
+    "Alpha3": "JPN",
+    "Region": "Asia",
+    "SubRegion": "Eastern Asia",
+    "CurrencyCode": "JPY"
+  },
+  {
+    "Name": "Kenya",
+    "Alpha2": "KE",
+    "Alpha3": "KEN",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "KES"
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "Alpha2": "KG",
+    "Alpha3": "KGZ",
+    "Region": "Asia",
+    "SubRegion": "Central Asia",
+    "CurrencyCode": "KGS"
+  },
+  {
+    "Name": "Cambodia",
+    "Alpha2": "KH",
+    "Alpha3": "KHM",
+    "Region": "Asia",
+    "SubRegion": "South-eastern Asia",
+    "CurrencyCode": "KHR"
+  },
+  {
+    "Name": "South Korea",
+    "Alpha2": "KR",
+    "Alpha3": "KOR",
+    "Region": "Asia",
+    "SubRegion": "Eastern Asia",
+    "CurrencyCode": "KRW"
+  },
+  {
+    "Name": "Kuwait",
+    "Alpha2": "KW",
+    "Alpha3": "KWT",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "KWD"
+  },
+  {
+    "Name": "Kazakhstan",
+    "Alpha2": "KZ",
+    "Alpha3": "KAZ",
+    "Region": "Asia",
+    "SubRegion": "Central Asia",
+    "CurrencyCode": "KZT"
+  },
+  {
+    "Name": "Lebanon",
+    "Alpha2": "LB",
+    "Alpha3": "LBN",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "LBP"
+  },
+  {
+    "Name": "Sri Lanka",
+    "Alpha2": "LK",
+    "Alpha3": "LKA",
+    "Region": "Asia",
+    "SubRegion": "Southern Asia",
+    "CurrencyCode": "LKR"
+  },
+  {
+    "Name": "Liberia",
+    "Alpha2": "LR",
+    "Alpha3": "LBR",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "LRD"
+  },
+  {
+    "Name": "Lithuania",
+    "Alpha2": "LT",
+    "Alpha3": "LTU",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "LTL"
+  },
+  {
+    "Name": "Libya",
+    "Alpha2": "LY",
+    "Alpha3": "LBY",
+    "Region": "Africa",
+    "SubRegion": "Northern Africa",
+    "CurrencyCode": "LYD"
+  },
+  {
+    "Name": "Morocco",
+    "Alpha2": "MA",
+    "Alpha3": "MAR",
+    "Region": "Africa",
+    "SubRegion": "Northern Africa",
+    "CurrencyCode": "MAD"
+  },
+  {
+    "Name": "Moldova",
+    "Alpha2": "MD",
+    "Alpha3": "MDA",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "MDL"
+  },
+  {
+    "Name": "Madagascar",
+    "Alpha2": "MG",
+    "Alpha3": "MDG",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "MGA"
+  },
+  {
+    "Name": "Macedonia",
+    "Alpha2": "MK",
+    "Alpha3": "MKD",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "MKD"
+  },
+  {
+    "Name": "Myanmar",
+    "Alpha2": "MM",
+    "Alpha3": "MMR",
+    "Region": "Asia",
+    "SubRegion": "South-eastern Asia",
+    "CurrencyCode": "MMK"
+  },
+  {
+    "Name": "Mongolia",
+    "Alpha2": "MN",
+    "Alpha3": "MNG",
+    "Region": "Asia",
+    "SubRegion": "Eastern Asia",
+    "CurrencyCode": "MNT"
+  },
+  {
+    "Name": "Macao",
+    "Alpha2": "MO",
+    "Alpha3": "MAC",
+    "Region": "Asia",
+    "SubRegion": "Eastern Asia",
+    "CurrencyCode": "MOP"
+  },
+  {
+    "Name": "Mauritius",
+    "Alpha2": "MU",
+    "Alpha3": "MUS",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "MUR"
+  },
+  {
+    "Name": "Maldives",
+    "Alpha2": "MV",
+    "Alpha3": "MDV",
+    "Region": "Asia",
+    "SubRegion": "Southern Asia",
+    "CurrencyCode": "MVR"
+  },
+  {
+    "Name": "Mexico",
+    "Alpha2": "MX",
+    "Alpha3": "MEX",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "MXN"
+  },
+  {
+    "Name": "Malaysia",
+    "Alpha2": "MY",
+    "Alpha3": "MYS",
+    "Region": "Asia",
+    "SubRegion": "South-eastern Asia",
+    "CurrencyCode": "MYR"
+  },
+  {
+    "Name": "Mozambique",
+    "Alpha2": "MZ",
+    "Alpha3": "MOZ",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "MZN"
+  },
+  {
+    "Name": "Nigeria",
+    "Alpha2": "NG",
+    "Alpha3": "NGA",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "NGN"
+  },
+  {
+    "Name": "Nicaragua",
+    "Alpha2": "NI",
+    "Alpha3": "NIC",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "NIO"
+  },
+  {
+    "Name": "Norway",
+    "Alpha2": "NO",
+    "Alpha3": "NOR",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "NOK"
+  },
+  {
+    "Name": "Svalbard",
+    "Alpha2": "SJ",
+    "Alpha3": "SJM",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "NOK"
+  },
+  {
+    "Name": "Nepal",
+    "Alpha2": "NP",
+    "Alpha3": "NPL",
+    "Region": "Asia",
+    "SubRegion": "Southern Asia",
+    "CurrencyCode": "NPR"
+  },
+  {
+    "Name": "New Zealand",
+    "Alpha2": "NZ",
+    "Alpha3": "NZL",
+    "Region": "Oceania",
+    "SubRegion": "Australia and New Zealand",
+    "CurrencyCode": "NZD"
+  },
+  {
+    "Name": "Oman",
+    "Alpha2": "OM",
+    "Alpha3": "OMN",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "OMR"
+  },
+  {
+    "Name": "Panama",
+    "Alpha2": "PA",
+    "Alpha3": "PAN",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "PAB"
+  },
+  {
+    "Name": "Peru",
+    "Alpha2": "PE",
+    "Alpha3": "PER",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "PEN"
+  },
+  {
+    "Name": "Papua New Guinea",
+    "Alpha2": "PG",
+    "Alpha3": "PNG",
+    "Region": "Oceania",
+    "SubRegion": "Melanesia",
+    "CurrencyCode": "PGK"
+  },
+  {
+    "Name": "Philippines",
+    "Alpha2": "PH",
+    "Alpha3": "PHL",
+    "Region": "Asia",
+    "SubRegion": "South-eastern Asia",
+    "CurrencyCode": "PHP"
+  },
+  {
+    "Name": "Pakistan",
+    "Alpha2": "PK",
+    "Alpha3": "PAK",
+    "Region": "Asia",
+    "SubRegion": "Southern Asia",
+    "CurrencyCode": "PKR"
+  },
+  {
+    "Name": "Poland",
+    "Alpha2": "PL",
+    "Alpha3": "POL",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "PLN"
+  },
+  {
+    "Name": "Paraguay",
+    "Alpha2": "PY",
+    "Alpha3": "PRY",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "PYG"
+  },
+  {
+    "Name": "Qatar",
+    "Alpha2": "QA",
+    "Alpha3": "QAT",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "QAR"
+  },
+  {
+    "Name": "Romania",
+    "Alpha2": "RO",
+    "Alpha3": "ROU",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "RON"
+  },
+  {
+    "Name": "Serbia",
+    "Alpha2": "RS",
+    "Alpha3": "SRB",
+    "Region": "Europe",
+    "SubRegion": "Southern Europe",
+    "CurrencyCode": "RSD"
+  },
+  {
+    "Name": "Russia",
+    "Alpha2": "RU",
+    "Alpha3": "RUS",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "RUB"
+  },
+  {
+    "Name": "Rwanda",
+    "Alpha2": "RW",
+    "Alpha3": "RWA",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "RWF"
+  },
+  {
+    "Name": "Saudi Arabia",
+    "Alpha2": "SA",
+    "Alpha3": "SAU",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "SAR"
+  },
+  {
+    "Name": "Seychelles",
+    "Alpha2": "SC",
+    "Alpha3": "SYC",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "SCR"
+  },
+  {
+    "Name": "South Sudan",
+    "Alpha2": "SS",
+    "Alpha3": "SSD",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "SDG"
+  },
+  {
+    "Name": "Sudan",
+    "Alpha2": "SD",
+    "Alpha3": "SDN",
+    "Region": "Africa",
+    "SubRegion": "Northern Africa",
+    "CurrencyCode": "SDG"
+  },
+  {
+    "Name": "Sweden",
+    "Alpha2": "SE",
+    "Alpha3": "SWE",
+    "Region": "Europe",
+    "SubRegion": "Northern Europe",
+    "CurrencyCode": "SEK"
+  },
+  {
+    "Name": "Singapore",
+    "Alpha2": "SG",
+    "Alpha3": "SGP",
+    "Region": "Asia",
+    "SubRegion": "South-eastern Asia",
+    "CurrencyCode": "SGD"
+  },
+  {
+    "Name": "Sierra Leone",
+    "Alpha2": "SL",
+    "Alpha3": "SLE",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "SLL"
+  },
+  {
+    "Name": "Somalia",
+    "Alpha2": "SO",
+    "Alpha3": "SOM",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "SOS"
+  },
+  {
+    "Name": "Thailand",
+    "Alpha2": "TH",
+    "Alpha3": "THA",
+    "Region": "Asia",
+    "SubRegion": "South-eastern Asia",
+    "CurrencyCode": "THB"
+  },
+  {
+    "Name": "Tajikistan",
+    "Alpha2": "TJ",
+    "Alpha3": "TJK",
+    "Region": "Asia",
+    "SubRegion": "Central Asia",
+    "CurrencyCode": "TJS"
+  },
+  {
+    "Name": "Turkmenistan",
+    "Alpha2": "TM",
+    "Alpha3": "TKM",
+    "Region": "Asia",
+    "SubRegion": "Central Asia",
+    "CurrencyCode": "TMT"
+  },
+  {
+    "Name": "Tunisia",
+    "Alpha2": "TN",
+    "Alpha3": "TUN",
+    "Region": "Africa",
+    "SubRegion": "Northern Africa",
+    "CurrencyCode": "TND"
+  },
+  {
+    "Name": "Tonga",
+    "Alpha2": "TO",
+    "Alpha3": "TON",
+    "Region": "Oceania",
+    "SubRegion": "Polynesia",
+    "CurrencyCode": "TOP"
+  },
+  {
+    "Name": "Turkey",
+    "Alpha2": "TR",
+    "Alpha3": "TUR",
+    "Region": "Asia",
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "TRY"
+  },
+  {
+    "Name": "Trinidad and Tobago",
+    "Alpha2": "TT",
+    "Alpha3": "TTO",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "TTD"
+  },
+  {
+    "Name": "Taiwan",
+    "Alpha2": "TW",
+    "Alpha3": "TWN",
+    "Region": "Asia",
+    "SubRegion": "Eastern Asia",
+    "CurrencyCode": "TWD"
+  },
+  {
+    "Name": "Tanzania",
+    "Alpha2": "TZ",
+    "Alpha3": "TZA",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "TZS"
+  },
+  {
+    "Name": "Ukraine",
+    "Alpha2": "UA",
+    "Alpha3": "UKR",
+    "Region": "Europe",
+    "SubRegion": "Eastern Europe",
+    "CurrencyCode": "UAH"
+  },
+  {
+    "Name": "Uganda",
+    "Alpha2": "UG",
+    "Alpha3": "UGA",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "UGX"
+  },
+  {
+    "Name": "Uruguay",
+    "Alpha2": "UY",
+    "Alpha3": "URY",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "UYU"
+  },
+  {
+    "Name": "Uzbekistan",
+    "Alpha2": "UZ",
+    "Alpha3": "UZB",
+    "Region": "Asia",
+    "SubRegion": "Central Asia",
+    "CurrencyCode": "UZS"
+  },
+  {
+    "Name": "Venezuela",
+    "Alpha2": "VE",
+    "Alpha3": "VEN",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "VEF"
+  },
+  {
+    "Name": "Vietnam",
+    "Alpha2": "VN",
+    "Alpha3": "VNM",
+    "Region": "Asia",
+    "SubRegion": "South-eastern Asia",
+    "CurrencyCode": "VND"
+  },
+  {
+    "Name": "Cameroon",
+    "Alpha2": "CM",
+    "Alpha3": "CMR",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XAF"
+  },
+  {
+    "Name": "Central African Republic",
+    "Alpha2": "CF",
+    "Alpha3": "CAF",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XAF"
+  },
+  {
+    "Name": "Chad",
+    "Alpha2": "TD",
+    "Alpha3": "TCD",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XAF"
+  },
+  {
+    "Name": "Equatorial Guinea",
+    "Alpha2": "GQ",
+    "Alpha3": "GNQ",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XAF"
+  },
+  {
+    "Name": "Gabon",
+    "Alpha2": "GA",
+    "Alpha3": "GAB",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XAF"
+  },
+  {
+    "Name": "Grenada",
+    "Alpha2": "GD",
+    "Alpha3": "GRD",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "XCD"
+  },
+  {
+    "Name": "Dominica",
+    "Alpha2": "DM",
+    "Alpha3": "DMA",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "XCD"
+  },
+  {
+    "Name": "Anguilla",
+    "Alpha2": "AI",
+    "Alpha3": "AIA",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "XCD"
+  },
+  {
+    "Name": "Montserrat",
+    "Alpha2": "MS",
+    "Alpha3": "MSR",
+    "Region": "Americas",
+    "SubRegion": "Latin America and the Caribbean",
+    "CurrencyCode": "XCD"
+  },
+  {
+    "Name": "Mali",
+    "Alpha2": "ML",
+    "Alpha3": "MLI",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XOF"
+  },
+  {
+    "Name": "Niger",
+    "Alpha2": "NE",
+    "Alpha3": "NER",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XOF"
+  },
+  {
+    "Name": "Guinea-Bissau",
+    "Alpha2": "GW",
+    "Alpha3": "GNB",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XOF"
+  },
+  {
+    "Name": "Burkina Faso",
+    "Alpha2": "BF",
+    "Alpha3": "BFA",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XOF"
+  },
+  {
+    "Name": "Benin",
+    "Alpha2": "BJ",
+    "Alpha3": "BEN",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XOF"
+  },
+  {
+    "Name": "Côte dIvoire",
+    "Alpha2": "CI",
+    "Alpha3": "CIV",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XOF"
+  },
+  {
+    "Name": "Togo",
+    "Alpha2": "TG",
+    "Alpha3": "TGO",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XOF"
+  },
+  {
+    "Name": "Senegal",
+    "Alpha2": "SN",
+    "Alpha3": "SEN",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "XOF"
+  },
+  {
+    "Name": "French Polynesia",
+    "Alpha2": "PF",
+    "Alpha3": "PYF",
+    "Region": "Oceania",
+    "SubRegion": "Polynesia",
+    "CurrencyCode": "XPF"
   },
   {
     "Name": "Yemen",
     "Alpha2": "YE",
     "Alpha3": "YEM",
     "Region": "Asia",
-    "SubRegion": "Western Asia"
+    "SubRegion": "Western Asia",
+    "CurrencyCode": "YER"
+  },
+  {
+    "Name": "South Africa",
+    "Alpha2": "ZA",
+    "Alpha3": "ZAF",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "ZAR"
+  },
+  {
+    "Name": "Namibia",
+    "Alpha2": "NA",
+    "Alpha3": "NAM",
+    "Region": "Africa",
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "NAD"
   },
   {
     "Name": "Zambia",
     "Alpha2": "ZM",
     "Alpha3": "ZMB",
     "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "ZMK"
   },
   {
     "Name": "Zimbabwe",
     "Alpha2": "ZW",
     "Alpha3": "ZWE",
     "Region": "Africa",
-    "SubRegion": "Sub-Saharan Africa"
+    "SubRegion": "Sub-Saharan Africa",
+    "CurrencyCode": "ZWL"
   }
 ]
