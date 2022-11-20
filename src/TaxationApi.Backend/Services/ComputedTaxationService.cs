@@ -66,13 +66,20 @@ namespace TaxationApi.Backend.Services
                 {
                     taxationToAdd.WealthTaxation = wealthTax;
                 }
-                
+
 
                 var corporateTax = taxation.GetCorporateTax(request, rate.UsdExchangeRate);
                 if (corporateTax != null)
                 {
                     taxationToAdd.CorporateTaxation = corporateTax;
                 }
+
+                var capitalGainsTax = taxation.GetCapitalGainsTax(request, rate.UsdExchangeRate);
+                if (capitalGainsTax != null)
+                {
+                    taxationToAdd.CapitalGainsTaxation = capitalGainsTax;
+                }
+
 
 
                 computedTaxations.Add(taxationToAdd);
