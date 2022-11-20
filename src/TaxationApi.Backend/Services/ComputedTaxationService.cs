@@ -46,21 +46,36 @@ namespace TaxationApi.Backend.Services
                 {
                     continue;
                 }
+
+                ComputedTaxation taxationToAdd = new ComputedTaxation()
+                {
+                    Alpha2 = taxation.Alpha2,
+                    Alpha3 = taxation.Alpha3,
+                    Name = taxation.Name
+                };
                 
                 var incomeTaxation = taxation.GetIncomeTax(request, rate.UsdExchangeRate);
-                
                 if (incomeTaxation != null)
                 {
-                    var compuated = new ComputedTaxation()
-                    {
-                        IncomeTaxation = incomeTaxation,
-                        Alpha2 = taxation.Alpha2,
-                        Alpha3 = taxation.Alpha3,
-                        Name = taxation.Name
-                    };
-                    computedTaxations.Add(compuated);
+                    taxationToAdd.IncomeTaxation = incomeTaxation;
                 }
-               
+
+
+                var wealthTax = taxation.GetWealthTax(request, rate.UsdExchangeRate);
+                if (wealthTax != null)
+                {
+                    taxationToAdd.WealthTaxation = wealthTax;
+                }
+                
+
+                var corporateTax = taxation.GetCorporateTax(request, rate.UsdExchangeRate);
+                if (corporateTax != null)
+                {
+                    taxationToAdd.CorporateTaxation = corporateTax;
+                }
+
+
+                computedTaxations.Add(taxationToAdd);
             }
 
             return computedTaxations;

@@ -13,8 +13,13 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
         public string Alpha3 { get; set; }
         public bool IsAllDataAvailable { get; set; }
 
-    
-        public ComputedIncomeTaxation IncomeTaxation { get; set; }
+
+        public ComputedIncomeTaxation? IncomeTaxation { get; set; }
+        public ComputedIncomeTaxation? WealthTaxation { get; set; }
+        public ComputedIncomeTaxation? CorporateTaxation { get; set; }
+        public ComputedIncomeTaxation? CapitalGainsTaxation { get; set; }
+
+
 
         public decimal MonthlyNetIncome
         {
@@ -28,7 +33,26 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
         {
             get
             {
-                return IncomeTaxation.MonthlyTax;
+                decimal monthTax = 0.0m;
+
+                if (IncomeTaxation != null)
+                {
+                    monthTax += IncomeTaxation.MonthlyTax;
+                }
+                if (WealthTaxation != null)
+                {
+                    monthTax += WealthTaxation.MonthlyTax;
+                }
+                if (CorporateTaxation != null)
+                {
+                    monthTax += CorporateTaxation.MonthlyTax;
+                }
+                if (CapitalGainsTaxation != null)
+                {
+                    monthTax += CapitalGainsTaxation.MonthlyTax;
+                }
+                
+                return monthTax;
             }
         }
 
@@ -36,7 +60,27 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
         {
             get
             {
-                return IncomeTaxation.MonthlyGrossIncome;
+                decimal monthGross = 0.0m;
+
+                if (IncomeTaxation != null)
+                {
+                    monthGross += IncomeTaxation.MonthlyGrossIncome;
+                }
+                if (WealthTaxation != null)
+                {
+                    monthGross += WealthTaxation.MonthlyGrossIncome;
+                }
+                if (CorporateTaxation != null)
+                {
+                    monthGross += CorporateTaxation.MonthlyGrossIncome;
+                }
+                if (CapitalGainsTaxation != null)
+                {
+                    monthGross += CapitalGainsTaxation.MonthlyGrossIncome;
+                }
+
+
+                return monthGross;
 
             }
         }
