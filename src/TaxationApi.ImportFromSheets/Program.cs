@@ -291,7 +291,7 @@ foreach (var file in files)
                     decimal amount = -1;
                     decimal.TryParse(record.Lumpsump_amount.ToString(), out amount);
 
-                    if (amount > -1)
+                    if (amount > 0)
                     {
                         country.LumpsumpTax = new TaxationOverViewEntityLumpSumpViewModel()
                         {

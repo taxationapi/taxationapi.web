@@ -23,7 +23,7 @@
     <None Update="InputFiles\Taxation - Corporate tax.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="InputFiles\Taxation - Income tax %283%29.csv">
+    <None Update="InputFiles\Taxation - Income tax.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="InputFiles\Taxation - Lumpsump tax.csv">
