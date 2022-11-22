@@ -1,14 +1,14 @@
 # Welcome to TaxationAPI.com :)
 
-Taxation API is an open-source project, where we will collect available tax-rates from different countries. This will be exposed in an API everyone can use.
-
-Right now (Nov 12, 2022) this has JUST been started. As all hobby projetcts, use with caution as it's not even ready. Collecting data as we speak.
+Taxation API is an open-source project, where we will collect available tax-rates from different countries. This will be exposed
 
 # Using the data
 
-STATUS: Do NOT use yet.
+You can read more about the API here:
+https://taxationapi.com/
 
-This will be launched at TaxationAPI.com, and the API will be under /api, so the Swagger will be available at TaxationAPI.com/api.
+You can see the Swagger documentation here:
+https://api.taxationapi.com/
 
 Down the line, I will require registering a user with an email to get an API key. However, will not launch with this, so it's super important that you set the user agent in your API call to something like:
 
