@@ -12,6 +12,7 @@ namespace TaxationApi.Backend.Model.Taxations
         LookupInDepth,
         VerifiedByLocal,
         VerifiedByLawyer,
-        Problematic
+        Problematic,
+        Guess
     }
 }
