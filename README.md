@@ -1,4 +1,6 @@
-# Welcome to TaxationAPI.com :)
+# Welcome to our global Taxation API
+
+You can see more at: https://TaxationAPI.com :)
 
 Taxation API is an open-source project, where we will collect available tax-rates from different countries. This will be exposed
 
