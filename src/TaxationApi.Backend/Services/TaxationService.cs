@@ -17,6 +17,7 @@ namespace TaxationApi.Backend.Services
         private List<TaxationData> _data;
         private ICountryCurrencyService _countryCurrencyService;
         private ICountryService _countryService;
+      
 
         public TaxationService(ICountryCurrencyService countryCurrencyService,
             ICountryService countryService)
@@ -105,8 +106,8 @@ namespace TaxationApi.Backend.Services
         }
         private void FixCurrencies(List<TaxationData> taxationDatas)
         {
-            var countries = _countryCurrencyService.GetAllCountries();
-            foreach(var country in taxationDatas)
+            var countries = Database.LoadCountryData();
+            foreach (var country in taxationDatas)
             {
                 string currency = string.Empty;
                 var currency1 = countries.FirstOrDefault(c => c.Alpha3 == country.Alpha3);
@@ -133,6 +134,14 @@ namespace TaxationApi.Backend.Services
                         bracket.Currency = currency;
                     }
                 }
+                if (country.CorporateTax != null)
+                {
+                    foreach (var bracket in country.CorporateTax.Brackets)
+                    {
+                        bracket.Currency = currency;
+                    }
+                }
+
             }
         }
     }
