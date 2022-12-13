@@ -21,15 +21,15 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
 
 
 
-        public decimal MonthlyNetIncome
+        public decimal MonthlyNetIncomeExcludingWealth
         {
             get
             {
-                return MonthlyGrossIncome - MonthlyTax;
+                return MonthlyGrossIncomeExcludingWealth - MonthlyTaxExcludingWealth;
             }
         }
 
-        public decimal MonthlyTax
+        public decimal MonthlyTaxExcludingWealth
         {
             get
             {
@@ -38,10 +38,6 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
                 if (IncomeTaxation != null)
                 {
                     monthTax += IncomeTaxation.MonthlyTax;
-                }
-                if (WealthTaxation != null)
-                {
-                    monthTax += WealthTaxation.MonthlyTax;
                 }
                 if (CorporateTaxation != null)
                 {
@@ -56,7 +52,33 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
             }
         }
 
-        public decimal MonthlyGrossIncome
+        private decimal TotalNetworth
+        {
+            get
+            {
+                if (WealthTaxation != null)
+                {
+                    return WealthTaxation.MonthlyGrossIncome * 12;
+                }
+
+                return 0.0m;
+            }
+        }
+
+        private decimal TotalNetworthTax
+        {
+            get
+            {
+                if (WealthTaxation != null)
+                {
+                    return WealthTaxation.MonthlyTax * 12;
+                }
+
+                return 0.0m;
+            }
+        }
+
+        public decimal MonthlyGrossIncomeExcludingWealth
         {
             get
             {
@@ -65,10 +87,6 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
                 if (IncomeTaxation != null)
                 {
                     monthGross += IncomeTaxation.MonthlyGrossIncome;
-                }
-                if (WealthTaxation != null)
-                {
-                    monthGross += WealthTaxation.MonthlyGrossIncome;
                 }
                 if (CorporateTaxation != null)
                 {
@@ -85,40 +103,63 @@ namespace TaxationApi.Backend.Model.ComputedTaxations
             }
         }
 
-        public decimal YearlyNetIncome
+        public decimal YearlyNetIncomeExcludingWealth
         {
             get
             {
-                return MonthlyNetIncome * 12;
+                return MonthlyNetIncomeExcludingWealth * 12;
             }
         }
 
-        public decimal YearlyTax
+        public decimal YearlyTaxExcludingWealth
         {
             get
             {
-                return MonthlyTax * 12;
+                return MonthlyTaxExcludingWealth * 12;
             }
         }
 
-        public decimal YearlyGrossIncome
+        public decimal YearlyGrossIncomeExcludingWealth
         {
             get
             {
-                return YearlyNetIncome + YearlyTax;
+                return YearlyNetIncomeExcludingWealth + YearlyTaxExcludingWealth;
             }
         }
 
-        public decimal EffectiveTaxPercentage
+        public decimal YearlyTotalTax
         {
             get
             {
-                if (YearlyGrossIncome == 0)
+                return YearlyTaxExcludingWealth + TotalNetworthTax;
+            }
+        }
+
+        public decimal EffectiveIncomeTaxPercentage
+        {
+            get
+            {
+                if (YearlyGrossIncomeExcludingWealth == 0)
                 {
                     return 0;
                 }
 
-                return 1 - YearlyNetIncome / YearlyGrossIncome;
+                return 1 - YearlyNetIncomeExcludingWealth / YearlyGrossIncomeExcludingWealth;
+            }
+        }
+
+
+
+        public decimal EffectiveNetworthTaxPercentage
+        {
+            get
+            {
+                if (TotalNetworth == 0)
+                {
+                    return 0;
+                }
+
+                return 1 - (TotalNetworth - TotalNetworthTax)  / TotalNetworth;
             }
         }
 

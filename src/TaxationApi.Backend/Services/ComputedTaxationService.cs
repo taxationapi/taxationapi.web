@@ -60,7 +60,6 @@ namespace TaxationApi.Backend.Services
                     taxationToAdd.IncomeTaxation = incomeTaxation;
                 }
 
-
                 var wealthTax = taxation.GetWealthTax(request, rate.UsdExchangeRate);
                 if (wealthTax != null)
                 {
@@ -79,9 +78,7 @@ namespace TaxationApi.Backend.Services
                 {
                     taxationToAdd.CapitalGainsTaxation = capitalGainsTax;
                 }
-
-
-
+                
                 computedTaxations.Add(taxationToAdd);
             }
 
