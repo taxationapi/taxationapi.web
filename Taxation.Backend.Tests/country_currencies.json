@@ -1,0 +1,926 @@
+[
+  {
+    "Alpha2": "AS",
+    "Alpha3": "ASM",
+    "CurrencyCode": "USD",
+    "UsdExchangeRate": 1.0
+  },
+  {
+    "Alpha2": "AE",
+    "Alpha3": "ARE",
+    "CurrencyCode": "AED",
+    "UsdExchangeRate": 3.672999
+  },
+  {
+    "Alpha2": "AF",
+    "Alpha3": "AFG",
+    "CurrencyCode": "AFN",
+    "UsdExchangeRate": 88.603568
+  },
+  {
+    "Alpha2": "AL",
+    "Alpha3": "ALB",
+    "CurrencyCode": "ALL",
+    "UsdExchangeRate": 112.909289
+  },
+  {
+    "Alpha2": "AM",
+    "Alpha3": "ARM",
+    "CurrencyCode": "AMD",
+    "UsdExchangeRate": 395.176682
+  },
+  {
+    "Alpha2": "CW",
+    "Alpha3": "CUW",
+    "CurrencyCode": "ANG",
+    "UsdExchangeRate": 1.80077
+  },
+  {
+    "Alpha2": "AO",
+    "Alpha3": "AGO",
+    "CurrencyCode": "AOA",
+    "UsdExchangeRate": 506.207301
+  },
+  {
+    "Alpha2": "AR",
+    "Alpha3": "ARG",
+    "CurrencyCode": "ARS",
+    "UsdExchangeRate": 163.125007
+  },
+  {
+    "Alpha2": "AU",
+    "Alpha3": "AUS",
+    "CurrencyCode": "AUD",
+    "UsdExchangeRate": 1.49697
+  },
+  {
+    "Alpha2": "AW",
+    "Alpha3": "ABW",
+    "CurrencyCode": "AWG",
+    "UsdExchangeRate": 1.8025
+  },
+  {
+    "Alpha2": "AZ",
+    "Alpha3": "AZE",
+    "CurrencyCode": "AZN",
+    "UsdExchangeRate": 1.699323
+  },
+  {
+    "Alpha2": "BA",
+    "Alpha3": "BIH",
+    "CurrencyCode": "BAM",
+    "UsdExchangeRate": 1.88521
+  },
+  {
+    "Alpha2": "BB",
+    "Alpha3": "BRB",
+    "CurrencyCode": "BBD",
+    "UsdExchangeRate": 2.017466
+  },
+  {
+    "Alpha2": "BD",
+    "Alpha3": "BGD",
+    "CurrencyCode": "BDT",
+    "UsdExchangeRate": 102.96955
+  },
+  {
+    "Alpha2": "BG",
+    "Alpha3": "BGR",
+    "CurrencyCode": "BGN",
+    "UsdExchangeRate": 1.886387
+  },
+  {
+    "Alpha2": "BH",
+    "Alpha3": "BHR",
+    "CurrencyCode": "BHD",
+    "UsdExchangeRate": 0.376923
+  },
+  {
+    "Alpha2": "BI",
+    "Alpha3": "BDI",
+    "CurrencyCode": "BIF",
+    "UsdExchangeRate": 2067.75201
+  },
+  {
+    "Alpha2": "BM",
+    "Alpha3": "BMU",
+    "CurrencyCode": "BMD",
+    "UsdExchangeRate": 1.0
+  },
+  {
+    "Alpha2": "BN",
+    "Alpha3": "BRN",
+    "CurrencyCode": "BND",
+    "UsdExchangeRate": 1.371755
+  },
+  {
+    "Alpha2": "BO",
+    "Alpha3": "BOL",
+    "CurrencyCode": "BOB",
+    "UsdExchangeRate": 6.904496
+  },
+  {
+    "Alpha2": "BR",
+    "Alpha3": "BRA",
+    "CurrencyCode": "BRL",
+    "UsdExchangeRate": 5.365201
+  },
+  {
+    "Alpha2": "BS",
+    "Alpha3": "BHS",
+    "CurrencyCode": "BSD",
+    "UsdExchangeRate": 0.9992
+  },
+  {
+    "Alpha2": "BW",
+    "Alpha3": "BWA",
+    "CurrencyCode": "BWP",
+    "UsdExchangeRate": 12.943297
+  },
+  {
+    "Alpha2": "BY",
+    "Alpha3": "BLR",
+    "CurrencyCode": "BYR",
+    "UsdExchangeRate": 19600.0
+  },
+  {
+    "Alpha2": "BZ",
+    "Alpha3": "BLZ",
+    "CurrencyCode": "BZD",
+    "UsdExchangeRate": 2.014092
+  },
+  {
+    "Alpha2": "CA",
+    "Alpha3": "CAN",
+    "CurrencyCode": "CAD",
+    "UsdExchangeRate": 1.339115
+  },
+  {
+    "Alpha2": "CG",
+    "Alpha3": "COG",
+    "CurrencyCode": "CDF",
+    "UsdExchangeRate": 2046.999765
+  },
+  {
+    "Alpha2": "LI",
+    "Alpha3": "LIE",
+    "CurrencyCode": "CHF",
+    "UsdExchangeRate": 0.95373
+  },
+  {
+    "Alpha2": "CL",
+    "Alpha3": "CHL",
+    "CurrencyCode": "CLP",
+    "UsdExchangeRate": 923.801635
+  },
+  {
+    "Alpha2": "CN",
+    "Alpha3": "CHN",
+    "CurrencyCode": "CNY",
+    "UsdExchangeRate": 7.118503
+  },
+  {
+    "Alpha2": "CO",
+    "Alpha3": "COL",
+    "CurrencyCode": "COP",
+    "UsdExchangeRate": 5008.82
+  },
+  {
+    "Alpha2": "CR",
+    "Alpha3": "CRI",
+    "CurrencyCode": "CRC",
+    "UsdExchangeRate": 610.040099
+  },
+  {
+    "Alpha2": "CU",
+    "Alpha3": "CUB",
+    "CurrencyCode": "CUP",
+    "UsdExchangeRate": 26.5
+  },
+  {
+    "Alpha2": "CV",
+    "Alpha3": "CPV",
+    "CurrencyCode": "CVE",
+    "UsdExchangeRate": 106.283616
+  },
+  {
+    "Alpha2": "CZ",
+    "Alpha3": "CZE",
+    "CurrencyCode": "CZK",
+    "UsdExchangeRate": 23.545902
+  },
+  {
+    "Alpha2": "DJ",
+    "Alpha3": "DJI",
+    "CurrencyCode": "DJF",
+    "UsdExchangeRate": 177.876737
+  },
+  {
+    "Alpha2": "DK",
+    "Alpha3": "DNK",
+    "CurrencyCode": "DKK",
+    "UsdExchangeRate": 7.18868
+  },
+  {
+    "Alpha2": "DO",
+    "Alpha3": "DOM",
+    "CurrencyCode": "DOP",
+    "UsdExchangeRate": 54.507249
+  },
+  {
+    "Alpha2": "DZ",
+    "Alpha3": "DZA",
+    "CurrencyCode": "DZD",
+    "UsdExchangeRate": 138.656031
+  },
+  {
+    "Alpha2": "EG",
+    "Alpha3": "EGY",
+    "CurrencyCode": "EGP",
+    "UsdExchangeRate": 24.5245
+  },
+  {
+    "Alpha2": "ER",
+    "Alpha3": "ERI",
+    "CurrencyCode": "ERN",
+    "UsdExchangeRate": 15.0
+  },
+  {
+    "Alpha2": "ET",
+    "Alpha3": "ETH",
+    "CurrencyCode": "ETB",
+    "UsdExchangeRate": 53.37054
+  },
+  {
+    "Alpha2": "EE",
+    "Alpha3": "EST",
+    "CurrencyCode": "EUR",
+    "UsdExchangeRate": 0.966425
+  },
+  {
+    "Alpha2": "FJ",
+    "Alpha3": "FJI",
+    "CurrencyCode": "FJD",
+    "UsdExchangeRate": 2.227197
+  },
+  {
+    "Alpha2": "FK",
+    "Alpha3": "FLK",
+    "CurrencyCode": "FKP",
+    "UsdExchangeRate": 0.846922
+  },
+  {
+    "Alpha2": "GG",
+    "Alpha3": "GGY",
+    "CurrencyCode": "GBP",
+    "UsdExchangeRate": 0.84111
+  },
+  {
+    "Alpha2": "GS",
+    "Alpha3": "SGS",
+    "CurrencyCode": "GEL",
+    "UsdExchangeRate": 2.720069
+  },
+  {
+    "Alpha2": "GH",
+    "Alpha3": "GHA",
+    "CurrencyCode": "GHS",
+    "UsdExchangeRate": 14.488269
+  },
+  {
+    "Alpha2": "GI",
+    "Alpha3": "GIB",
+    "CurrencyCode": "GIP",
+    "UsdExchangeRate": 0.846922
+  },
+  {
+    "Alpha2": "GM",
+    "Alpha3": "GMB",
+    "CurrencyCode": "GMD",
+    "UsdExchangeRate": 61.549764
+  },
+  {
+    "Alpha2": "GN",
+    "Alpha3": "GIN",
+    "CurrencyCode": "GNF",
+    "UsdExchangeRate": 8610.066894
+  },
+  {
+    "Alpha2": "GT",
+    "Alpha3": "GTM",
+    "CurrencyCode": "GTQ",
+    "UsdExchangeRate": 7.801763
+  },
+  {
+    "Alpha2": "GY",
+    "Alpha3": "GUY",
+    "CurrencyCode": "GYD",
+    "UsdExchangeRate": 209.049024
+  },
+  {
+    "Alpha2": "HK",
+    "Alpha3": "HKG",
+    "CurrencyCode": "HKD",
+    "UsdExchangeRate": 7.822635
+  },
+  {
+    "Alpha2": "HN",
+    "Alpha3": "HND",
+    "CurrencyCode": "HNL",
+    "UsdExchangeRate": 24.693476
+  },
+  {
+    "Alpha2": "HR",
+    "Alpha3": "HRV",
+    "CurrencyCode": "HRK",
+    "UsdExchangeRate": 7.275302
+  },
+  {
+    "Alpha2": "HT",
+    "Alpha3": "HTI",
+    "CurrencyCode": "HTG",
+    "UsdExchangeRate": 137.891348
+  },
+  {
+    "Alpha2": "HU",
+    "Alpha3": "HUN",
+    "CurrencyCode": "HUF",
+    "UsdExchangeRate": 393.900993
+  },
+  {
+    "Alpha2": "ID",
+    "Alpha3": "IDN",
+    "CurrencyCode": "IDR",
+    "UsdExchangeRate": 15647.8
+  },
+  {
+    "Alpha2": "IL",
+    "Alpha3": "ISR",
+    "CurrencyCode": "ILS",
+    "UsdExchangeRate": 3.46152
+  },
+  {
+    "Alpha2": "IN",
+    "Alpha3": "IND",
+    "CurrencyCode": "INR",
+    "UsdExchangeRate": 81.614403
+  },
+  {
+    "Alpha2": "IQ",
+    "Alpha3": "IRQ",
+    "CurrencyCode": "IQD",
+    "UsdExchangeRate": 1458.368677
+  },
+  {
+    "Alpha2": "IR",
+    "Alpha3": "IRN",
+    "CurrencyCode": "IRR",
+    "UsdExchangeRate": 42349.999751
+  },
+  {
+    "Alpha2": "IS",
+    "Alpha3": "ISL",
+    "CurrencyCode": "ISK",
+    "UsdExchangeRate": 143.889949
+  },
+  {
+    "Alpha2": "JM",
+    "Alpha3": "JAM",
+    "CurrencyCode": "JMD",
+    "UsdExchangeRate": 153.623342
+  },
+  {
+    "Alpha2": "JO",
+    "Alpha3": "JOR",
+    "CurrencyCode": "JOD",
+    "UsdExchangeRate": 0.708978
+  },
+  {
+    "Alpha2": "JP",
+    "Alpha3": "JPN",
+    "CurrencyCode": "JPY",
+    "UsdExchangeRate": 139.769006
+  },
+  {
+    "Alpha2": "KE",
+    "Alpha3": "KEN",
+    "CurrencyCode": "KES",
+    "UsdExchangeRate": 122.088498
+  },
+  {
+    "Alpha2": "KG",
+    "Alpha3": "KGZ",
+    "CurrencyCode": "KGS",
+    "UsdExchangeRate": 84.443298
+  },
+  {
+    "Alpha2": "KH",
+    "Alpha3": "KHM",
+    "CurrencyCode": "KHR",
+    "UsdExchangeRate": 4136.72116
+  },
+  {
+    "Alpha2": "KM",
+    "Alpha3": "COM",
+    "CurrencyCode": "KMF",
+    "UsdExchangeRate": 475.999944
+  },
+  {
+    "Alpha2": "KP",
+    "Alpha3": "PRK",
+    "CurrencyCode": "KPW",
+    "UsdExchangeRate": 900.019474
+  },
+  {
+    "Alpha2": "KR",
+    "Alpha3": "KOR",
+    "CurrencyCode": "KRW",
+    "UsdExchangeRate": 1340.664982
+  },
+  {
+    "Alpha2": "KW",
+    "Alpha3": "KWT",
+    "CurrencyCode": "KWD",
+    "UsdExchangeRate": 0.30781
+  },
+  {
+    "Alpha2": "KY",
+    "Alpha3": "CYM",
+    "CurrencyCode": "KYD",
+    "UsdExchangeRate": 0.832639
+  },
+  {
+    "Alpha2": "KZ",
+    "Alpha3": "KAZ",
+    "CurrencyCode": "KZT",
+    "UsdExchangeRate": 461.588881
+  },
+  {
+    "Alpha2": "LA",
+    "Alpha3": "LAO",
+    "CurrencyCode": "LAK",
+    "UsdExchangeRate": 17339.316009
+  },
+  {
+    "Alpha2": "LB",
+    "Alpha3": "LBN",
+    "CurrencyCode": "LBP",
+    "UsdExchangeRate": 1510.834362
+  },
+  {
+    "Alpha2": "LK",
+    "Alpha3": "LKA",
+    "CurrencyCode": "LKR",
+    "UsdExchangeRate": 367.214979
+  },
+  {
+    "Alpha2": "LR",
+    "Alpha3": "LBR",
+    "CurrencyCode": "LRD",
+    "UsdExchangeRate": 154.000127
+  },
+  {
+    "Alpha2": "LT",
+    "Alpha3": "LTU",
+    "CurrencyCode": "LTL",
+    "UsdExchangeRate": 2.95274
+  },
+  {
+    "Alpha2": "LY",
+    "Alpha3": "LBY",
+    "CurrencyCode": "LYD",
+    "UsdExchangeRate": 4.888381
+  },
+  {
+    "Alpha2": "EH",
+    "Alpha3": "ESH",
+    "CurrencyCode": "MAD",
+    "UsdExchangeRate": 10.69676
+  },
+  {
+    "Alpha2": "MD",
+    "Alpha3": "MDA",
+    "CurrencyCode": "MDL",
+    "UsdExchangeRate": 19.159763
+  },
+  {
+    "Alpha2": "MG",
+    "Alpha3": "MDG",
+    "CurrencyCode": "MGA",
+    "UsdExchangeRate": 4320.148444
+  },
+  {
+    "Alpha2": "MK",
+    "Alpha3": "MKD",
+    "CurrencyCode": "MKD",
+    "UsdExchangeRate": 59.390242
+  },
+  {
+    "Alpha2": "MM",
+    "Alpha3": "MMR",
+    "CurrencyCode": "MMK",
+    "UsdExchangeRate": 2098.370677
+  },
+  {
+    "Alpha2": "MN",
+    "Alpha3": "MNG",
+    "CurrencyCode": "MNT",
+    "UsdExchangeRate": 3416.20023
+  },
+  {
+    "Alpha2": "MO",
+    "Alpha3": "MAC",
+    "CurrencyCode": "MOP",
+    "UsdExchangeRate": 8.05051
+  },
+  {
+    "Alpha2": "MR",
+    "Alpha3": "MRT",
+    "CurrencyCode": "MRO",
+    "UsdExchangeRate": 356.999828
+  },
+  {
+    "Alpha2": "MU",
+    "Alpha3": "MUS",
+    "CurrencyCode": "MUR",
+    "UsdExchangeRate": 43.704123
+  },
+  {
+    "Alpha2": "MV",
+    "Alpha3": "MDV",
+    "CurrencyCode": "MVR",
+    "UsdExchangeRate": 15.415023
+  },
+  {
+    "Alpha2": "MW",
+    "Alpha3": "MWI",
+    "CurrencyCode": "MWK",
+    "UsdExchangeRate": 1025.573998
+  },
+  {
+    "Alpha2": "MX",
+    "Alpha3": "MEX",
+    "CurrencyCode": "MXN",
+    "UsdExchangeRate": 19.455101
+  },
+  {
+    "Alpha2": "MY",
+    "Alpha3": "MYS",
+    "CurrencyCode": "MYR",
+    "UsdExchangeRate": 4.553805
+  },
+  {
+    "Alpha2": "MZ",
+    "Alpha3": "MOZ",
+    "CurrencyCode": "MZN",
+    "UsdExchangeRate": 63.829551
+  },
+  {
+    "Alpha2": "NG",
+    "Alpha3": "NGA",
+    "CurrencyCode": "NGN",
+    "UsdExchangeRate": 442.66016
+  },
+  {
+    "Alpha2": "NI",
+    "Alpha3": "NIC",
+    "CurrencyCode": "NIO",
+    "UsdExchangeRate": 35.965724
+  },
+  {
+    "Alpha2": "NO",
+    "Alpha3": "NOR",
+    "CurrencyCode": "NOK",
+    "UsdExchangeRate": 10.17243
+  },
+  {
+    "Alpha2": "NP",
+    "Alpha3": "NPL",
+    "CurrencyCode": "NPR",
+    "UsdExchangeRate": 130.57715
+  },
+  {
+    "Alpha2": "NU",
+    "Alpha3": "NIU",
+    "CurrencyCode": "NZD",
+    "UsdExchangeRate": 1.62323
+  },
+  {
+    "Alpha2": "OM",
+    "Alpha3": "OMN",
+    "CurrencyCode": "OMR",
+    "UsdExchangeRate": 0.385065
+  },
+  {
+    "Alpha2": "PA",
+    "Alpha3": "PAN",
+    "CurrencyCode": "PAB",
+    "UsdExchangeRate": 0.99919
+  },
+  {
+    "Alpha2": "PE",
+    "Alpha3": "PER",
+    "CurrencyCode": "PEN",
+    "UsdExchangeRate": 3.80834
+  },
+  {
+    "Alpha2": "PG",
+    "Alpha3": "PNG",
+    "CurrencyCode": "PGK",
+    "UsdExchangeRate": 3.520782
+  },
+  {
+    "Alpha2": "PH",
+    "Alpha3": "PHL",
+    "CurrencyCode": "PHP",
+    "UsdExchangeRate": 57.270502
+  },
+  {
+    "Alpha2": "PK",
+    "Alpha3": "PAK",
+    "CurrencyCode": "PKR",
+    "UsdExchangeRate": 223.951129
+  },
+  {
+    "Alpha2": "PL",
+    "Alpha3": "POL",
+    "CurrencyCode": "PLN",
+    "UsdExchangeRate": 4.55115
+  },
+  {
+    "Alpha2": "PY",
+    "Alpha3": "PRY",
+    "CurrencyCode": "PYG",
+    "UsdExchangeRate": 7164.944479
+  },
+  {
+    "Alpha2": "QA",
+    "Alpha3": "QAT",
+    "CurrencyCode": "QAR",
+    "UsdExchangeRate": 3.640504
+  },
+  {
+    "Alpha2": "RO",
+    "Alpha3": "ROU",
+    "CurrencyCode": "RON",
+    "UsdExchangeRate": 4.7737
+  },
+  {
+    "Alpha2": "RS",
+    "Alpha3": "SRB",
+    "CurrencyCode": "RSD",
+    "UsdExchangeRate": 113.36005
+  },
+  {
+    "Alpha2": "RU",
+    "Alpha3": "RUS",
+    "CurrencyCode": "RUB",
+    "UsdExchangeRate": 60.750325
+  },
+  {
+    "Alpha2": "RW",
+    "Alpha3": "RWA",
+    "CurrencyCode": "RWF",
+    "UsdExchangeRate": 1079.472944
+  },
+  {
+    "Alpha2": "SA",
+    "Alpha3": "SAU",
+    "CurrencyCode": "SAR",
+    "UsdExchangeRate": 3.758133
+  },
+  {
+    "Alpha2": "SB",
+    "Alpha3": "SLB",
+    "CurrencyCode": "SBD",
+    "UsdExchangeRate": 8.230592
+  },
+  {
+    "Alpha2": "SC",
+    "Alpha3": "SYC",
+    "CurrencyCode": "SCR",
+    "UsdExchangeRate": 12.821479
+  },
+  {
+    "Alpha2": "SS",
+    "Alpha3": "SSD",
+    "CurrencyCode": "SDG",
+    "UsdExchangeRate": 568.499915
+  },
+  {
+    "Alpha2": "SE",
+    "Alpha3": "SWE",
+    "CurrencyCode": "SEK",
+    "UsdExchangeRate": 10.606335
+  },
+  {
+    "Alpha2": "SG",
+    "Alpha3": "SGP",
+    "CurrencyCode": "SGD",
+    "UsdExchangeRate": 1.373525
+  },
+  {
+    "Alpha2": "SH",
+    "Alpha3": "SHN",
+    "CurrencyCode": "SHP",
+    "UsdExchangeRate": 1.377398
+  },
+  {
+    "Alpha2": "SL",
+    "Alpha3": "SLE",
+    "CurrencyCode": "SLL",
+    "UsdExchangeRate": 18025.000089
+  },
+  {
+    "Alpha2": "SO",
+    "Alpha3": "SOM",
+    "CurrencyCode": "SOS",
+    "UsdExchangeRate": 568.499033
+  },
+  {
+    "Alpha2": "SR",
+    "Alpha3": "SUR",
+    "CurrencyCode": "SRD",
+    "UsdExchangeRate": 30.640499
+  },
+  {
+    "Alpha2": "ST",
+    "Alpha3": "STP",
+    "CurrencyCode": "STD",
+    "UsdExchangeRate": 20697.981008
+  },
+  {
+    "Alpha2": "SY",
+    "Alpha3": "SYR",
+    "CurrencyCode": "SYP",
+    "UsdExchangeRate": 2512.538826
+  },
+  {
+    "Alpha2": "SZ",
+    "Alpha3": "SWZ",
+    "CurrencyCode": "SZL",
+    "UsdExchangeRate": 17.283711
+  },
+  {
+    "Alpha2": "TH",
+    "Alpha3": "THA",
+    "CurrencyCode": "THB",
+    "UsdExchangeRate": 35.820332
+  },
+  {
+    "Alpha2": "TJ",
+    "Alpha3": "TJK",
+    "CurrencyCode": "TJS",
+    "UsdExchangeRate": 10.198947
+  },
+  {
+    "Alpha2": "TM",
+    "Alpha3": "TKM",
+    "CurrencyCode": "TMT",
+    "UsdExchangeRate": 3.51
+  },
+  {
+    "Alpha2": "TN",
+    "Alpha3": "TUN",
+    "CurrencyCode": "TND",
+    "UsdExchangeRate": 3.1645
+  },
+  {
+    "Alpha2": "TO",
+    "Alpha3": "TON",
+    "CurrencyCode": "TOP",
+    "UsdExchangeRate": 2.37235
+  },
+  {
+    "Alpha2": "TR",
+    "Alpha3": "TUR",
+    "CurrencyCode": "TRY",
+    "UsdExchangeRate": 18.618099
+  },
+  {
+    "Alpha2": "TT",
+    "Alpha3": "TTO",
+    "CurrencyCode": "TTD",
+    "UsdExchangeRate": 6.782272
+  },
+  {
+    "Alpha2": "TW",
+    "Alpha3": "TWN",
+    "CurrencyCode": "TWD",
+    "UsdExchangeRate": 31.145495
+  },
+  {
+    "Alpha2": "TZ",
+    "Alpha3": "TZA",
+    "CurrencyCode": "TZS",
+    "UsdExchangeRate": 2331.999642
+  },
+  {
+    "Alpha2": "UA",
+    "Alpha3": "UKR",
+    "CurrencyCode": "UAH",
+    "UsdExchangeRate": 36.902776
+  },
+  {
+    "Alpha2": "UG",
+    "Alpha3": "UGA",
+    "CurrencyCode": "UGX",
+    "UsdExchangeRate": 3731.999306
+  },
+  {
+    "Alpha2": "UY",
+    "Alpha3": "URY",
+    "CurrencyCode": "UYU",
+    "UsdExchangeRate": 39.757869
+  },
+  {
+    "Alpha2": "UZ",
+    "Alpha3": "UZB",
+    "CurrencyCode": "UZS",
+    "UsdExchangeRate": 11202.562026
+  },
+  {
+    "Alpha2": "VE",
+    "Alpha3": "VEN",
+    "CurrencyCode": "VEF",
+    "UsdExchangeRate": 953888.462194
+  },
+  {
+    "Alpha2": "VN",
+    "Alpha3": "VNM",
+    "CurrencyCode": "VND",
+    "UsdExchangeRate": 24807.5
+  },
+  {
+    "Alpha2": "VU",
+    "Alpha3": "VUT",
+    "CurrencyCode": "VUV",
+    "UsdExchangeRate": 118.973854
+  },
+  {
+    "Alpha2": "WS",
+    "Alpha3": "WSM",
+    "CurrencyCode": "WST",
+    "UsdExchangeRate": 2.749323
+  },
+  {
+    "Alpha2": "GQ",
+    "Alpha3": "GNQ",
+    "CurrencyCode": "XAF",
+    "UsdExchangeRate": 632.287324
+  },
+  {
+    "Alpha2": "DM",
+    "Alpha3": "DMA",
+    "CurrencyCode": "XCD",
+    "UsdExchangeRate": 2.70255
+  },
+  {
+    "Alpha2": "ML",
+    "Alpha3": "MLI",
+    "CurrencyCode": "XOF",
+    "UsdExchangeRate": 632.272088
+  },
+  {
+    "Alpha2": "PF",
+    "Alpha3": "PYF",
+    "CurrencyCode": "XPF",
+    "UsdExchangeRate": 115.650325
+  },
+  {
+    "Alpha2": "YE",
+    "Alpha3": "YEM",
+    "CurrencyCode": "YER",
+    "UsdExchangeRate": 250.275039
+  },
+  {
+    "Alpha2": "ZA",
+    "Alpha3": "ZAF",
+    "CurrencyCode": "ZAR",
+    "UsdExchangeRate": 17.285803
+  },
+  {
+    "Alpha2": "NA",
+    "Alpha3": "NAM",
+    "CurrencyCode": "NAD",
+    "UsdExchangeRate": 17.370136
+  },
+  {
+    "Alpha2": "ZM",
+    "Alpha3": "ZMB",
+    "CurrencyCode": "ZMK",
+    "UsdExchangeRate": 9001.198562
+  },
+  {
+    "Alpha2": "ZW",
+    "Alpha3": "ZWE",
+    "CurrencyCode": "ZWL",
+    "UsdExchangeRate": 321.999592
+  },
+  {
+    "Alpha2": "LS",
+    "Alpha3": "LSO",
+    "CurrencyCode": "LSL",
+    "UsdExchangeRate": 17.370478
+  }
+]
